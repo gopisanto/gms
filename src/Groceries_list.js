@@ -29,7 +29,7 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-const GroceriesList = () => {
+const GroceriesList = ({filter}) => {
   const classes = useStyles();
 
   React.useEffect(() => {
@@ -45,22 +45,28 @@ const GroceriesList = () => {
         <TableHead>
           <TableRow>
             <TableCell>BRAND</TableCell>
-            <TableCell align="right">ITEM</TableCell>
-            <TableCell align="right">UNIT WEIGHT</TableCell>
+            <TableCell>ITEM</TableCell>
+            <TableCell align="right"><label className="bld">UNIT WEIGHT</label></TableCell>
             <TableCell align="right">UNIT PRICE</TableCell>
             <TableCell align="right">AVAILABLE</TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
-          {groceries.groceries.map((row, index) => (
+          {groceries.groceries.filter(grocery => {
+              const brand = grocery.brand.toLowerCase().trim();
+              const item = grocery.item.toLowerCase().trim();
+              const term = filter.toLowerCase().trim();
+
+              return brand.indexOf(term) !== -1 || item.indexOf(term) !== -1;
+          }).map((row, index) => (
             <TableRow key={index}>
               <TableCell component="th" scope="row">
-                {row.brand}
+                {row.brand.toUpperCase()}
               </TableCell>
-              <TableCell align="right">{row.item}</TableCell>
+              <TableCell>{row.item.toUpperCase()}</TableCell>
               <TableCell align="right">{row.unitWeight}</TableCell>
               <TableCell align="right">{row.unitPrice}</TableCell>
-              <TableCell align="right">
+              <TableCell align="center">
                 {
                   row.available
                     ? <Icon className={clsx(classes.icon, 'fas fa-check')} />
