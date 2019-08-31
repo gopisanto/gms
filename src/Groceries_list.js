@@ -16,7 +16,8 @@ import groceries from './groceries.json';
 const useStyles = makeStyles(theme => ({
   root: {
     width: '80%',
-    margin: '20px auto'
+    margin: '20px auto',
+    overflowX: 'auto'
   },
   head: {
     backgroundColor: 'black',
