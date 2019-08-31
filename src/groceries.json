@@ -1,0 +1,32 @@
+{
+    "groceries": [
+        {
+            "brand": "TRS",
+            "item": "TOOR DAL",
+            "unitWeight": "1 Kg",
+            "unitPrice": 5,
+            "available": true
+        },
+        {
+            "brand": "TRS",
+            "item": "URID DAL",
+            "unitWeight": "1 Kg",
+            "unitPrice": 5,
+            "available": false
+        },
+        {
+            "brand": "TRS",
+            "item": "CHANNA DAL",
+            "unitWeight": "1 Kg",
+            "unitPrice": 5,
+            "available": true
+        },
+        {
+            "brand": "TRS",
+            "item": "MOONG DAL",
+            "unitWeight": "1 Kg",
+            "unitPrice": 5,
+            "available": true
+        }
+    ]
+}
