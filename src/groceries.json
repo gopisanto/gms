@@ -85,7 +85,7 @@
             "unitWeight": "454 gms",
             "unitPrice": 2,
             "available": true,
-            "categoryCode"5:
+            "categoryCode": 5
 
         },
         {
@@ -438,47 +438,6 @@
             "available": true,
             "categoryCode":3
 
-        },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        }
     ]
 }
