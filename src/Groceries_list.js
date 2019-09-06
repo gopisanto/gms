@@ -9,25 +9,48 @@ import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 import { loadCSS } from 'fg-loadcss';
 import clsx from 'clsx';
-import Icon from '@material-ui/core/Icon';
+// import Icon from '@material-ui/core/Icon';
+import DoneIcon from '@material-ui/icons/Done';
+import ClearIcon from '@material-ui/icons/Clear';
+import { withStyles } from '@material-ui/core/styles';
 
 import groceries from './groceries.json';
+import When from './When';
 
 const useStyles = makeStyles(theme => ({
   root: {
-    width: '80%',
+    width: '90%',
     margin: '20px auto',
     overflowX: 'auto'
   },
   head: {
-    backgroundColor: 'black',
-    color: 'white',
-    fontWeight: 'bold'
+    backgroundColor: theme.palette.common.black,
+    color: theme.palette.common.white,
   },
   table: {
-    minWidth: 650,
+    minWidth: 370,
   },
 }));
+
+const isMobile = window.innerWidth < 600;
+
+const formatCurrency = money => new Intl.NumberFormat('de-DE', 
+  { style: 'currency', currency: 'EUR' }
+  ).format(money);
+
+const tableHeaders = isMobile
+  ? [{label: 'item', align: 'left'}, {label: 'price / weight', align: 'right'}, {label: 'in stock', align: 'center'}]
+  : [{label: 'brand', align: 'left'}, {label: 'item', align: 'left'}, {label: 'weight', align: 'right'}, {label: 'price', align: 'right'}, {label: 'in stock', align: 'right'}]
+
+const StyledTableCell = withStyles(theme => ({
+  head: {
+    backgroundColor: theme.palette.common.black,
+    color: theme.palette.common.white,
+  },
+  body: {
+    fontSize: 14,
+  },
+}))(TableCell);
 
 const GroceriesList = ({filter}) => {
   const classes = useStyles();
@@ -39,16 +62,16 @@ const GroceriesList = ({filter}) => {
     );
   }, []);
 
+  const isAvailable = flag => flag
+  ? <DoneIcon />
+  : <ClearIcon />;
+
   return (
     <Paper className={classes.root}>
       <Table className={classes.table}>
         <TableHead>
           <TableRow>
-            <TableCell>BRAND</TableCell>
-            <TableCell>ITEM</TableCell>
-            <TableCell align="right"><label className="bld">UNIT WEIGHT</label></TableCell>
-            <TableCell align="right">UNIT PRICE</TableCell>
-            <TableCell align="right">AVAILABLE</TableCell>
+            {tableHeaders.map(header => <StyledTableCell align={header.align}>{header.label.toUpperCase()}</StyledTableCell>)}
           </TableRow>
         </TableHead>
         <TableBody>
@@ -59,20 +82,20 @@ const GroceriesList = ({filter}) => {
 
               return brand.indexOf(term) !== -1 || item.indexOf(term) !== -1;
           }).map((row, index) => (
-            <TableRow key={index}>
+            <TableRow key={index} className={index % 2 !== 0 ? 'odd' : ''}>
               <TableCell component="th" scope="row">
-                {row.brand.toUpperCase()}
+                {!isMobile ? row.brand.toUpperCase() : `${row.brand.toUpperCase()} ${row.item.toUpperCase()}`}
               </TableCell>
-              <TableCell>{row.item.toUpperCase()}</TableCell>
-              <TableCell align="right">{row.unitWeight}</TableCell>
-              <TableCell align="right">{row.unitPrice}</TableCell>
-              <TableCell align="center">
-                {
-                  row.available
-                    ? <Icon className={clsx(classes.icon, 'fas fa-check')} />
-                    : <Icon className={clsx(classes.icon, 'fas fa-times')} />
-                }
+              <TableCell align={!isMobile ? 'left' : 'right'}>
+                {!isMobile ? row.item.toUpperCase() : `${formatCurrency(row.unitPrice)} / ${row.unitWeight}`}
               </TableCell>
+              <TableCell align="right">{!isMobile ? row.unitWeight : isAvailable(row.available)}</TableCell>
+              <When guard={!isMobile}>
+                <TableCell align="right">{formatCurrency(row.unitPrice)}</TableCell>
+                <TableCell align="center">
+                  {isAvailable(row.available)}
+                </TableCell>
+              </When>
             </TableRow>
           ))}
         </TableBody>
