@@ -71,6 +71,22 @@
 
         },
         {
+            "brand": "amratsari",
+            "item": "chapathi atta",
+            "unitWeight": "5 Kg",
+            "unitPrice": 5,
+            "available": true,
+            "categoryCode": 3
+        },
+        {
+            "brand": "amratsari",
+            "item": "chapathi atta",
+            "unitWeight": "10 Kg",
+            "unitPrice": 9.60,
+            "available": true,
+            "categoryCode": 3
+        },
+        {
             "brand": "heera",
             "item": "mung dal",
             "unitWeight": "2 kg",

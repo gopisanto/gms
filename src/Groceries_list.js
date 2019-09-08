@@ -8,8 +8,6 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 import { loadCSS } from 'fg-loadcss';
-import clsx from 'clsx';
-// import Icon from '@material-ui/core/Icon';
 import DoneIcon from '@material-ui/icons/Done';
 import ClearIcon from '@material-ui/icons/Clear';
 import { withStyles } from '@material-ui/core/styles';
@@ -71,7 +69,7 @@ const GroceriesList = ({filter}) => {
       <Table className={classes.table}>
         <TableHead>
           <TableRow>
-            {tableHeaders.map(header => <StyledTableCell align={header.align}>{header.label.toUpperCase()}</StyledTableCell>)}
+            {tableHeaders.map((header, index) => <StyledTableCell key={index} align={header.align}>{header.label.toUpperCase()}</StyledTableCell>)}
           </TableRow>
         </TableHead>
         <TableBody>
