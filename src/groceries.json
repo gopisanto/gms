@@ -369,7 +369,7 @@
         },
         {
             "brand": "natco",
-            "item": "soya chunks/ meal maker",
+            "item": "soya chunks/ meal maker (medium)",
             "unitWeight": "350 g",
             "unitPrice": 2,
             "available": true,
@@ -379,7 +379,7 @@
         
         {
             "brand": "annam",
-            "item": "soya chunks",
+            "item": "soya chunks (small)",
             "unitWeight": "500 g",
             "unitPrice": 2.5,
             "available": true,
