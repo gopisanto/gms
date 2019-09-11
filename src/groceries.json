@@ -44,6 +44,25 @@
 
         },
         {
+            "brand": "natco",
+            "item": "brown basmathi rice",
+            "unitWeight": "2 kg",
+            "unitPrice": 10,
+            "available": true,
+            "categoryCode":2
+
+        },
+        
+        {
+            "brand": "annam",
+            "item": "idly rice",
+            "unitWeight": "5 kg",
+            "unitPrice": 9.60,
+            "available": true,
+            "categoryCode":2
+
+        },
+        {
             "brand": "aashirwaad",
             "item": "chapathi atta",
             "unitWeight": "1 kg",
@@ -122,11 +141,51 @@
             "categoryCode":4
 
         },
+        
+        {
+            "brand": "khalis",
+            "item": "chana dal",
+            "unitWeight": "1 kg",
+            "unitPrice": 2.5,
+            "available": true,
+            "categoryCode":4
+
+        },
         {
             "brand": "trs",
             "item": "red kidney beans",
             "unitWeight": "2 kg",
             "unitPrice": 5.5,
+            "available": true,
+            "categoryCode":4
+
+        },
+        
+        {
+            "brand": "trs",
+            "item": "chick peas",
+            "unitWeight": "2 kg",
+            "unitPrice": 5,
+            "available": true,
+            "categoryCode":4
+
+        },
+        
+        {
+            "brand": "trs",
+            "item": "black eye beans",
+            "unitWeight": "2 kg",
+            "unitPrice": 5.5,
+            "available": true,
+            "categoryCode":4
+
+        },
+        
+        {
+            "brand": "trs",
+            "item": "mung whole (mung beans green)",
+            "unitWeight": "2 kg",
+            "unitPrice": 5,
             "available": true,
             "categoryCode":4
 
@@ -158,11 +217,40 @@
             "categoryCode":3
 
         },
+        
+        {
+            "brand": "trs",
+            "item": "gram flour",
+            "unitWeight": "2 kg",
+            "unitPrice": 3.6,
+            "available": true,
+            "categoryCode":3
+
+        },
         {
             "brand": "trs",
             "item": "juwar flour",
             "unitWeight": "1 kg",
             "unitPrice": 2,
+            "available": true,
+            "categoryCode":3
+
+        },
+         {
+            "brand": "annam",
+            "item": "ragi flour",
+            "unitWeight": "1 kg",
+            "unitPrice": 2.5,
+            "available": true,
+            "categoryCode":3
+
+        }
+        
+        {
+            "brand": "trs",
+            "item": "corn meal coarse",
+            "unitWeight": "1.5 kg",
+            "unitPrice": 3.2,
             "available": true,
             "categoryCode":3
 
@@ -212,6 +300,26 @@
             "categoryCode":7
 
         },
+        
+        {
+            "brand": "lijjat",
+            "item": "punjabi masala papadom gross",
+            "unitWeight": "200 g",
+            "unitPrice": 1.4,
+            "available": true,
+            "categoryCode":7
+
+        },
+        
+        {
+            "brand": "lijjat",
+            "item": "jeera papadom gross",
+            "unitWeight": "200 g",
+            "unitPrice": 1.4,
+            "available": true,
+            "categoryCode":7
+
+        },
         {
             "brand": "trs",
             "item": "dhaniya powder",
@@ -230,11 +338,51 @@
             "categoryCode":3
 
         },
+        
+        {
+            "brand": "mtr",
+            "item": "sambar powder",
+            "unitWeight": "200 g",
+            "unitPrice": 2,
+            "available": true,
+            "categoryCode":3
+
+        },
+        
+        {
+            "brand": "gits",
+            "item": "gulab jamun mix",
+            "unitWeight": "500 g",
+            "unitPrice": 4.2,
+            "available": true,
+            "categoryCode":7
+
+        },
+        
+        {
+            "brand": "trs",
+            "item": "tapioca (sabudana)",
+            "unitWeight": "500 g",
+            "unitPrice": 1.5,
+            "available": true,
+            "categoryCode":7
+
+        },
         {
             "brand": "natco",
             "item": "soya chunks/ meal maker",
             "unitWeight": "350 g",
             "unitPrice": 2,
+            "available": true,
+            "categoryCode":4
+
+        },
+        
+        {
+            "brand": "annam",
+            "item": "soya chunks",
+            "unitWeight": "500 g",
+            "unitPrice": 2.5,
             "available": true,
             "categoryCode":4
 
@@ -248,15 +396,16 @@
             "categoryCode":2
 
         },
-        {
-            "brand": "natco",
-            "item": "brown basmathi rice",
-            "unitWeight": "2 kg",
-            "unitPrice": 10,
+         {
+            "brand": "annam",
+            "item": "vermicelli / semiya (roasted)",
+            "unitWeight": "500 g",
+            "unitPrice": 2.6,
             "available": true,
-            "categoryCode":2
+            "categoryCode":4
 
-        },
+        }
+       
         {
             "brand": "trs",
             "item": "mustard seeds",
@@ -455,5 +604,42 @@
             "categoryCode":3
 
         }
+         {
+            "brand": "parachute",
+            "item": "coconut oil",
+            "unitWeight": "500ml",
+            "unitPrice": 4.7,
+            "available": true,
+            "categoryCode":11
+
+        }
+         {
+            "brand": "trs",
+            "item": "mustard oil",
+            "unitWeight": "1 l",
+            "unitPrice": 4.8,
+            "available": true,
+            "categoryCode":11
+
+        }
+         {
+            "brand": "samaara",
+            "item": "premium tea powder",
+            "unitWeight": "500 g",
+            "unitPrice": 6.5,
+            "available": true,
+            "categoryCode":11
+
+        }
+         {
+            "brand": "dairy valley",
+            "item": "paneer",
+            "unitWeight": "265 g",
+            "unitPrice": 2.5,
+            "available": true,
+            "categoryCode":9
+
+        }
+        
     ]
 }
