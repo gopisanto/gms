@@ -403,9 +403,8 @@
             "available": true,
             "categoryCode":4
 
-        }
-       
-        {
+        },
+       {
             "brand": "trs",
             "item": "mustard seeds",
             "unitWeight": "400 g",
@@ -602,7 +601,7 @@
             "available": true,
             "categoryCode":3
 
-        }
+        },
          {
             "brand": "parachute",
             "item": "coconut oil",
@@ -611,7 +610,7 @@
             "available": true,
             "categoryCode":11
 
-        }
+        },
          {
             "brand": "trs",
             "item": "mustard oil",
@@ -620,7 +619,7 @@
             "available": true,
             "categoryCode":11
 
-        }
+        },
          {
             "brand": "samaara",
             "item": "premium tea powder",
@@ -629,7 +628,7 @@
             "available": true,
             "categoryCode":11
 
-        }
+        },
          {
             "brand": "dairy valley",
             "item": "paneer",
