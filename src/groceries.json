@@ -632,8 +632,8 @@
          {
             "brand": "dairy valley",
             "item": "paneer",
-            "unitWeight": "265 g",
-            "unitPrice": 2.5,
+            "unitWeight": "1 kg",
+            "unitPrice": 8.5,
             "available": true,
             "categoryCode":9
 
