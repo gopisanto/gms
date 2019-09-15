@@ -11,7 +11,7 @@
          {
             "brand": "",
             "item": "coconut with tail",
-            "unitWeight": "",
+            "unitWeight": "1",
             "unitPrice": 3,
             "available": true,
             "categoryCode": 1
