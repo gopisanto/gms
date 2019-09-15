@@ -8,6 +8,15 @@
             "available": true,
             "categoryCode": 1
         },
+         {
+            "brand": "",
+            "item": "coconut with tail",
+            "unitWeight": "",
+            "unitPrice": 3,
+            "available": true,
+            "categoryCode": 1
+        },
+
         {
             "brand": "sher-e punjab",
             "item": "organic basmathi rice",
