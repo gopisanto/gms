@@ -69,6 +69,15 @@
             "categoryCode":2
 
         },
+        {
+            "brand": "annam",
+            "item": "sona masuri brown rice",
+            "unitWeight": "5 kg",
+            "unitPrice": 10.5,
+            "available": true,
+            "categoryCode":2
+
+        },
         
         {
             "brand": "annam",
