@@ -405,8 +405,8 @@
         {
             "brand": "gits",
             "item": "gulab jamun mix",
-            "unitWeight": "500 g",
-            "unitPrice": 4.2,
+            "unitWeight": "200 g",
+            "unitPrice": 2.5,
             "available": true,
             "categoryCode":7
 
