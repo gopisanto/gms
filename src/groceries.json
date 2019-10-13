@@ -572,6 +572,16 @@
 
         },
         {
+            "brand": "natco",
+            "item": "garam masala",
+            "unitWeight": "400 g",
+            "unitPrice": 3.5,
+            "available": true,
+            "categoryCode":7
+
+        },
+        
+        {
             "brand": "trs",
             "item": "sesame seeds",
             "unitWeight": "1 kg",
@@ -635,6 +645,16 @@
             "categoryCode":7
 
         },
+        {
+            "brand": "trs",
+            "item": "dried coconut",
+            "unitWeight": "250 g",
+            "unitPrice": ,
+            "available": true,
+            "categoryCode":7
+
+        },
+        
         {
             "brand": "natco",
             "item": "jaggery goor",
