@@ -70,6 +70,16 @@
 
         },
         {
+            "brand": "annam",
+            "item": "sona masoori rice",
+            "unitWeight": "5 kg",
+            "unitPrice": 9.6,
+            "available": true,
+            "categoryCode":2
+
+        },
+        
+        {
             "brand": "natco",
             "item": "brown basmathi rice",
             "unitWeight": "2 kg",
@@ -82,7 +92,7 @@
             "brand": "annam",
             "item": "sona masuri brown rice",
             "unitWeight": "5 kg",
-            "unitPrice": 10.5,
+            "unitPrice": 10.3,
             "available": true,
             "categoryCode":2
 
@@ -117,6 +127,16 @@
         },
         {
             "brand": "aashirwaad",
+            "item": "multigrain atta export pack",
+            "unitWeight": "5 kg",
+            "unitPrice": 9.6,
+            "available": true,
+            "categoryCode":3
+
+        },
+        
+        {
+            "brand": "aashirwaad",
             "item": "chapathi atta",
             "unitWeight": "5 kg",
             "unitPrice": 5.5,
@@ -124,6 +144,16 @@
             "categoryCode":3
 
         },
+        {
+            "brand": "patanjali",
+            "item": "chapathi atta",
+            "unitWeight": "5 kg",
+            "unitPrice": 5.2,
+            "available": true,
+            "categoryCode":3
+
+        },
+        
         {
             "brand": "amratsari",
             "item": "chapathi atta",
@@ -186,6 +216,16 @@
             "categoryCode":4
 
         },
+        {
+            "brand": "natco",
+            "item": "chana dal",
+            "unitWeight": "500 g",
+            "unitPrice": 1.3,
+            "available": true,
+            "categoryCode":2
+
+        },
+        
         {
             "brand": "trs",
             "item": "red kidney beans",
@@ -451,7 +491,7 @@
         },
         {
             "brand": "heera",
-            "item": "mamra",
+            "item": "marma / puffed rice",
             "unitWeight": "400 g",
             "unitPrice": 3.8,
             "available": true,
@@ -487,7 +527,7 @@
         },
         {
             "brand": "trs",
-            "item": "jeera whole",
+            "item": "cumin seeds / jeera whole",
             "unitWeight": "100 g",
             "unitPrice": 1,
             "available": true,
@@ -521,6 +561,16 @@
             "categoryCode":7
 
         },
+        {
+            "brand": "trs",
+            "item": "sesame seeds",
+            "unitWeight": "300 g",
+            "unitPrice": 2.2,
+            "available": true,
+            "categoryCode":7
+
+        },
+        
         {
             "brand": "annam",
             "item": "roasted chana",
@@ -575,6 +625,16 @@
             "categoryCode":5
 
         },
+        {
+            "brand": "pooja",
+            "item": "desi jaggery goor",
+            "unitWeight": "1 kg",
+            "unitPrice": 3.3,
+            "available": true,
+            "categoryCode":5
+
+        },
+        
         {
             "brand": "natco",
             "item": "butter ghee",
@@ -668,7 +728,7 @@
         },
         {
             "brand": "haldirams",
-            "item": "aloo bhujia",
+            "item": "aloo bhujia / plain bhujia / kashmiri mixture/ all in one / shahi mixture",
             "unitWeight": "200 g",
             "unitPrice": 1.5,
             "available": true,
