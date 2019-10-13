@@ -78,6 +78,16 @@
             "categoryCode":2
 
         },
+        {
+            "brand": "annam",
+            "item": "ponni boiled rice",
+            "unitWeight": "5 kg",
+            "unitPrice": 9.7,
+            "available": true,
+            "categoryCode":2
+
+        },
+        
         
         {
             "brand": "natco",
