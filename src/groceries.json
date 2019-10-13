@@ -403,6 +403,15 @@
             "categoryCode":7
 
         },
+        {
+            "brand": "wekefield bicarbonate",
+            "item": "soda",
+            "unitWeight": "100 g",
+            "unitPrice": 1,
+            "available": true,
+            "categoryCode":7
+
+        },
         
         {
             "brand": "lijjat",
