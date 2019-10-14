@@ -730,6 +730,15 @@
 
         },
         {
+            "brand": "home made",
+            "item": "ginger / garlic paste",
+            "unitWeight": "500 g",
+            "unitPrice": 4,
+            "available": true,
+            "categoryCode":9
+
+        },
+        {
             "brand": "",
             "item": "fresh green chilli",
             "unitWeight": "100 g",
