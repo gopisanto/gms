@@ -230,7 +230,7 @@
             "unitWeight": "500 g",
             "unitPrice": 1.3,
             "available": true,
-            "categoryCode": 2
+            "categoryCode": 4
         },
         {
             "brand": "trs",
@@ -280,6 +280,15 @@
             "available": true,
             "categoryCode": 4
         },
+         {
+            "brand": "natco",
+            "item": "red lentils / masoor dal",
+            "unitWeight": "500 g",
+            "unitPrice": 1.5,
+            "available": true,
+            "categoryCode": 4
+        },
+        
         {
             "brand": "trs",
             "item": "chilli whole red long",
@@ -336,6 +345,15 @@
             "available": true,
             "categoryCode": 3
         },
+         {
+            "brand": "trs",
+            "item": "coconut powder",
+            "unitWeight": "300 g",
+            "unitPrice": 1.9,
+            "available": true,
+            "categoryCode": 3
+        },
+        
         {
             "brand": "annam",
             "item": "idly rawa",
@@ -392,6 +410,15 @@
             "available": true,
             "categoryCode": 7
         },
+         {
+            "brand": "trs",
+            "item": "ajwain",
+            "unitWeight": "100 g",
+            "unitPrice": 1,
+            "available": true,
+            "categoryCode": 7
+        },
+        
         {
             "brand": "wekefield bicarbonate",
             "item": "soda",
