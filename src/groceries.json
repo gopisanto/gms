@@ -32,6 +32,14 @@
             "available": true,
             "categoryCode": 1
         },
+         {
+            "brand": "Handmade",
+            "item": "karthika poornima Vathulu/cotton wicks",
+            "unitWeight": "366 pc",
+            "unitPrice": 4.5,
+            "available": true,
+            "categoryCode": 1
+        },
         {
             "brand": "sher-e punjab",
             "item": "organic basmathi rice",
@@ -169,6 +177,14 @@
             "categoryCode": 4
         },
         {
+            "brand": "trs",
+            "item": "mung dal",
+            "unitWeight": "500 g",
+            "unitPrice": 1.8,
+            "available": true,
+            "categoryCode": 4
+        },
+        {
             "brand": "thai",
             "item": "tamarind",
             "unitWeight": "454 g",
@@ -189,6 +205,14 @@
             "item": "toor dal",
             "unitWeight": "2 kg",
             "unitPrice": 5,
+            "available": true,
+            "categoryCode": 4
+        },
+        {
+            "brand": "trs",
+            "item": "toor dal",
+            "unitWeight": "500 g",
+            "unitPrice": 1.5,
             "available": true,
             "categoryCode": 4
         },
@@ -221,6 +245,22 @@
             "item": "chick peas",
             "unitWeight": "2 kg",
             "unitPrice": 5,
+            "available": true,
+            "categoryCode": 4
+        },
+        {
+            "brand": "trs",
+            "item": "chick peas",
+            "unitWeight": "500 g",
+            "unitPrice": 1.7,
+            "available": true,
+            "categoryCode": 4
+        },
+        {
+            "brand": "trs",
+            "item": "green peas",
+            "unitWeight": "500 g",
+            "unitPrice": 1.5,
             "available": true,
             "categoryCode": 4
         },
