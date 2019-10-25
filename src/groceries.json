@@ -10,6 +10,15 @@
         },
         {
             "brand": "",
+            "item": "red kumkum",
+            "unitWeight": "100 g",
+            "unitPrice": 1.2,
+            "available": true,
+            "categoryCode": 1
+        },
+
+        {
+            "brand": "",
             "item": "coconut with tail",
             "unitWeight": "1",
             "unitPrice": 3.2,
@@ -29,6 +38,14 @@
             "item": "Vathulu/cotton wicks",
             "unitWeight": "50 pc",
             "unitPrice": 1,
+            "available": true,
+            "categoryCode": 1
+        },
+         {
+            "brand": "Handmade",
+            "item": "karthika poornima Vathulu/cotton wicks",
+            "unitWeight": "366 pc",
+            "unitPrice": 4.5,
             "available": true,
             "categoryCode": 1
         },
@@ -169,6 +186,14 @@
             "categoryCode": 4
         },
         {
+            "brand": "trs",
+            "item": "mung dal",
+            "unitWeight": "500 g",
+            "unitPrice": 1.8,
+            "available": true,
+            "categoryCode": 4
+        },
+        {
             "brand": "thai",
             "item": "tamarind",
             "unitWeight": "454 g",
@@ -193,6 +218,14 @@
             "categoryCode": 4
         },
         {
+            "brand": "trs",
+            "item": "toor dal",
+            "unitWeight": "500 g",
+            "unitPrice": 1.5,
+            "available": true,
+            "categoryCode": 4
+        },
+        {
             "brand": "khalis",
             "item": "chana dal",
             "unitWeight": "1 kg",
@@ -206,7 +239,7 @@
             "unitWeight": "500 g",
             "unitPrice": 1.3,
             "available": true,
-            "categoryCode": 2
+            "categoryCode": 4
         },
         {
             "brand": "trs",
@@ -226,6 +259,22 @@
         },
         {
             "brand": "trs",
+            "item": "chick peas",
+            "unitWeight": "500 g",
+            "unitPrice": 1.7,
+            "available": true,
+            "categoryCode": 4
+        },
+        {
+            "brand": "trs",
+            "item": "green peas",
+            "unitWeight": "500 g",
+            "unitPrice": 1.5,
+            "available": true,
+            "categoryCode": 4
+        },
+        {
+            "brand": "trs",
             "item": "black eye beans",
             "unitWeight": "2 kg",
             "unitPrice": 5.5,
@@ -240,6 +289,15 @@
             "available": true,
             "categoryCode": 4
         },
+         {
+            "brand": "natco",
+            "item": "red lentils / masoor dal",
+            "unitWeight": "500 g",
+            "unitPrice": 1.5,
+            "available": true,
+            "categoryCode": 4
+        },
+        
         {
             "brand": "trs",
             "item": "chilli whole red long",
@@ -296,6 +354,15 @@
             "available": true,
             "categoryCode": 3
         },
+         {
+            "brand": "trs",
+            "item": "coconut powder",
+            "unitWeight": "300 g",
+            "unitPrice": 1.9,
+            "available": true,
+            "categoryCode": 3
+        },
+        
         {
             "brand": "annam",
             "item": "idly rawa",
@@ -352,6 +419,15 @@
             "available": true,
             "categoryCode": 7
         },
+         {
+            "brand": "trs",
+            "item": "ajwain",
+            "unitWeight": "100 g",
+            "unitPrice": 1,
+            "available": true,
+            "categoryCode": 7
+        },
+        
         {
             "brand": "wekefield bicarbonate",
             "item": "soda",
