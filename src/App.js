@@ -6,6 +6,11 @@ import "./App.css";
 
 function App() {
   const [filter, setFilter] = useState('');
+  const flag = 1 === 2;
+
+  if(!flag) {
+    return <div>On Vacation. Will contact you soon. Thanks.</div>;
+  }
 
   return (
     <div className="App">
