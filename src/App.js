@@ -6,6 +6,13 @@ import "./App.css";
 
 function App() {
   const [filter, setFilter] = useState('');
+  const [flag, setFlag] = useState(false);
+  
+  if(!flag) {
+    return (
+      <div>Site under maintainance and might take some time. Please try visiting after some time. Thanks for your co-operation.</div>
+    ); 
+  }
   
   return (
     <div className="App">
