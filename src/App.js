@@ -6,9 +6,9 @@ import "./App.css";
 
 function App() {
   const [filter, setFilter] = useState('');
-  const [flag, setFlag] = useState(false);
+  const admin = new URLSearchParams(document.location.search).get("admin");
   
-  if(!flag) {
+  if(!admin) {
     return (
       <div>Site under maintainance and might take some time. Please try visiting after some time. Thanks for your co-operation.</div>
     ); 
