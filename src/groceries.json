@@ -22,7 +22,7 @@
             "item": "coconut with tail",
             "unitWeight": "1",
             "unitPrice": 3.2,
-            "available": true,
+            "available": false,
             "categoryCode": 1
         },
         {
@@ -61,7 +61,7 @@
             "brand": "daawat",
             "item": "traditional basmathi rice",
             "unitWeight": "5 kg",
-            "unitPrice": 12.5,
+            "unitPrice": 13.30,
             "available": true,
             "categoryCode": 2
         },
@@ -70,14 +70,14 @@
             "item": "long grain basmathi rice",
             "unitWeight": "10 kg",
             "unitPrice": 21,
-            "available": true,
+            "available": false,
             "categoryCode": 2
         },
         {
             "brand": "annam",
             "item": "sona masoori rice",
             "unitWeight": "10 kg",
-            "unitPrice": 17,
+            "unitPrice": 18.5,
             "available": true,
             "categoryCode": 2
         },
@@ -85,7 +85,7 @@
             "brand": "annam",
             "item": "sona masoori rice",
             "unitWeight": "5 kg",
-            "unitPrice": 9.6,
+            "unitPrice": 10.0,
             "available": true,
             "categoryCode": 2
         },
@@ -93,7 +93,15 @@
             "brand": "annam",
             "item": "ponni boiled rice",
             "unitWeight": "5 kg",
-            "unitPrice": 9.7,
+            "unitPrice": 10.8,
+            "available": true,
+            "categoryCode": 2
+        },
+        {
+            "brand": "annam",
+            "item": "ponni raw rice",
+            "unitWeight": "5 kg",
+            "unitPrice": 10.8,
             "available": true,
             "categoryCode": 2
         },
@@ -109,15 +117,15 @@
             "brand": "annam",
             "item": "sona masuri brown rice",
             "unitWeight": "5 kg",
-            "unitPrice": 10.3,
-            "available": true,
+            "unitPrice": 0,
+            "available": false,
             "categoryCode": 2
         },
         {
             "brand": "annam",
             "item": "idly rice",
             "unitWeight": "5 kg",
-            "unitPrice": 9.60,
+            "unitPrice": 10.0,
             "available": true,
             "categoryCode": 2
         },
@@ -125,39 +133,31 @@
             "brand": "aashirwaad",
             "item": "chapathi atta",
             "unitWeight": "1 kg",
-            "unitPrice": 1.6,
-            "available": true,
+            "unitPrice": 0,
+            "available": false,
             "categoryCode": 3
         },
         {
             "brand": "aashirwaad",
             "item": "multigrain atta",
             "unitWeight": "2 kg",
-            "unitPrice": 4,
-            "available": true,
+            "unitPrice": 0,
+            "available": false,
             "categoryCode": 3
         },
         {
             "brand": "aashirwaad",
             "item": "multigrain atta export pack",
             "unitWeight": "5 kg",
-            "unitPrice": 9.6,
-            "available": true,
+            "unitPrice": 0,
+            "available": false,
             "categoryCode": 3
         },
         {
             "brand": "aashirwaad",
             "item": "chapathi atta",
             "unitWeight": "5 kg",
-            "unitPrice": 5.9,
-            "available": true,
-            "categoryCode": 3
-        },
-        {
-            "brand": "patanjali",
-            "item": "chapathi atta",
-            "unitWeight": "5 kg",
-            "unitPrice": 5.6,
+            "unitPrice": 7.5,
             "available": true,
             "categoryCode": 3
         },
@@ -165,7 +165,7 @@
             "brand": "amratsari",
             "item": "chapathi atta",
             "unitWeight": "5 Kg",
-            "unitPrice": 5,
+            "unitPrice": 5.5,
             "available": false,
             "categoryCode": 3
         },
@@ -173,7 +173,7 @@
             "brand": "amratsari",
             "item": "chapathi atta",
             "unitWeight": "10 Kg",
-            "unitPrice": 9.60,
+            "unitPrice": 10.3,
             "available": true,
             "categoryCode": 3
         },
@@ -289,7 +289,7 @@
             "available": true,
             "categoryCode": 4
         },
-         {
+        {
             "brand": "natco",
             "item": "red lentils / masoor dal",
             "unitWeight": "500 g",
@@ -318,7 +318,7 @@
             "brand": "natco",
             "item": "rice flour",
             "unitWeight": "1.5 kg",
-            "unitPrice": 2.5,
+            "unitPrice": 2.7,
             "available": true,
             "categoryCode": 3
         },
@@ -456,7 +456,7 @@
             "brand": "trs",
             "item": "dhaniya powder",
             "unitWeight": "100 g",
-            "unitPrice": 0.7,
+            "unitPrice": 0.85,
             "available": true,
             "categoryCode": 3
         },
@@ -472,7 +472,7 @@
             "brand": "mtr",
             "item": "sambar powder",
             "unitWeight": "200 g",
-            "unitPrice": 2,
+            "unitPrice": 2.5,
             "available": true,
             "categoryCode": 3
         },
@@ -736,7 +736,7 @@
             "brand": "",
             "item": "fresh green chilli",
             "unitWeight": "500 g",
-            "unitPrice": 2.25,
+            "unitPrice": 2.5,
             "available": true,
             "categoryCode": 9
         },
