@@ -6,13 +6,6 @@ import "./App.css";
 
 function App() {
   const [filter, setFilter] = useState('');
-  const admin = new URLSearchParams(document.location.search).get("admin");
-  
-  if(!admin) {
-    return (
-      <div>Site under maintainance and might take some time. Please try visiting after some time. Thanks for your co-operation.</div>
-    ); 
-  }
   
   return (
     <div className="App">
