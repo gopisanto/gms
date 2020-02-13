@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
   const [filter, setFilter] = useState('');
-  
+
   return (
     <div className="App">
       <h1>Indian Groceries</h1>
