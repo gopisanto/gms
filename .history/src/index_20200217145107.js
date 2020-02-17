@@ -5,6 +5,7 @@ import {
 } from "react-router-dom";
 import './index.css';
 import App from './App';
+import Address from './Address';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(

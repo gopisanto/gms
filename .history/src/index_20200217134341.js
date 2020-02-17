@@ -2,16 +2,26 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import {
   BrowserRouter as Router,
+  Switch,
+  Route,
 } from "react-router-dom";
 import './index.css';
 import App from './App';
+import Address from './Address';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <Router>
-    <App />
-  </Router>,
-  document.getElementById('root')
+    <Router>
+        <Switch>
+            <Route path="/" exact>
+                <App />
+            </Route>
+            <Route path="/address" exact>
+                <Address />
+            </Route>
+        </Switch>
+    </Router>,
+    document.getElementById('root')
 );
 
 // If you want your app to work offline and load faster, you can change

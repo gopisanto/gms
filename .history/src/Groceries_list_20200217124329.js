@@ -32,13 +32,13 @@ const useStyles = makeStyles(theme => ({
 
 const isMobile = window.innerWidth < 600;
 
-const formatCurrency = money => new Intl.NumberFormat('de-DE',
+const formatCurrency = money => new Intl.NumberFormat('de-DE', 
   { style: 'currency', currency: 'EUR' }
-).format(money);
+  ).format(money);
 
 const tableHeaders = isMobile
-  ? [{ label: 'item', align: 'left' }, { label: 'price / weight', align: 'right' }, { label: 'in stock', align: 'center' }]
-  : [{ label: 'brand', align: 'left' }, { label: 'item', align: 'left' }, { label: 'weight', align: 'right' }, { label: 'price', align: 'right' }, { label: 'in stock', align: 'right' }]
+  ? [{label: 'item', align: 'left'}, {label: 'price / weight', align: 'right'}, {label: 'in stock', align: 'center'}]
+  : [{label: 'brand', align: 'left'}, {label: 'item', align: 'left'}, {label: 'weight', align: 'right'}, {label: 'price', align: 'right'}, {label: 'in stock', align: 'right'}]
 
 const StyledTableCell = withStyles(theme => ({
   head: {
@@ -50,7 +50,7 @@ const StyledTableCell = withStyles(theme => ({
   },
 }))(TableCell);
 
-const GroceriesList = ({ filter }) => {
+const GroceriesList = ({filter}) => {
   const classes = useStyles();
 
   React.useEffect(() => {
@@ -61,8 +61,8 @@ const GroceriesList = ({ filter }) => {
   }, []);
 
   const isAvailable = flag => flag
-    ? <DoneIcon />
-    : <ClearIcon />;
+  ? <DoneIcon />
+  : <ClearIcon />;
 
   return (
     <Paper className={classes.root}>
@@ -74,11 +74,11 @@ const GroceriesList = ({ filter }) => {
         </TableHead>
         <TableBody>
           {groceries.groceries.filter(grocery => {
-            const brand = grocery.brand.toLowerCase().trim();
-            const item = grocery.item.toLowerCase().trim();
-            const term = filter.toLowerCase().trim();
+              const brand = grocery.brand.toLowerCase().trim();
+              const item = grocery.item.toLowerCase().trim();
+              const term = filter.toLowerCase().trim();
 
-            return brand.indexOf(term) !== -1 || item.indexOf(term) !== -1;
+              return brand.indexOf(term) !== -1 || item.indexOf(term) !== -1;
           }).map((row, index) => (
             <TableRow key={index} className={index % 2 !== 0 ? 'odd' : ''}>
               <TableCell component="th" scope="row">

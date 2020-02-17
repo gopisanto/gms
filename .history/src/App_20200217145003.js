@@ -1,10 +1,6 @@
 import React, { useState } from 'react';
 import GroceriesList from "./Groceries_list";
 import Address from './Address';
-import {
-  Switch,
-  Route,
-} from "react-router-dom";
 import Row from './Row';
 import Col from './Col';
 import "./App.css";

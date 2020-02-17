@@ -1,19 +1,14 @@
-
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
-import { loadCSS } from 'fg-loadcss';
-import DoneIcon from '@material-ui/icons/Done';
-import ClearIcon from '@material-ui/icons/Clear';
-import { withStyles } from '@material-ui/core/styles';
-
-import groceries from './groceries.json';
-import When from './When';
+import { map } from 'lodash';
+import { makeStyles } from '@material-ui/core/styles';
+import copy from 'copy-to-clipboard';
+import addresses from './addresses.json';
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -30,15 +25,13 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-const isMobile = window.innerWidth < 600;
-
-const formatCurrency = money => new Intl.NumberFormat('de-DE',
-  { style: 'currency', currency: 'EUR' }
-).format(money);
-
-const tableHeaders = isMobile
-  ? [{ label: 'item', align: 'left' }, { label: 'price / weight', align: 'right' }, { label: 'in stock', align: 'center' }]
-  : [{ label: 'brand', align: 'left' }, { label: 'item', align: 'left' }, { label: 'weight', align: 'right' }, { label: 'price', align: 'right' }, { label: 'in stock', align: 'right' }]
+const tableHeaders = [
+  { label: 'Name', align: 'left' },
+  { label: 'Mobile', align: 'center' },
+  { label: 'Whatsapp', align: 'center' },
+  { label: 'Address', align: 'left' },
+  { label: 'copy address', align: 'center' }
+];
 
 const StyledTableCell = withStyles(theme => ({
   head: {
@@ -50,21 +43,13 @@ const StyledTableCell = withStyles(theme => ({
   },
 }))(TableCell);
 
-const GroceriesList = ({ filter }) => {
+const Address = () => {
+  console.log(`addresses are ${JSON.stringify(addresses)}`);
   const classes = useStyles();
-
-  React.useEffect(() => {
-    loadCSS(
-      'https://use.fontawesome.com/releases/v5.1.0/css/all.css',
-      document.querySelector('#font-awesome-css'),
-    );
-  }, []);
-
-  const isAvailable = flag => flag
-    ? <DoneIcon />
-    : <ClearIcon />;
-
   return (
+    <ul>
+      {map(addresses, address => (<li key={`${address.name}${address.address}`}>{`Address for ${address.name} is ${address.address}`}</li>))}
+    </ul>
     <Paper className={classes.root}>
       <Table className={classes.table}>
         <TableHead>
@@ -99,7 +84,7 @@ const GroceriesList = ({ filter }) => {
         </TableBody>
       </Table>
     </Paper>
-  );
+    );
 }
 
-export default GroceriesList;
+export default Address;
