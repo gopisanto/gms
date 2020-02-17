@@ -7,8 +7,29 @@
   },
   {
     "name": "Manikanta",
-    "mobile": "",
-    "whatsapp": "",
+    "mobile": "+49 15166359132",
+    "whatsapp": "+91 92481 82316",
     "address": "Türkenstraße 19, 13349, Berlin"
-  }
+  },
+  {
+    "name": "Bhavana",
+    "mobile": "",
+    "whatsapp": "+91 96430 68382",
+    "address": "Küstriner Str. 30a, 13055, Berlin"
+  },
+  {
+    "name": "surendra",
+    "mobile": "+49 15143633267",
+    "whatsapp": "+91 9989468642",
+    "address": "schönfließer straße 2, 10439, Berlin"
+
+  },
+    {
+    "name": "lavanya",
+    "mobile": "+4915218231700",
+    "whatsapp": "+44 7448 032168",
+    "address": "11 Wilhelmshavener str, 10551, berlin"
+
+  },
+
 ]
