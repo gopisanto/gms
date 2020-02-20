@@ -213,8 +213,8 @@
             "brand": "trs",
             "item": "toor dal",
             "unitWeight": "2 kg",
-            "unitPrice": 5,
-            "available": true,
+            "unitPrice": 0,
+            "available": false,
             "categoryCode": 4
         },
         {
