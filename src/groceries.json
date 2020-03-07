@@ -205,7 +205,7 @@
             "brand": "natco",
             "item": "urid dal",
             "unitWeight": "2 kg",
-            "unitPrice": 5,
+            "unitPrice": 5.2,
             "available": true,
             "categoryCode": 4
         },
@@ -213,7 +213,7 @@
             "brand": "trs",
             "item": "toor dal",
             "unitWeight": "2 kg",
-            "unitPrice": 0,
+            "unitPrice": 5,
             "available": false,
             "categoryCode": 4
         },
@@ -293,7 +293,7 @@
             "brand": "natco",
             "item": "red lentils / masoor dal",
             "unitWeight": "500 g",
-            "unitPrice": 1.5,
+            "unitPrice": 1.8,
             "available": true,
             "categoryCode": 4
         },
