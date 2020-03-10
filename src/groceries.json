@@ -262,7 +262,7 @@
             "brand": "trs",
             "item": "red kidney beans",
             "unitWeight": "2 kg",
-            "unitPrice": 5.5,
+            "unitPrice": 5.9,
             "available": true,
             "categoryCode": 4
         },
@@ -302,7 +302,7 @@
             "brand": "trs",
             "item": "mung whole (mung beans green)",
             "unitWeight": "2 kg",
-            "unitPrice": 5.5,
+            "unitPrice": 5.3,
             "available": true,
             "categoryCode": 4
         },
@@ -319,7 +319,7 @@
             "brand": "trs",
             "item": "chilli whole red long",
             "unitWeight": "150 g",
-            "unitPrice": 1.5,
+            "unitPrice": 1.8,
             "available": true,
             "categoryCode": 6
         },
@@ -343,7 +343,7 @@
             "brand": "trs",
             "item": "gram flour",
             "unitWeight": "2 kg",
-            "unitPrice": 3.6,
+            "unitPrice": 3.8,
             "available": true,
             "categoryCode": 3
         },
@@ -392,7 +392,7 @@
             "brand": "annam",
             "item": "upma rawa",
             "unitWeight": "1 kg",
-            "unitPrice": 2.5,
+            "unitPrice": 2.7,
             "available": true,
             "categoryCode": 3
         },
@@ -638,6 +638,16 @@
             "unitPrice": 2,
             "available": true,
             "categoryCode": 7
+        },
+        {
+            "brand": "mdh",
+            "item": "kitchen king",
+            "unitWeight": "100 g",
+            "unitPrice": 2,
+            "available": true,
+            "categoryCode": 7
+
+        
         },
         {
             "brand": "trs",
