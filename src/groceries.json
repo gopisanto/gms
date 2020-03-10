@@ -73,13 +73,13 @@
             "available": false,
             "categoryCode": 2
         },
-            "brand": "laila",
+        { "brand": "laila",
             "item": "basmathi rice",
             "unitWeight": "5 kg",
             "unitPrice": 11.5,
             "available": true,
             "categoryCode": 2
-
+        },
         {
             "brand": "annam",
             "item": "sona masoori rice",
