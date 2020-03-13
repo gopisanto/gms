@@ -699,7 +699,7 @@
             "brand": "natco",
             "item": "butter ghee",
             "unitWeight": "500",
-            "unitPrice": 5.5,
+            "unitPrice": 6,
             "available": true,
             "categoryCode": 8
         },
@@ -828,6 +828,14 @@
             "item": "premium tea powder",
             "unitWeight": "500 g",
             "unitPrice": 6.5,
+            "available": true,
+            "categoryCode": 11
+        },
+        {
+            "brand": "Red Label",
+            "item": "tea powder",
+            "unitWeight": "450 g",
+            "unitPrice": 7,
             "available": true,
             "categoryCode": 11
         },
