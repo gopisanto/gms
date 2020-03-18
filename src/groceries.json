@@ -49,14 +49,7 @@
             "available": true,
             "categoryCode": 1
         },
-        {
-            "brand": "sher-e punjab",
-            "item": "organic basmathi rice",
-            "unitWeight": "5 kg",
-            "unitPrice": 11.5,
-            "available": true,
-            "categoryCode": 2
-        },
+        
         {
             "brand": "daawat",
             "item": "traditional basmathi rice",
@@ -100,7 +93,7 @@
             "brand": "annam",
             "item": "sona masoori rice",
             "unitWeight": "5 kg",
-            "unitPrice": 10.0,
+            "unitPrice": 10.5,
             "available": true,
             "categoryCode": 2
         },
@@ -108,7 +101,7 @@
             "brand": "annam",
             "item": "ponni boiled rice",
             "unitWeight": "5 kg",
-            "unitPrice": 10.8,
+            "unitPrice": 12.3,
             "available": true,
             "categoryCode": 2
         },
@@ -116,7 +109,7 @@
             "brand": "annam",
             "item": "ponni raw rice",
             "unitWeight": "5 kg",
-            "unitPrice": 10.8,
+            "unitPrice": 12.3,
             "available": true,
             "categoryCode": 2
         },
@@ -140,9 +133,18 @@
             "brand": "annam",
             "item": "idly rice",
             "unitWeight": "5 kg",
-            "unitPrice": 10.0,
+            "unitPrice": 12.5,
             "available": true,
             "categoryCode": 2
+        },
+        {
+            "brand": "Laila ",
+            "item": "red rice",
+            "unitWeight": "5 kg",
+            "unitPrice": 10.5,
+            "available": true,
+            "categoryCode": 2
+   
         },
         {
             "brand": "aashirwaad",
@@ -343,7 +345,7 @@
         },
         {
             "brand": "trs",
-            "item": "chilli whole",
+            "item": "chilli whole with out  stem",
             "unitWeight": "400 g",
             "unitPrice": 4,
             "available": true,
@@ -397,7 +399,16 @@
             "available": true,
             "categoryCode": 3
         },
+        {
+            "brand": "annam",
+            "item": "himalayan salt",
+            "unitWeight": "500 g",
+            "unitPrice": 2.9,
+            "available": true,
+            "categoryCode": 7
+
         
+        },
         {
             "brand": "annam",
             "item": "idly rawa",
@@ -421,6 +432,16 @@
             "unitPrice": 2.2,
             "available": true,
             "categoryCode": 7
+        },
+        {
+            "brand": "trs",
+            "item": "poppy seeds ",
+            "unitWeight": "100 g",
+            "unitPrice": 1.1,
+            "available": true,
+            "categoryCode": 7
+
+        
         },
         {
             "brand": "natco",
