@@ -278,7 +278,7 @@
             "brand": "trs",
             "item": "chick peas",
             "unitWeight": "500 g",
-            "unitPrice": ,
+            "unitPrice": 0,
             "available": false,
             "categoryCode": 4
         },
