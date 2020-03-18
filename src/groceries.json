@@ -251,7 +251,7 @@
             "categoryCode": 4
         },
         {
-            "brand": "natco",
+            "brand": "trs",
             "item": "chana dal",
             "unitWeight": "500 g",
             "unitPrice": 1.8,
@@ -352,7 +352,7 @@
             "categoryCode": 6
         },
         {
-            "brand": "natco",
+            "brand": "annam",
             "item": "rice flour",
             "unitWeight": "1.5 kg",
             "unitPrice": 2.7,
@@ -452,7 +452,7 @@
             "categoryCode": 7
         },
         {
-            "brand": "trs",
+            "brand": "annam",
             "item": "cloves",
             "unitWeight": "50 g",
             "unitPrice": 1.5,
@@ -460,7 +460,7 @@
             "categoryCode": 7
         },
         {
-            "brand": "natco",
+            "brand": "trs",
             "item": "black pepper",
             "unitWeight": "100 g",
             "unitPrice": 1.5,
@@ -483,7 +483,15 @@
             "available": true,
             "categoryCode": 7
         },
-        
+        {
+            "brand": "annam",
+            "item": "fennel seeds",
+            "unitWeight": "50 g",
+            "unitPrice": 0.9,
+            "available": true,
+            "categoryCode": 7
+
+        },
         {
             "brand": "wekefield bicarbonate",
             "item": "soda",
@@ -544,7 +552,7 @@
             "brand": "trs",
             "item": "tapioca (sabudana) small",
             "unitWeight": "500 g",
-            "unitPrice": 1.5,
+            "unitPrice": 0,
             "available": false,
             "categoryCode": 7
         },
@@ -591,10 +599,10 @@
             "categoryCode": 2
         },
         {
-            "brand": "bajwa",
+            "brand": "annam",
             "item": "phool makhana",
-            "unitWeight": "50 g",
-            "unitPrice": 3,
+            "unitWeight": "200 g",
+            "unitPrice": 5,
             "available": true,
             "categoryCode": 2
         },
