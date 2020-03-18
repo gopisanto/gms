@@ -198,7 +198,7 @@
             "brand": "heera",
             "item": "mung dal",
             "unitWeight": "2 kg",
-            "unitPrice": 5,
+            "unitPrice": 5.4,
             "available": true,
             "categoryCode": 4
         },
@@ -230,7 +230,7 @@
             "brand": "trs",
             "item": "toor dal",
             "unitWeight": "2 kg",
-            "unitPrice": 5,
+            "unitPrice": 5.8,
             "available": false,
             "categoryCode": 4
         },
