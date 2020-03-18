@@ -241,10 +241,10 @@
             "categoryCode": 4
         },
         {
-            "brand": "khalis",
+            "brand": "trs",
             "item": "chana dal",
-            "unitWeight": "1 kg",
-            "unitPrice": 2.5,
+            "unitWeight": "2 kg",
+            "unitPrice": 6.2,
             "available": true,
             "categoryCode": 4
         },
@@ -252,7 +252,7 @@
             "brand": "natco",
             "item": "chana dal",
             "unitWeight": "500 g",
-            "unitPrice": 1.4,
+            "unitPrice": 1.8,
             "available": true,
             "categoryCode": 4
         },
@@ -268,7 +268,7 @@
             "brand": "trs",
             "item": "chick peas",
             "unitWeight": "2 kg",
-            "unitPrice": 5,
+            "unitPrice": 5.5,
             "available": true,
             "categoryCode": 4
         },
@@ -276,42 +276,62 @@
             "brand": "trs",
             "item": "chick peas",
             "unitWeight": "500 g",
-            "unitPrice": 1.7,
-            "available": true,
+            "unitPrice": ,
+            "available": false,
             "categoryCode": 4
         },
         {
             "brand": "trs",
             "item": "green peas",
             "unitWeight": "500 g",
-            "unitPrice": 1.5,
-            "available": true,
+            "unitPrice": 0,
+            "available": false,
             "categoryCode": 4
         },
         {
             "brand": "trs",
             "item": "black eye beans",
             "unitWeight": "2 kg",
-            "unitPrice": 5.5,
-            "available": true,
+            "unitPrice": 0,
+            "available": false,
             "categoryCode": 4
         },
         {
             "brand": "trs",
             "item": "mung whole (mung beans green)",
             "unitWeight": "2 kg",
-            "unitPrice": 5.3,
+            "unitPrice": 5.9,
             "available": true,
             "categoryCode": 4
         },
         {
-            "brand": "natco",
+            "brand": "trs",
             "item": "red lentils / masoor dal",
             "unitWeight": "500 g",
-            "unitPrice": 1.8,
+            "unitPrice": 1.6,
             "available": true,
             "categoryCode": 4
         },
+        
+       {
+            "brand": "trs",
+            "item": "brown lentils",
+            "unitWeight": "500 g",
+            "unitPrice": 1.6,
+            "available": true,
+            "categoryCode": 4
+        },
+ 
+       {
+            "brand": "trs",
+            "item": "green lentils",
+            "unitWeight": "500 g",
+            "unitPrice": 1.6,
+            "available": true,
+            "categoryCode": 4
+        },
+ 
+        
         
         {
             "brand": "trs",
