@@ -175,7 +175,7 @@
             "item": "chapathi atta",
             "unitWeight": "5 kg",
             "unitPrice": 7.5,
-            "available": true,
+            "available": false,
             "categoryCode": 3
         },
         {
