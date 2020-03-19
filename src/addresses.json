@@ -1,5 +1,13 @@
 [
   {
+    "name":"",
+    "mobile":"",
+    "whatsapp":"",
+    "address":"",
+    "floor":"",
+    "bell name":""
+  },
+  {
     "name": "Alok Bethel",
     "mobile": "+49 1523 3970215",
     "whatsapp": "+49 1523 3970215",
@@ -56,4 +64,13 @@
     "floor":"2nd floor",
     "bell name":"Mayuri Jatakiya"
   },
+   {
+    "name":"manu",
+    "mobile":"",
+    "whatsapp":"+49 162 2367958",
+    "address":"parkstarsse 1, 13187 ,Pankow",
+    "floor":"2 nd floor",
+    "bell name":"kuldip Singh"
+  }
+
 ]
