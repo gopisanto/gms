@@ -37,5 +37,23 @@
     "whatsapp": "+91 77996 88558",
     "address": "Bruckenstrasse 24, 12439, berlin"
 
-  }
+  },
+  {
+    "name": "laila",
+    "mobile": "+49 1520 5354686",
+    "whatsapp": "+49 1520 5354686",
+    "address": "Leibnizstrasse 57, 10629, Berlin.",
+    "floor":"3 rd floor",
+    "bell name":"parag"
+  
+  },
+  
+  {
+    "name":"mayuri",
+    "mobile":"",
+    "whatsapp":"+91 97147 64649",
+    "address":"Am Schäfersee 47, 13407 Berlin, German",
+    "floor":"2nd floor",
+    "bell name":"Mayuri Jatakiya"
+  },
 ]
