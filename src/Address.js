@@ -29,6 +29,7 @@ const tableHeaders = [
   { label: 'Mobile', align: 'center' },
   { label: 'Whatsapp', align: 'center' },
   { label: 'Address', align: 'left' },
+  { label: 'Bell name', align: 'center' },
   { label: 'copy address', align: 'center' }
 ];
 
@@ -78,6 +79,7 @@ const Address = ({ filter }) => {
                   {row.whatsapp}
                 </TableCell>
                 <TableCell align="center">{row.address}</TableCell>
+                   <TableCell align="center">{row.bellName}</TableCell>
                 <TableCell align="center">
                   <span className={classes.clickable} onClick={() => copy(row.address)}>copy address</span>
                 </TableCell>
