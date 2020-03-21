@@ -54,7 +54,7 @@
             "brand": "daawat",
             "item": "traditional basmathi rice",
             "unitWeight": "5 kg",
-            "unitPrice": 13.30,
+            "unitPrice": 15.0,
             "available": true,
             "categoryCode": 2
         },
@@ -174,7 +174,7 @@
             "brand": "aashirwaad",
             "item": "chapathi atta",
             "unitWeight": "5 kg",
-            "unitPrice": 7.5,
+            "unitPrice": 8.9,
             "available": false,
             "categoryCode": 3
         },
