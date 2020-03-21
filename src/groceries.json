@@ -69,7 +69,7 @@
         { "brand": "laila",
             "item": "basmathi rice",
             "unitWeight": "5 kg",
-            "unitPrice": 11.5,
+            "unitPrice": 13.5,
             "available": true,
             "categoryCode": 2
         },
