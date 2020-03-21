@@ -26,10 +26,11 @@ const useStyles = makeStyles(theme => ({
 
 const tableHeaders = [
   { label: 'Name', align: 'left' },
-  { label: 'Mobile', align: 'center' },
-  { label: 'Whatsapp', align: 'center' },
+  { label: 'Mobile', align: 'left' },
+  { label: 'Whatsapp', align: 'left' },
   { label: 'Address', align: 'left' },
-  { label: 'Bell name', align: 'center' },
+  { label: 'Bell name', align: 'left' },
+  { label: 'Floor', align: 'center' },
   { label: 'copy address', align: 'center' }
 ];
 
@@ -78,8 +79,9 @@ const Address = ({ filter }) => {
                 <TableCell align="left">
                   {row.whatsapp}
                 </TableCell>
-                <TableCell align="center">{row.address}</TableCell>
-                   <TableCell align="center">{row.bellName}</TableCell>
+                <TableCell align="left">{row.address}</TableCell>
+                <TableCell align="left">{row.bellName}</TableCell>
+                <TableCell align="center">{row.floor}</TableCell>
                 <TableCell align="center">
                   <span className={classes.clickable} onClick={() => copy(row.address)}>copy address</span>
                 </TableCell>
