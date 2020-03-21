@@ -5,46 +5,65 @@
     "whatsapp":"",
     "address":"",
     "floor":"",
-    "bell name":""
+    "bellName":""
   },
   {
     "name": "Alok Bethel",
     "mobile": "+49 1523 3970215",
     "whatsapp": "+49 1523 3970215",
-    "address": "Sewanstrasse 247, 10319, lichtenberg"
+    "address": "Sewanstrasse 247, 10319, lichtenberg",
+    "floor":"",
+    "bellName":""
   },
   {
     "name": "Manikanta",
     "mobile": "+49 15166359132",
     "whatsapp": "+91 92481 82316",
-    "address": "Türkenstraße 19, 13349, Berlin"
+    "address": "Türkenstraße 19, 13349, Berlin",
+    "floor":"",
+    "bellName":""
   },
   {
     "name": "Bhavana",
     "mobile": "",
     "whatsapp": "+91 96430 68382",
-    "address": "Küstriner Str. 30a, 13055, Berlin"
+    "address": "Küstriner Str. 30a, 13055, Berlin",
+    "floor":"2",
+    "bellName":""
+  },
+  {
+    "name": "Prathyusha",
+    "mobile": "",
+    "whatsapp": "+49 15217598879",
+    "address": "Mittelstrasse 21a, 13055, Berlin",
+    "floor":"0",
+    "bellName":"shiva"
   },
   {
     "name": "surendra",
     "mobile": "+49 15143633267",
     "whatsapp": "+91 9989468642",
-    "address": "schönfließer straße 2, 10439, Berlin"
+    "address": "schönfließer straße 2, 10439, Berlin",
+    "floor":"",
+    "bellName":""
 
   },
     {
     "name": "lavanya",
     "mobile": "+4915218231700",
     "whatsapp": "+44 7448 032168",
-    "address": "11 Wilhelmshavener str, 10551, berlin"
+    "address": "11 Wilhelmshavener str, 10551, berlin",
+      "floor":"",
+    "bellName":""
 
   },
       {
     "name": "srilatha",
     "mobile": "+",
     "whatsapp": "+91 77996 88558",
-    "address": "Bruckenstrasse 24, 12439, berlin"
-
+    "address": "Bruckenstrasse 24, 12439, berlin",
+    "floor":"",
+    "bellName":""
   },
   {
     "name": "laila",
@@ -79,7 +98,13 @@
     "address":"Hallesches ufer 24,10963, berlin",
     "floor":"",
     "bell name":""
-
+  },
+  {
+    "name":"Siri",
+    "mobile":"+49 15212592143",
+    "whatsapp":"+49 15212592143",
+    "address":"Küstriner Str. 30d, 13055, Berlin",
+    "floor":"2",
+    "bellName":"Chinthapalli Naresh"
   }
-
 ]
