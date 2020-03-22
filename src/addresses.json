@@ -71,7 +71,7 @@
     "whatsapp": "+49 1520 5354686",
     "address": "Leibnizstrasse 57, 10629, Berlin.",
     "floor":"3 rd floor",
-    "bell name":"parag"
+    "bellName":"parag"
   },
   
   {
@@ -80,7 +80,7 @@
     "whatsapp":"+91 97147 64649",
     "address":"Am Schäfersee 47, 13407 Berlin, German",
     "floor":"2nd floor",
-    "bell name":"Mayuri Jatakiya"
+    "bellName":"Mayuri Jatakiya"
   },
    {
     "name":"manu",
@@ -88,7 +88,7 @@
     "whatsapp":"+49 162 2367958",
     "address":"parkstarsse 1, 13187 ,Pankow",
     "floor":"2 nd floor",
-    "bell name":"kuldip Singh"
+    "bellName":"kanwar Manoj/solanki kuldeep"
   },
   {
     "name":"pallavi",
@@ -96,7 +96,7 @@
     "whatsapp":"+91 88614 60606",
     "address":"Hallesches ufer 24,10963, berlin",
     "floor":"",
-    "bell name":""
+    "bellName":""
   },
   {
     "name":"Siri",
