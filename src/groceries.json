@@ -884,7 +884,7 @@
             "brand": "",
             "item": "fresh green chilli",
             "unitWeight": "250 g",
-            "unitPrice": 1.2,
+            "unitPrice": 1.8,
             "available": true,
             "categoryCode": 9
         },
@@ -892,7 +892,7 @@
             "brand": "",
             "item": "fresh green chilli",
             "unitWeight": "500 g",
-            "unitPrice": 2.5,
+            "unitPrice": 3.0,
             "available": true,
             "categoryCode": 9
         },
@@ -900,7 +900,7 @@
             "brand": "",
             "item": "fresh green chilli",
             "unitWeight": "1 kg",
-            "unitPrice": 4.5,
+            "unitPrice": 5.3,
             "available": true,
             "categoryCode": 9
         },
