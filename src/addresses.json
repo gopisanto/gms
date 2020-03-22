@@ -72,7 +72,6 @@
     "address": "Leibnizstrasse 57, 10629, Berlin.",
     "floor":"3 rd floor",
     "bell name":"parag"
-  
   },
   
   {
@@ -114,5 +113,5 @@
     "address":"Nuthestr 43M, 12307, Berlin",
     "floor":"Ground floor",
     "bellName":"Sakhare / Soundararajan"
-  },
+  }
 ]
