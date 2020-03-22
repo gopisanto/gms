@@ -711,8 +711,6 @@
             "unitPrice": 2,
             "available": true,
             "categoryCode": 7
-
-        
         },
         
         {
@@ -754,7 +752,6 @@
             "unitPrice": 3.5,
             "available": true ,
             "categoryCode": 14
-
         },
         {
             "brand": "annam / heera",
@@ -797,8 +794,6 @@
             "unitPrice": 2.5,
             "available": true ,
             "categoryCode": 14
-
-        
         },
         {
             "brand": "annam",
