@@ -62,7 +62,7 @@
     "mobile": "+",
     "whatsapp": "+91 77996 88558",
     "address": "Bruckenstrasse 24, 12439, berlin",
-    "floor":"",
+    "floor":"2nd floor",
     "bellName":""
   },
   {
@@ -106,5 +106,13 @@
     "address":"Küstriner Str. 30d, 13055, Berlin",
     "floor":"2",
     "bellName":"Chinthapalli Naresh"
-  }
+  },
+  {
+    "name":"Maduri sakhare",
+    "mobile":"",
+    "whatsapp":"+49 17644452853",
+    "address":"Nuthestr 43M, 12307, Berlin",
+    "floor":"Ground floor",
+    "bellName":"Sakhare / Soundararajan"
+  },
 ]
