@@ -86,7 +86,7 @@ const GroceriesList = ({ filter }) => {
                 {!isMobile ? row.brand.toUpperCase() : `${row.brand.toUpperCase()} ${row.item.toUpperCase()}`}
               </TableCell>
               <TableCell align={!isMobile ? 'left' : 'right'}>
-                {!isMobile ? row.item.toUpperCase() : `${formatCurrency(row.unitPrice)} / ${row.unitWeight}`}
+                {!isMobile ? row.item.toUpperCase() : `${formatCurrency(flag ? 0 : row.unitPrice)} / ${row.unitWeight}`}
               </TableCell>
               <TableCell align="right">{!isMobile ? row.unitWeight : isAvailable(row.available)}</TableCell>
               <When guard={!isMobile}>
