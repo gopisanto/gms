@@ -52,6 +52,7 @@ const StyledTableCell = withStyles(theme => ({
 
 const GroceriesList = ({ filter }) => {
   const classes = useStyles();
+  const flag = true;
 
   React.useEffect(() => {
     loadCSS(
@@ -89,7 +90,7 @@ const GroceriesList = ({ filter }) => {
               </TableCell>
               <TableCell align="right">{!isMobile ? row.unitWeight : isAvailable(row.available)}</TableCell>
               <When guard={!isMobile}>
-                <TableCell align="right">{formatCurrency(row.unitPrice)}</TableCell>
+                <TableCell align="right">{flag ? formatCurrency(0) : formatCurrency(row.unitPrice)}</TableCell>
                 <TableCell align="center">
                   {isAvailable(row.available)}
                 </TableCell>
