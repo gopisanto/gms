@@ -22,6 +22,10 @@ const useStyles = makeStyles(theme => ({
   table: {
     minWidth: 370,
   },
+  clickable: {
+    cursor: 'pointer',
+    color: 'blue'
+  }
 }));
 
 const tableHeaders = [
@@ -39,10 +43,6 @@ const StyledTableCell = withStyles(theme => ({
   },
   body: {
     fontSize: 14,
-  },
-  clickable: {
-    cursor: 'pointer',
-    color: 'blue'
   }
 }))(TableCell);
 
