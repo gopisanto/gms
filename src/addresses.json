@@ -1,41 +1,133 @@
 [
   {
+    "name":"",
+    "mobile":"",
+    "whatsapp":"",
+    "address":"",
+    "floor":"",
+    "bellName":""
+  },
+  {
     "name": "Alok Bethel",
     "mobile": "+49 1523 3970215",
     "whatsapp": "+49 1523 3970215",
-    "address": "Sewanstrasse 247, 10319, lichtenberg"
+    "address": "Sewanstrasse 247, 10319, lichtenberg",
+    "floor":"",
+    "bellName":""
   },
   {
     "name": "Manikanta",
     "mobile": "+49 15166359132",
     "whatsapp": "+91 92481 82316",
-    "address": "Türkenstraße 19, 13349, Berlin"
+    "address": "Türkenstraße 19, 13349, Berlin",
+    "floor":"",
+    "bellName":""
   },
   {
     "name": "Bhavana",
     "mobile": "",
     "whatsapp": "+91 96430 68382",
-    "address": "Küstriner Str. 30a, 13055, Berlin"
+    "address": "Küstriner Str. 30a, 13055, Berlin",
+    "floor":"2",
+    "bellName":""
+  },
+  {
+    "name": "Prathyusha",
+    "mobile": "",
+    "whatsapp": "+49 15217598879",
+    "address": "Mittelstrasse 21a, 13055, Berlin",
+    "floor":"0",
+    "bellName":"shiva"
   },
   {
     "name": "surendra",
     "mobile": "+49 15143633267",
     "whatsapp": "+91 9989468642",
-    "address": "schönfließer straße 2, 10439, Berlin"
+    "address": "schönfließer straße 2, 10439, Berlin",
+    "floor":"",
+    "bellName":""
 
   },
     {
     "name": "lavanya",
     "mobile": "+4915218231700",
     "whatsapp": "+44 7448 032168",
-    "address": "11 Wilhelmshavener str, 10551, berlin"
+    "address": "11 Wilhelmshavener str, 10551, berlin",
+      "floor":"",
+    "bellName":""
 
   },
       {
     "name": "srilatha",
     "mobile": "+",
     "whatsapp": "+91 77996 88558",
-    "address": "Bruckenstrasse 24, 12439, berlin"
-
+    "address": "Bruckenstrasse 24, 12439, berlin",
+    "floor":"2nd floor",
+    "bellName":""
+  },
+  {
+    "name": "laila",
+    "mobile": "+49 1520 5354686",
+    "whatsapp": "+49 1520 5354686",
+    "address": "Leibnizstrasse 57, 10629, Berlin.",
+    "floor":"3 rd floor",
+    "bellName":"parag"
+  },
+  
+  {
+    "name":"mayuri",
+    "mobile":"",
+    "whatsapp":"+91 97147 64649",
+    "address":"Am Schäfersee 47, 13407 Berlin, German",
+    "floor":"2nd floor",
+    "bellName":"Mayuri Jatakiya"
+  },
+   {
+    "name":"manu",
+    "mobile":"",
+    "whatsapp":"+49 162 2367958",
+    "address":"parkstarsse 1, 13187 ,Pankow",
+    "floor":"2 nd floor",
+    "bellName":"kanwar Manoj/solanki kuldeep"
+  },
+  {
+    "name":"pallavi",
+    "mobile":"",
+    "whatsapp":"+91 88614 60606",
+    "address":"Hallesches ufer 24,10963, berlin",
+    "floor":"",
+    "bellName":""
+  },
+  {
+    "name":"Siri",
+    "mobile":"+49 15212592143",
+    "whatsapp":"+49 15212592143",
+    "address":"Küstriner Str. 30d, 13055, Berlin",
+    "floor":"2",
+    "bellName":"Chinthapalli Naresh"
+  },
+  {
+    "name":"Maduri sakhare",
+    "mobile":"",
+    "whatsapp":"+49 17644452853",
+    "address":"Nuthestr 43M, 12307, Berlin",
+    "floor":"Ground floor",
+    "bellName":"Sakhare / Soundararajan"
+  },
+  {
+    "name":"Suman Jena",
+    "mobile":"+49 17669399547",
+    "whatsapp":"+91 9901963450",
+    "address":"Holzmarktstrasse 56, 10179, Berlin",
+    "floor":"9th floor",
+    "bellName":"SriNivasan/Jena"
+  },
+{
+    "name":"Naveen reddy",
+    "mobile":"",
+    "whatsapp":"+91 9542261349",
+    "address":"plöner straße 7, 14193, berlin",
+    "floor":"1st floor",
+    "bellName":"yaramala"
   }
 ]
