@@ -70,6 +70,16 @@
         "R001"
       ]
     },
+     {
+      "brand": "daawat",
+      "item": "extra long basmathi rice",
+      "unitWeight": "5 kg",
+      "unitPrice": 17.0,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ]
+    },
     {
       "brand": "heer",
       "item": "long grain basmathi rice",
@@ -292,6 +302,17 @@
       ]
     },
     {
+      "brand": "schani",
+      "item": "urid whole black",
+      "unitWeight": "500 g",
+      "unitPrice": 1.9,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ]
+    },
+
+    {
       "brand": "trs",
       "item": "toor dal",
       "unitWeight": "2 kg",
@@ -341,6 +362,16 @@
         "DL001"
       ]
     },
+    {
+      "brand": "trs",
+      "item": "cow peas red",
+      "unitWeight": "500 g",
+      "unitPrice": 2.9,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ]
+    }, 
     {
       "brand": "trs",
       "item": "red kidney beans",
@@ -554,6 +585,16 @@
     },
     {
       "brand": "trs",
+      "item": "semolina coarse rawa",
+      "unitWeight": "500 g",
+      "unitPrice": 1.6,
+      "available": true,
+      "categoryCode": [
+        "RW001"
+      ]
+    },
+    {
+      "brand": "trs",
       "item": "cardomoms",
       "unitWeight": "50 g",
       "unitPrice": 3.2,
@@ -582,6 +623,17 @@
         "S0001"
       ]
     },
+     {
+      "brand": "schani",
+      "item": "daniya whole / coriander whole",
+      "unitWeight": "100 g",
+      "unitPrice": 0.9,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ]
+    },
+   
     {
       "brand": "annam",
       "item": "cloves",
@@ -792,6 +844,17 @@
         "PM001"
       ]
     },
+     {
+      "brand": "kings",
+      "item": "golkappa / pani puri papad",
+      "unitWeight": "200 g",
+      "unitPrice": 2,
+      "available": true,
+      "categoryCode": [
+        "PM001"
+      ]
+    },
+
     {
       "brand": "annam",
       "item": "mustard seeds",
@@ -1200,7 +1263,16 @@
         "S0001"
       ]
     },
-
+     {
+      "brand": "laziza",
+      "item": "custard powder vanilla",
+      "unitWeight": "300 g",
+      "unitPrice": 1.6,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ]
+    },
     {
       "brand": "annam",
       "item": "ragi flour",
