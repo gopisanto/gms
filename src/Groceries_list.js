@@ -30,7 +30,7 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-const isMobile = window.innerWidth < 600;
+const isMobile = window.innerWidth <= 680;
 
 const formatCurrency = money => new Intl.NumberFormat('de-DE',
   { style: 'currency', currency: 'EUR' }

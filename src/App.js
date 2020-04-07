@@ -5,6 +5,7 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
+import MenuIcon from '@material-ui/icons/Menu';
 import Row from './Row';
 import Col from './Col';
 import "./App.css";
@@ -20,15 +21,25 @@ function App() {
         <Col numCol={8}><label> Whatsapp your order to Poornima:- +4915143571582</label></Col>
       </Row>
       <Row>
-        <div className="labelValue">
-          <label>Search</label>
-          <input value={filter} onChange={({ target: { value } }) => setFilter(value)} />
+        <div className="filter">
+          <span className="menuIcon"><MenuIcon /></span>
+          <div className="labelValue">
+            <label>Search</label>
+            <input value={filter} onChange={({ target: { value } }) => setFilter(value)} />
+          </div>
         </div>
       </Row>
       <Row>
         <Switch>
           <Route path="/" exact>
-            <GroceriesList filter={filter} />
+            <Row className="groceryContent">
+              <Col numCol={3}>
+                something menu here
+              </Col>
+              <Col numCol={9}>
+                <GroceriesList filter={filter} />
+              </Col>
+            </Row>
           </Route>
           <Route path="/address" exact>
             <Address filter={filter} />
