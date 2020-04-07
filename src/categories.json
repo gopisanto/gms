@@ -1,0 +1,58 @@
+{
+  "rice": {
+    "code": "R001",
+    "label": "Rice"
+  },
+  "dal": {
+    "code": "DL001",
+    "label": "Dal & Lentils"
+  },
+  "flour": {
+    "code": "F001",
+    "label": "Atta & Flour"
+  },
+  "spices": {
+    "code": "S0001",
+    "label": "Spices"
+  },
+  "rawa": {
+    "code": "RW001",
+    "label": "Rawa"
+  },
+  "papad": {
+    "code": "P001",
+    "label": "Papad & Pickles"
+  },
+  "noodles": {
+    "code": "PM001",
+    "label": "Flakes, Mumra, Noodles, Soya etc."
+  },
+  "oil": {
+    "code": "O001",
+    "label": "Oil & Ghee"
+  },
+  "salt": {
+    "code": "SS001",
+    "label": "Salt, Sugar & others"
+  },
+  "snacks": {
+    "code": "S0001",
+    "label": "Snacks"
+  },
+  "ready": {
+    "code": "RD001",
+    "label": "Ready mixes"
+  },
+  "fresh": {
+    "code": "FR001",
+    "label": "Fresh Items"
+  },
+  "tea": {
+    "code": "T001",
+    "label": "Tea"
+  },
+  "pooja": {
+    "code": "PJ001",
+    "label": "Pooja Items"
+  }
+}
