@@ -1,0 +1,15 @@
+.qtyContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quantity {
+  padding: 5px;
+  width: 35px;
+  height: 20px;
+  font-size: medium;
+  margin: 0 10px;
+  border: 1px solid black;
+}

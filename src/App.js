@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import GroceriesList from "./Groceries_list";
+import Groceries from './GroceryList'
 import Address from './Address';
 import {
   Switch,
@@ -36,8 +37,9 @@ function App() {
               <Col numCol={3}>
                 something menu here
               </Col>
+
               <Col numCol={9}>
-                <GroceriesList filter={filter} />
+                <Groceries filter={filter} />
               </Col>
             </Row>
           </Route>
