@@ -8,7 +8,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/haldi.png"
     },
     {
       "brand": "",
@@ -18,17 +19,8 @@
       "available": true,
       "categoryCode": [
         "PJ001"
-      ]
-    },
-    {
-      "brand": "",
-      "item": "coconut with tail",
-      "unitWeight": "1",
-      "unitPrice": 3.2,
-      "available": false,
-      "categoryCode": [
-        "PJ001"
-      ]
+      ],
+      "imgUrl": "/images/kumkum.png"
     },
     {
       "brand": "",
@@ -38,7 +30,8 @@
       "available": true,
       "categoryCode": [
         "PJ001"
-      ]
+      ],
+      "imgUrl": "/images/agarbatti.png"
     },
     {
       "brand": "Handmade",
@@ -48,7 +41,8 @@
       "available": true,
       "categoryCode": [
         "PJ001"
-      ]
+      ],
+      "imgUrl": "/images/cottonwicks.png"
     },
     {
       "brand": "Handmade",
@@ -58,7 +52,8 @@
       "available": true,
       "categoryCode": [
         "PJ001"
-      ]
+      ],
+      "imgUrl": "/images/cottonwicks.png"
     },
     {
       "brand": "daawat",
@@ -68,27 +63,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
-    },
-    {
-      "brand": "daawat",
-      "item": "extra long basmathi rice",
-      "unitWeight": "5 kg",
-      "unitPrice": 17.0,
-      "available": true,
-      "categoryCode": [
-        "R001"
-      ]
-    },
-    {
-      "brand": "heer",
-      "item": "long grain basmathi rice",
-      "unitWeight": "10 kg",
-      "unitPrice": 21,
-      "available": false,
-      "categoryCode": [
-        "R001"
-      ]
+      ],
+      "imgUrl": "/images/daawat.png"
     },
     {
       "brand": "laila",
@@ -98,7 +74,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/laila.png"
     },
     {
       "brand": "annam",
@@ -108,7 +85,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/annamrice.png"
     },
     {
       "brand": "banno",
@@ -128,7 +106,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/smr5kg.png"
     },
     {
       "brand": "annam",
@@ -138,7 +117,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/ponniboiled.png"
     },
     {
       "brand": "annam",
@@ -148,7 +128,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/ponniraw.png"
     },
     {
       "brand": "natco",
@@ -165,10 +146,11 @@
       "item": "sona masuri brown rice",
       "unitWeight": "5 kg",
       "unitPrice": 12.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/brownrice.png"
     },
     {
       "brand": "annam",
@@ -178,7 +160,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/idlyrice.png"
     },
     {
       "brand": "Laila ",
@@ -188,7 +171,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/redrice.png"
     },
     {
       "brand": "aashirwaad",
@@ -224,7 +208,7 @@
       "brand": "aashirwaad",
       "item": "chapathi atta",
       "unitWeight": "5 kg",
-      "unitPrice": 8.9,
+      "unitPrice": 0,
       "available": false,
       "categoryCode": [
         "F001"
@@ -234,8 +218,8 @@
       "brand": "aashirwaad",
       "item": "chapathi atta",
       "unitWeight": "10 kg",
-      "unitPrice": 16.5,
-      "available": true,
+      "unitPrice": 0,
+      "available": false,
       "categoryCode": [
         "F001"
       ]
@@ -248,17 +232,19 @@
       "available": true,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/amratsari.png"
     },
     {
       "brand": "amratsari",
       "item": "chapathi atta",
       "unitWeight": "10 Kg",
-      "unitPrice": 10.5,
-      "available": true,
+      "unitPrice": 0,
+      "available": false,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/amratsari.png"
     },
     {
       "brand": "heera",
@@ -268,7 +254,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/mungdal.png"
     },
     {
       "brand": "trs",
@@ -278,7 +265,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/mungdal.png"
     },
     {
       "brand": "thai",
@@ -288,7 +276,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/tamrind.png"
     },
     {
       "brand": "trs",
@@ -298,7 +287,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/uriddal.png"
     },
     {
       "brand": "schani",
@@ -308,7 +298,19 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/uridblack.png"
+    },
+    {
+      "brand": "schani",
+      "item": "urid chilka",
+      "unitWeight": "500 g",
+      "unitPrice": 1.9,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/uridchilka.png"
     },
     {
       "brand": "trs",
@@ -318,7 +320,8 @@
       "available": false,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/toordal.png"
     },
     {
       "brand": "trs",
@@ -328,7 +331,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/toordal.png"
     },
     {
       "brand": "trs",
@@ -338,7 +342,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/chanadal.png"
     },
     {
       "brand": "trs",
@@ -348,7 +353,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/chanadal.png"
     },
     {
       "brand": "trs",
@@ -358,7 +364,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/kidney.png"
     },
     {
       "brand": "trs",
@@ -368,7 +375,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/cowpeas.png"
     },
     {
       "brand": "trs",
@@ -378,7 +386,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/kidney.png"
     },
     {
       "brand": "trs",
@@ -388,7 +397,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/chickpeas.png"
     },
     {
       "brand": "trs",
@@ -398,17 +408,19 @@
       "available": false,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/chickpeas.png"
     },
     {
       "brand": "trs",
       "item": "green peas",
       "unitWeight": "500 g",
-      "unitPrice": 0,
-      "available": false,
+      "unitPrice": 1.6,
+      "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/greenpeas.png"
     },
     {
       "brand": "trs",
