@@ -8,7 +8,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/haldi.png"
     },
     {
       "brand": "",
@@ -18,17 +19,9 @@
       "available": true,
       "categoryCode": [
         "PJ001"
-      ]
-    },
-    {
-      "brand": "",
-      "item": "coconut with tail",
-      "unitWeight": "1",
-      "unitPrice": 3.2,
-      "available": false,
-      "categoryCode": [
-        "PJ001"
-      ]
+      ],
+      "imgUrl": "/images/kumkum.png"
+
     },
     {
       "brand": "",
@@ -38,7 +31,9 @@
       "available": true,
       "categoryCode": [
         "PJ001"
-      ]
+      ],
+      "imgUrl": "/images/agarbatti.png"
+
     },
     {
       "brand": "Handmade",
@@ -48,7 +43,9 @@
       "available": true,
       "categoryCode": [
         "PJ001"
-      ]
+      ],
+      "imgUrl": "/images/cottonwicks.png"
+
     },
     {
       "brand": "Handmade",
@@ -58,7 +55,9 @@
       "available": true,
       "categoryCode": [
         "PJ001"
-      ]
+      ],
+      "imgUrl": "/images/cottonwicks.png"
+
     },
     {
       "brand": "daawat",
@@ -68,29 +67,12 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/daawat.png"
+
     },
-     {
-      "brand": "daawat",
-      "item": "extra long basmathi rice",
-      "unitWeight": "5 kg",
-      "unitPrice": 17.0,
-      "available": true,
-      "categoryCode": [
-        "R001"
-      ]
-    },
-    {
-      "brand": "heer",
-      "item": "long grain basmathi rice",
-      "unitWeight": "10 kg",
-      "unitPrice": 21,
-      "available": false,
-      "categoryCode": [
-        "R001"
-      ]
-    },
-    {
+     
+      {
       "brand": "laila",
       "item": "basmathi rice",
       "unitWeight": "5 kg",
@@ -98,7 +80,9 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/laila.png"
+
     },
     {
       "brand": "annam",
@@ -108,7 +92,9 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/annamrice.png"
+
     },
     {
       "brand": "banno",
