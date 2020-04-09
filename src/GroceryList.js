@@ -17,7 +17,7 @@ const formatCurrency = money => new Intl.NumberFormat('de-DE',
   { style: 'currency', currency: 'EUR' }
 ).format(money);
 
-const GroceryList = ({ filter }) => {
+const GroceryList = ({ filter, filterByCode }) => {
   return (
     <Grid container spacing={3}>
       {
@@ -25,11 +25,12 @@ const GroceryList = ({ filter }) => {
           const brand = grocery.brand.toLowerCase().trim();
           const item = grocery.item.toLowerCase().trim();
           const term = filter.toLowerCase().trim();
+          const code = grocery.categoryCode;
 
-          return brand.indexOf(term) !== -1 || item.indexOf(term) !== -1;
+          return (brand.indexOf(term) !== -1 || item.indexOf(term) !== -1) && ((filterByCode && code.includes(filterByCode)) || !filterByCode);
         }).map(row => {
           return (
-            <Grid item xs={6} md={3} key={`${row.item}-${row.unitWeight}`}>
+            <Grid item xs={6} md={3} key={`${row.item}-${row.unitWeight}-${row.brand}`}>
               <Paper variant="outlined" square>
                 <Card>
                   <CardMedia

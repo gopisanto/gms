@@ -70,7 +70,7 @@
         "R001"
       ]
     },
-     {
+    {
       "brand": "daawat",
       "item": "extra long basmathi rice",
       "unitWeight": "5 kg",
@@ -240,7 +240,6 @@
         "F001"
       ]
     },
- 
     {
       "brand": "amratsari",
       "item": "chapathi atta",
@@ -311,7 +310,6 @@
         "DL001"
       ]
     },
-
     {
       "brand": "trs",
       "item": "toor dal",
@@ -371,7 +369,7 @@
       "categoryCode": [
         "DL001"
       ]
-    }, 
+    },
     {
       "brand": "trs",
       "item": "red kidney beans",
@@ -431,7 +429,7 @@
       "categoryCode": [
         "DL001"
       ]
-    }, 
+    },
     {
       "brand": "trs",
       "item": "mung whole (mung beans green)",
@@ -562,7 +560,6 @@
         "S0001"
       ]
     },
-    
     {
       "brand": "annam",
       "item": "idly rawa",
@@ -623,7 +620,7 @@
         "S0001"
       ]
     },
-     {
+    {
       "brand": "schani",
       "item": "daniya whole / coriander whole",
       "unitWeight": "100 g",
@@ -633,7 +630,6 @@
         "S0001"
       ]
     },
-   
     {
       "brand": "annam",
       "item": "cloves",
@@ -674,7 +670,7 @@
         "S0001"
       ]
     },
-     {
+    {
       "brand": "annam",
       "item": "javentry mace (Muskatblute)",
       "unitWeight": "25 g",
@@ -844,7 +840,7 @@
         "PM001"
       ]
     },
-     {
+    {
       "brand": "kings",
       "item": "golkappa / pani puri papad",
       "unitWeight": "200 g",
@@ -854,7 +850,6 @@
         "PM001"
       ]
     },
-
     {
       "brand": "annam",
       "item": "mustard seeds",
@@ -905,7 +900,6 @@
         "S0001"
       ]
     },
-
     {
       "brand": "natco",
       "item": "garam masala",
@@ -916,7 +910,6 @@
         "S0001"
       ]
     },
-  
     {
       "brand": "schani",
       "item": "sesame seeds white",
@@ -987,8 +980,6 @@
         "S0001"
       ]
     },
-    
-
     {
       "brand": "kings",
       "item": "bay leaves",
@@ -1196,53 +1187,49 @@
       "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
-        "S0001"
+        "SN0001"
       ]
     },
-        {
+    {
       "brand": "haldirams",
       "item": "plain bhujia ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
-        "S0001"
+        "SN0001"
       ]
     },
-
-        {
+    {
       "brand": "haldirams",
       "item": " all in one ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
-        "S0001"
+        "SN0001"
       ]
     },
-
-        {
+    {
       "brand": "haldirams",
       "item": " masala boondi  ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
-        "S0001"
+        "SN0001"
       ]
     },
-
-        {
+    {
       "brand": "haldirams",
       "item": " long sev",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
-        "S0001"
+        "SN0001"
       ]
     },
-
     {
       "brand": "haldirams",
       "item": "samosa",
@@ -1250,37 +1237,27 @@
       "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
-        "S0001"
+        "SN0001"
       ]
     },
-   {
+    {
       "brand": "parle g",
       "item": "biscuits",
       "unitWeight": "80 g",
       "unitPrice": 0.4,
       "available": true,
       "categoryCode": [
-        "S0001"
+        "SN0001"
       ]
     },
-     {
+    {
       "brand": "laziza",
       "item": "custard powder vanilla",
       "unitWeight": "300 g",
       "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
-        "S0001"
-      ]
-    },
-    {
-      "brand": "annam",
-      "item": "ragi flour",
-      "unitWeight": "1 kg",
-      "unitPrice": 2.7,
-      "available": true,
-      "categoryCode": [
-        "F001"
+        "SN0001"
       ]
     },
     {
@@ -1303,7 +1280,6 @@
         "O001"
       ]
     },
-
     {
       "brand": "annam",
       "item": "mustard oil",
@@ -1314,7 +1290,6 @@
         "O001"
       ]
     },
-    
     {
       "brand": "Red Label",
       "item": "tea powder",

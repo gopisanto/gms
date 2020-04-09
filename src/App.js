@@ -1,55 +1,61 @@
 import React, { useState } from 'react';
-import GroceriesList from "./Groceries_list";
+import { withStyles } from '@material-ui/core/styles';
+import { useHistory } from "react-router-dom";
 import Groceries from './GroceryList'
 import Address from './Address';
 import {
   Switch,
   Route,
 } from "react-router-dom";
-import MenuIcon from '@material-ui/icons/Menu';
-import Row from './Row';
+import Header from './components/Header';
+import AppBar from './components/AppBar';
+import FilterMenu from './components/FilterMenu';
 import Col from './Col';
 import "./App.css";
+import styles from './App.style';
 
-function App() {
+function App({ classes: { app, filterMenu, groceries } }) {
+  const history = useHistory();
   const [filter, setFilter] = useState('');
+  const [filterByCode, setFilterByCode] = useState('');
+  const onFilterChange = ({ target: { value } }) => {
+    setFilterByCode('');
+    setFilter(value);
+  }
+  const onItemClick = code => {
+    history.push('/');
+    setFilterByCode(code);
+  }
+  const onMenuClick = () => {
+    history.push('/filterMenu');
+  }
 
   return (
-    <div className="App">
-      <h1>Indian Groceries</h1>
-      <Row clas="contact">
-        <Col numCol={4}></Col>
-        <Col numCol={8}><label> Whatsapp your order to Poornima:- +4915143571582</label></Col>
-      </Row>
-      <Row>
-        <div className="filter">
-          <span className="menuIcon"><MenuIcon /></span>
-          <div className="labelValue">
-            <label>Search</label>
-            <input value={filter} onChange={({ target: { value } }) => setFilter(value)} />
-          </div>
-        </div>
-      </Row>
-      <Row>
+    <div className={app}>
+      <Header />
+      <AppBar value={filter} onChange={onFilterChange} menuClickHandler={onMenuClick} />
+      <div>
         <Switch>
           <Route path="/" exact>
-            <Row className="groceryContent">
-              <Col numCol={3}>
-                something menu here
+            <div className="groceryContent">
+              <Col className={filterMenu}>
+                <FilterMenu itemClickHandler={onItemClick} />
               </Col>
-
-              <Col numCol={9}>
-                <Groceries filter={filter} />
+              <Col numCol={9} className={groceries}>
+                <Groceries filter={filter} filterByCode={filterByCode} />
               </Col>
-            </Row>
+            </div>
+          </Route>
+          <Route path="/filterMenu" exact>
+            <FilterMenu itemClickHandler={onItemClick} />
           </Route>
           <Route path="/address" exact>
             <Address filter={filter} />
           </Route>
         </Switch>
-      </Row>
+      </div>
     </div>
   );
 }
 
-export default App;
+export default withStyles(styles)(App);
