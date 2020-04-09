@@ -34,8 +34,8 @@ const GroceryList = ({ filter, filterByCode }) => {
               <Paper variant="outlined" square>
                 <Card>
                   <CardMedia
-                    src={grocery}
-                    component="img"
+                    style={{ height: 150, width: 200 }}
+                    image={`${row.imgUrl}`}
                     title={`${row.brand} ${row.item} ${row.unitWeight}`}
                   />
                   <CardContent>
@@ -61,11 +61,11 @@ const GroceryList = ({ filter, filterByCode }) => {
                   </CardActions>
                 </Card>
               </Paper>
-            </Grid>
+            </Grid >
           );
         })
       }
-    </Grid>
+    </Grid >
   );
 };
 
