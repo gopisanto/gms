@@ -910,18 +910,7 @@
       ],
       "imgUrl": "/images/cumin.png"
     },
-    {
-      "brand": "schani",
-      "item": "methi seeds",
-      "unitWeight": "100 g",
-      "unitPrice": 0.9,
-      "available": true,
-      "categoryCode": [
-        "S0001"
-      ,
-      "imgUrl": "/images/methiseeds.png"
-    },
-    {
+       {
       "brand": "mdh",
       "item": "kasoori methi",
       "unitWeight": "100 g",
