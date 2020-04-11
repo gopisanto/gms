@@ -71,7 +71,7 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
                 className={classes.addToCart}
                 onClick={onAddToCart}
               >
-                Add to cart
+                To cart
               </Button>
               <Snackbar
                 open={addedToCart}
