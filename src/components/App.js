@@ -28,6 +28,7 @@ function App({ classes: { app, filterMenu, groceries } }) {
   }
   const onItemClick = code => {
     history.push('/');
+    setFilter('');
     setFilterByCode(code);
   }
   const onMenuClick = () => {

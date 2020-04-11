@@ -15,9 +15,12 @@ import copy from 'copy-to-clipboard';
 import { deleteItemFromCart } from '../redux/reducers';
 import { formatCurrency } from '../helper';
 
-const useStyles = makeStyles({
+const useStyles = makeStyles(theme => ({
   table: {
     minWidth: 500,
+    [theme.breakpoints.down('sm')]: {
+      width: 200,
+    },
   },
   copyOrder: {
     margin: '15px 5px',
@@ -29,7 +32,7 @@ const useStyles = makeStyles({
   deleteItem: {
     cursor: 'pointer'
   }
-});
+}));
 
 const prepareCopyText = (cart, total) => {
   const description = reduce(cart, (result, item) => {
