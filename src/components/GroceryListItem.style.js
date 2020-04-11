@@ -62,5 +62,8 @@ export default (theme => ({
     opacity: '0.6',
     fontWeight: 'bold',
     transform: 'rotate(-45deg)'
+  },
+  outOfStockPrice: {
+    backgroundColor: 'black',
   }
 }));

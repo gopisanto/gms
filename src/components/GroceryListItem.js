@@ -36,6 +36,7 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
       setQty(value)
     }
   }
+  const priceClass = !item.available ? classes.outOfStockPrice : '';
   return (
     <Grid item xs={6} sm={4} md={3} key={`${item.item}-${item.unitWeight}-${item.brand}`} className={classes.itemContainer}>
       {!item.available && <div className={classes.outOfStock}>
@@ -53,7 +54,7 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
               {`${item.brand} ${item.item}`.toUpperCase()}
             </Typography>
             <br />
-            <Typography variant="subtitle2" component="subtitle2">
+            <Typography variant="subtitle2" component="subtitle2" className={priceClass}>
               {`${formatCurrency(item.unitPrice)} / ${item.unitWeight}`}
             </Typography>
           </CardContent>
