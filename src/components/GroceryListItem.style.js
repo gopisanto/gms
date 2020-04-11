@@ -2,7 +2,7 @@ export default (theme => ({
   paper: {
     width: 220,
     [theme.breakpoints.down('sm')]: {
-      width: 180,
+      width: 170,
     },
   },
   root: {
