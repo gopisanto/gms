@@ -1,6 +1,9 @@
-export default ({
+export default (theme => ({
   paper: {
-    width: 200
+    width: 220,
+    [theme.breakpoints.down('sm')]: {
+      width: 190,
+    },
   },
   root: {
     width: '100%',
@@ -39,4 +42,4 @@ export default ({
   qtyContainer: {
     position: 'relative'
   }
-});
+}));
