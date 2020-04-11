@@ -37,7 +37,7 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
     }
   }
   return (
-    <Grid item xs={6} md={3} key={`${item.item}-${item.unitWeight}-${item.brand}`}>
+    <Grid item xs={6} sm={4} md={3} key={`${item.item}-${item.unitWeight}-${item.brand}`}>
       <Paper variant="outlined" square className={classes.paper}>
         <Card className={classes.root}>
           <CardMedia
