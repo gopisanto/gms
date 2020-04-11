@@ -17,5 +17,9 @@ export default (theme) => ({
     [theme.breakpoints.up('md')]: {
       backgroundPosition: '33%'
     },
+  },
+  headerTitle: {
+    background: 'linear-gradient(to right, orange 10%, white 50%, green 100%)',
+    borderRadius: '10px'
   }
 });

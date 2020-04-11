@@ -6,7 +6,7 @@ import styles from './Header.style';
 const Header = ({ classes }) => {
   return (
     <div className={classes.header}>
-      <h1>Indian Groceries</h1>
+      <h1 className={classes.headerTitle}>Indian Groceries</h1>
     </div>
   );
 };

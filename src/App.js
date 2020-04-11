@@ -7,17 +7,21 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
+import Drawer from '@material-ui/core/Drawer';
 import Header from './components/Header';
 import AppBar from './components/AppBar';
 import FilterMenu from './components/FilterMenu';
+import Cart from './components/Cart';
 import Col from './Col';
 import "./App.css";
 import styles from './App.style';
+
 
 function App({ classes: { app, filterMenu, groceries } }) {
   const history = useHistory();
   const [filter, setFilter] = useState('');
   const [filterByCode, setFilterByCode] = useState('');
+  const [openCart, setOpenCart] = useState(false);
   const onFilterChange = ({ target: { value } }) => {
     setFilterByCode('');
     setFilter(value);
@@ -30,10 +34,12 @@ function App({ classes: { app, filterMenu, groceries } }) {
     history.push('/filterMenu');
   }
 
+  const onCartClick = () => setOpenCart(true);
+
   return (
     <div className={app}>
       <Header />
-      <AppBar value={filter} onChange={onFilterChange} menuClickHandler={onMenuClick} />
+      <AppBar value={filter} onChange={onFilterChange} menuClickHandler={onMenuClick} onCartClick={onCartClick} />
       <div>
         <Switch>
           <Route path="/" exact>
@@ -45,9 +51,15 @@ function App({ classes: { app, filterMenu, groceries } }) {
                 <Groceries filter={filter} filterByCode={filterByCode} />
               </Col>
             </div>
+            <Drawer anchor="right" open={openCart} onClose={() => setOpenCart(false)}>
+              <Cart onBack={() => setOpenCart(false)} />
+            </Drawer>
           </Route>
           <Route path="/filterMenu" exact>
             <FilterMenu itemClickHandler={onItemClick} />
+          </Route>
+          <Route path="/cart" exact>
+            <Cart />
           </Route>
           <Route path="/address" exact>
             <Address filter={filter} />

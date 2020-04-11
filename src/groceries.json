@@ -1,6 +1,7 @@
 {
   "groceries": [
     {
+      "itemCode": "hp",
       "brand": "trs",
       "item": "haldi power",
       "unitWeight": "100 g",
@@ -12,6 +13,7 @@
       "imgUrl": "/images/haldi.png"
     },
     {
+      "itemCode": "rk",
       "brand": "",
       "item": "red kumkum",
       "unitWeight": "100 g",
@@ -23,6 +25,7 @@
       "imgUrl": "/images/kumkum.png"
     },
     {
+      "itemCode": "agrbti",
       "brand": "",
       "item": "agarbathi",
       "unitWeight": "20 g",
@@ -34,6 +37,7 @@
       "imgUrl": "/images/agarbatti.png"
     },
     {
+      "itemCode": "hcw",
       "brand": "Handmade",
       "item": "Vathulu/cotton wicks",
       "unitWeight": "50 pc",
@@ -45,6 +49,7 @@
       "imgUrl": "/images/cottonwicks.png"
     },
     {
+      "itemCode": "hkpcw",
       "brand": "Handmade",
       "item": "karthika poornima Vathulu/cotton wicks",
       "unitWeight": "366 pc",
@@ -56,6 +61,7 @@
       "imgUrl": "/images/cottonwicks.png"
     },
     {
+      "itemCode": "dbr5",
       "brand": "daawat",
       "item": "traditional basmathi rice",
       "unitWeight": "5 kg",
@@ -67,6 +73,7 @@
       "imgUrl": "/images/daawat.png"
     },
     {
+      "itemCode": "lbr5",
       "brand": "laila",
       "item": "basmathi rice",
       "unitWeight": "5 kg",
@@ -78,6 +85,7 @@
       "imgUrl": "/images/laila.png"
     },
     {
+      "itemCode": "asmr10",
       "brand": "annam",
       "item": "sona masoori rice",
       "unitWeight": "10 kg",
@@ -89,6 +97,7 @@
       "imgUrl": "/images/annamrice.png"
     },
     {
+      "itemCode": "bsmr10",
       "brand": "banno",
       "item": "sona masoori rice",
       "unitWeight": "10 kg",
@@ -99,6 +108,7 @@
       ]
     },
     {
+      "itemCode": "asmr5",
       "brand": "annam",
       "item": "sona masoori rice",
       "unitWeight": "5 kg",
@@ -110,6 +120,7 @@
       "imgUrl": "/images/smr5kg.png"
     },
     {
+      "itemCode": "apbr5",
       "brand": "annam",
       "item": "ponni boiled rice",
       "unitWeight": "5 kg",
@@ -121,6 +132,7 @@
       "imgUrl": "/images/ponniboiled.png"
     },
     {
+      "itemCode": "aprr5",
       "brand": "annam",
       "item": "ponni raw rice",
       "unitWeight": "5 kg",
@@ -132,6 +144,7 @@
       "imgUrl": "/images/ponniraw.png"
     },
     {
+      "itemCode": "nbbr2",
       "brand": "natco",
       "item": "brown basmathi rice",
       "unitWeight": "2 kg",
@@ -142,6 +155,7 @@
       ]
     },
     {
+      "itemCode": "asmbr5",
       "brand": "annam",
       "item": "sona masuri brown rice",
       "unitWeight": "5 kg",
@@ -153,6 +167,7 @@
       "imgUrl": "/images/brownrice.png"
     },
     {
+      "itemCode": "air5",
       "brand": "annam",
       "item": "idly rice",
       "unitWeight": "5 kg",
@@ -164,6 +179,7 @@
       "imgUrl": "/images/idlyrice.png"
     },
     {
+      "itemCode": "lrr5",
       "brand": "Laila ",
       "item": "red rice",
       "unitWeight": "5 kg",
@@ -175,6 +191,7 @@
       "imgUrl": "/images/redrice.png"
     },
     {
+      "itemCode": "aca1",
       "brand": "aashirwaad",
       "item": "chapathi atta",
       "unitWeight": "1 kg",
@@ -185,6 +202,7 @@
       ]
     },
     {
+      "itemCode": "ama2",
       "brand": "aashirwaad",
       "item": "multigrain atta",
       "unitWeight": "2 kg",
@@ -195,6 +213,7 @@
       ]
     },
     {
+      "itemCode": "amaep5",
       "brand": "aashirwaad",
       "item": "multigrain atta export pack",
       "unitWeight": "5 kg",
@@ -205,6 +224,7 @@
       ]
     },
     {
+      "itemCode": "aca5",
       "brand": "aashirwaad",
       "item": "chapathi atta",
       "unitWeight": "5 kg",
@@ -215,6 +235,7 @@
       ]
     },
     {
+      "itemCode": "aca10",
       "brand": "aashirwaad",
       "item": "chapathi atta",
       "unitWeight": "10 kg",
@@ -225,6 +246,7 @@
       ]
     },
     {
+      "itemCode": "amca5",
       "brand": "amratsari",
       "item": "chapathi atta",
       "unitWeight": "5 Kg",
@@ -236,6 +258,7 @@
       "imgUrl": "/images/amratsari.png"
     },
     {
+      "itemCode": "amca10",
       "brand": "amratsari",
       "item": "chapathi atta",
       "unitWeight": "10 Kg",
@@ -247,6 +270,7 @@
       "imgUrl": "/images/amratsari.png"
     },
     {
+      "itemCode": "hmd2",
       "brand": "heera",
       "item": "mung dal",
       "unitWeight": "2 kg",
@@ -258,6 +282,7 @@
       "imgUrl": "/images/mungdal.png"
     },
     {
+      "itemCode": "tmd500",
       "brand": "trs",
       "item": "mung dal",
       "unitWeight": "500 g",
@@ -269,6 +294,7 @@
       "imgUrl": "/images/mungdal.png"
     },
     {
+      "itemCode": "tt454",
       "brand": "thai",
       "item": "tamarind",
       "unitWeight": "454 g",
@@ -280,6 +306,7 @@
       "imgUrl": "/images/tamrind.png"
     },
     {
+      "itemCode": "tud2",
       "brand": "trs",
       "item": "urid dal",
       "unitWeight": "2 kg",
@@ -291,6 +318,7 @@
       "imgUrl": "/images/uriddal.png"
     },
     {
+      "itemCode": "suwb500",
       "brand": "schani",
       "item": "urid whole black",
       "unitWeight": "500 g",
@@ -302,6 +330,7 @@
       "imgUrl": "/images/uridblack.png"
     },
     {
+      "itemCode": "suc500",
       "brand": "schani",
       "item": "urid chilka",
       "unitWeight": "500 g",
@@ -313,6 +342,7 @@
       "imgUrl": "/images/uridchilka.png"
     },
     {
+      "itemCode": "ttd2",
       "brand": "trs",
       "item": "toor dal",
       "unitWeight": "2 kg",
@@ -324,6 +354,7 @@
       "imgUrl": "/images/toordal.png"
     },
     {
+      "itemCode": "ttd500",
       "brand": "trs",
       "item": "toor dal",
       "unitWeight": "500 g",
@@ -335,6 +366,7 @@
       "imgUrl": "/images/toordal.png"
     },
     {
+      "itemCode": "tcd2",
       "brand": "trs",
       "item": "chana dal",
       "unitWeight": "2 kg",
@@ -346,6 +378,7 @@
       "imgUrl": "/images/chanadal.png"
     },
     {
+      "itemCode": "tcd500",
       "brand": "trs",
       "item": "chana dal",
       "unitWeight": "500 g",
@@ -357,6 +390,7 @@
       "imgUrl": "/images/chanadal.png"
     },
     {
+      "itemCode": "trkb2",
       "brand": "trs",
       "item": "red kidney beans",
       "unitWeight": "2 kg",
@@ -368,6 +402,7 @@
       "imgUrl": "/images/kidney.png"
     },
     {
+      "itemCode": "tcpr500",
       "brand": "trs",
       "item": "cow peas red",
       "unitWeight": "500 g",
@@ -379,6 +414,7 @@
       "imgUrl": "/images/cowpeas.png"
     },
     {
+      "itemCode": "trkb500",
       "brand": "trs",
       "item": "red kidney beans",
       "unitWeight": "500 g",
@@ -390,6 +426,7 @@
       "imgUrl": "/images/kidney.png"
     },
     {
+      "itemCode": "tcp2",
       "brand": "trs",
       "item": "chick peas",
       "unitWeight": "2 kg",
@@ -401,6 +438,7 @@
       "imgUrl": "/images/chickpeas.png"
     },
     {
+      "itemCode": "tcp500",
       "brand": "trs",
       "item": "chick peas",
       "unitWeight": "500 g",
@@ -412,6 +450,7 @@
       "imgUrl": "/images/chickpeas.png"
     },
     {
+      "itemCode": "tgp500",
       "brand": "trs",
       "item": "green peas",
       "unitWeight": "500 g",
@@ -423,6 +462,7 @@
       "imgUrl": "/images/greenpeas.png"
     },
     {
+      "itemCode": "tbeb2",
       "brand": "trs",
       "item": "black eye beans",
       "unitWeight": "2 kg",
@@ -433,6 +473,7 @@
       ]
     },
     {
+      "itemCode": "tbeb500",
       "brand": "trs",
       "item": "black eye beans",
       "unitWeight": "500 g",
@@ -443,6 +484,7 @@
       ]
     },
     {
+      "itemCode": "tmw2",
       "brand": "trs",
       "item": "mung whole (mung beans green)",
       "unitWeight": "2 kg",
@@ -463,6 +505,7 @@
       ]
     },
     {
+      "itemCode": "tbl500",
       "brand": "trs",
       "item": "brown lentils",
       "unitWeight": "500 g",
@@ -473,6 +516,7 @@
       ]
     },
     {
+      "itemCode": "tgl500",
       "brand": "trs",
       "item": "green lentils",
       "unitWeight": "500 g",
@@ -483,6 +527,7 @@
       ]
     },
     {
+      "itemCode": "tcwrl150",
       "brand": "trs",
       "item": "chilli whole red long",
       "unitWeight": "150 g",
@@ -493,6 +538,7 @@
       ]
     },
     {
+      "itemCode": "tcwwseh400",
       "brand": "trs",
       "item": "chilli whole without stem (Extra hot)",
       "unitWeight": "400 g",
@@ -503,6 +549,7 @@
       ]
     },
     {
+      "itemCode": "arf1.5",
       "brand": "annam",
       "item": "rice flour",
       "unitWeight": "1.5 kg",
@@ -513,6 +560,7 @@
       ]
     },
     {
+      "itemCode": "sgf1",
       "brand": "schani",
       "item": "gram flour",
       "unitWeight": "1 kg",
@@ -523,6 +571,7 @@
       ]
     },
     {
+      "itemCode": "tjf1",
       "brand": "trs",
       "item": "juwar flour",
       "unitWeight": "1 kg",
@@ -533,6 +582,7 @@
       ]
     },
     {
+      "itemCode": "arf1",
       "brand": "annam",
       "item": "ragi flour",
       "unitWeight": "1 kg",
@@ -543,6 +593,7 @@
       ]
     },
     {
+      "itemCode": "tcmc1.5",
       "brand": "trs",
       "item": "corn meal coarse",
       "unitWeight": "1.5 kg",
@@ -553,6 +604,7 @@
       ]
     },
     {
+      "itemCode": "tcp300",
       "brand": "trs",
       "item": "coconut powder",
       "unitWeight": "300 g",
@@ -563,6 +615,7 @@
       ]
     },
     {
+      "itemCode": "ahs500",
       "brand": "annam",
       "item": "himalayan salt",
       "unitWeight": "500 g",
@@ -573,6 +626,7 @@
       ]
     },
     {
+      "itemCode": "air1",
       "brand": "annam",
       "item": "idly rawa",
       "unitWeight": "1 kg",
@@ -583,6 +637,7 @@
       ]
     },
     {
+      "itemCode": "aur1",
       "brand": "annam",
       "item": "upma rawa",
       "unitWeight": "1 kg",
@@ -593,6 +648,7 @@
       ]
     },
     {
+      "itemCode": "tscr500",
       "brand": "trs",
       "item": "semolina coarse rawa",
       "unitWeight": "500 g",
@@ -603,6 +659,7 @@
       ]
     },
     {
+      "itemCode": "tc50",
       "brand": "trs",
       "item": "cardomoms",
       "unitWeight": "50 g",
@@ -613,6 +670,7 @@
       ]
     },
     {
+      "itemCode": "tps100",
       "brand": "trs",
       "item": "poppy seeds ",
       "unitWeight": "100 g",
@@ -623,6 +681,7 @@
       ]
     },
     {
+      "itemCode": "kd50",
       "brand": "kings",
       "item": "dalchini / cinnamon",
       "unitWeight": "50 g",
@@ -633,6 +692,7 @@
       ]
     },
     {
+      "itemCode": "sdw100",
       "brand": "schani",
       "item": "daniya whole / coriander whole",
       "unitWeight": "100 g",
@@ -643,6 +703,7 @@
       ]
     },
     {
+      "itemCode": "ac50",
       "brand": "annam",
       "item": "cloves",
       "unitWeight": "50 g",
@@ -653,6 +714,7 @@
       ]
     },
     {
+      "itemCode": "tbp100",
       "brand": "trs",
       "item": "black pepper",
       "unitWeight": "100 g",
@@ -663,6 +725,7 @@
       ]
     },
     {
+      "itemCode": "tsj50",
       "brand": "trs",
       "item": "shahi jeera",
       "unitWeight": "50 g",
@@ -673,6 +736,7 @@
       ]
     },
     {
+      "itemCode": "ta100",
       "brand": "trs",
       "item": "ajwain",
       "unitWeight": "100 g",
@@ -683,6 +747,7 @@
       ]
     },
     {
+      "itemCode": "ajm25",
       "brand": "annam",
       "item": "javentry mace (Muskatblute)",
       "unitWeight": "25 g",
@@ -693,6 +758,7 @@
       ]
     },
     {
+      "itemCode": "afs50",
       "brand": "annam",
       "item": "fennel seeds",
       "unitWeight": "50 g",
@@ -703,6 +769,7 @@
       ]
     },
     {
+      "itemCode": "wbs100",
       "brand": "wekefield bicarbonate",
       "item": "soda",
       "unitWeight": "100 g",
@@ -713,6 +780,7 @@
       ]
     },
     {
+      "itemCode": "lpmpg200",
       "brand": "lijjat",
       "item": "punjabi masala papadom gross",
       "unitWeight": "200 g",
@@ -723,6 +791,7 @@
       ]
     },
     {
+      "itemCode": "ljpg200",
       "brand": "lijjat",
       "item": "jeera papadom gross",
       "unitWeight": "200 g",
@@ -733,6 +802,7 @@
       ]
     },
     {
+      "itemCode": "tdp100",
       "brand": "trs",
       "item": "dhaniya powder",
       "unitWeight": "100 g",
@@ -743,6 +813,7 @@
       ]
     },
     {
+      "itemCode": "tjp400",
       "brand": "trs",
       "item": "jeera powder",
       "unitWeight": "400 g",
@@ -753,6 +824,7 @@
       ]
     },
     {
+      "itemCode": "msp200",
       "brand": "mtr",
       "item": "sambar powder",
       "unitWeight": "200 g",
@@ -763,6 +835,7 @@
       ]
     },
     {
+      "itemCode": "ggjm200",
       "brand": "gits",
       "item": "gulab jamun mix",
       "unitWeight": "200 g",
@@ -773,6 +846,7 @@
       ]
     },
     {
+      "itemCode": "ats500",
       "brand": "annam",
       "item": "tapioca (sabudana) small",
       "unitWeight": "500 g",
@@ -783,6 +857,7 @@
       ]
     },
     {
+      "itemCode": "ttm300",
       "brand": "trs",
       "item": "tapioca (sabudana) medium",
       "unitWeight": "300 g",
@@ -793,6 +868,7 @@
       ]
     },
     {
+      "itemCode": "asc250",
       "brand": "annam",
       "item": "soya chunks/ meal maker (medium)",
       "unitWeight": "250 g",
@@ -803,6 +879,7 @@
       ]
     },
     {
+      "itemCode": "asc500",
       "brand": "annam",
       "item": "soya chunks (small)",
       "unitWeight": "500 g",
@@ -813,6 +890,7 @@
       ]
     },
     {
+      "itemCode": "hpm1",
       "brand": "heera",
       "item": "powa medium / rice flakes",
       "unitWeight": "1 kg",
@@ -823,6 +901,7 @@
       ]
     },
     {
+      "itemCode": "ampr400",
       "brand": "annam",
       "item": "marma / puffed rice",
       "unitWeight": "400 g",
@@ -833,6 +912,7 @@
       ]
     },
     {
+      "itemCode": "apm200",
       "brand": "annam",
       "item": "phool makhana",
       "unitWeight": "200 g",
@@ -843,6 +923,7 @@
       ]
     },
     {
+      "itemCode": "avs500",
       "brand": "annam",
       "item": "vermicelli / semiya (roasted)",
       "unitWeight": "500 g",
@@ -853,6 +934,7 @@
       ]
     },
     {
+      "itemCode": "kgppp200",
       "brand": "kings",
       "item": "golkappa / pani puri papad",
       "unitWeight": "200 g",
@@ -863,6 +945,7 @@
       ]
     },
     {
+      "itemCode": "ams100",
       "brand": "annam",
       "item": "mustard seeds",
       "unitWeight": "100 g",
@@ -873,6 +956,7 @@
       ]
     },
     {
+      "itemCode": "acs100",
       "brand": "annam",
       "item": "cumin seeds / jeera whole",
       "unitWeight": "100 g",
@@ -883,6 +967,7 @@
       ]
     },
     {
+      "itemCode": "sms100",
       "brand": "schani",
       "item": "methi seeds",
       "unitWeight": "100 g",
@@ -893,6 +978,7 @@
       ]
     },
     {
+      "itemCode": "mkm100",
       "brand": "mdh",
       "item": "kasoori methi",
       "unitWeight": "100 g",
@@ -903,6 +989,7 @@
       ]
     },
     {
+      "itemCode": "mgm100",
       "brand": "mdh",
       "item": "garam masala",
       "unitWeight": "100 g",
@@ -913,6 +1000,7 @@
       ]
     },
     {
+      "itemCode": "ngm100",
       "brand": "natco",
       "item": "garam masala",
       "unitWeight": "100 g",
@@ -923,6 +1011,7 @@
       ]
     },
     {
+      "itemCode": "sssw100",
       "brand": "schani",
       "item": "sesame seeds white",
       "unitWeight": "100 g",
@@ -933,6 +1022,7 @@
       ]
     },
     {
+      "itemCode": "arc500",
       "brand": "annam",
       "item": "roasted chana",
       "unitWeight": "500 g",
@@ -943,6 +1033,7 @@
       ]
     },
     {
+      "itemCode": "mbm100",
       "brand": "mdh",
       "item": "biryani masala",
       "unitWeight": "100 g",
@@ -953,6 +1044,7 @@
       ]
     },
     {
+      "itemCode": "mpb100",
       "brand": "mdh",
       "item": "pav bhaji",
       "unitWeight": "100 g",
@@ -963,6 +1055,7 @@
       ]
     },
     {
+      "itemCode": "mkk100",
       "brand": "mdh",
       "item": "kitchen king",
       "unitWeight": "100 g",
@@ -973,6 +1066,7 @@
       ]
     },
     {
+      "itemCode": "map100",
       "brand": "mdh",
       "item": "amchur powder",
       "unitWeight": "100 g",
@@ -983,6 +1077,7 @@
       ]
     },
     {
+      "itemCode": "mcm100",
       "brand": "mdh",
       "item": "chat masala",
       "unitWeight": "100 g",
@@ -993,6 +1088,7 @@
       ]
     },
     {
+      "itemCode": "kbl30",
       "brand": "kings",
       "item": "bay leaves",
       "unitWeight": "30 g",
@@ -1003,6 +1099,7 @@
       ]
     },
     {
+      "itemCode": "tdc250",
       "brand": "trs",
       "item": "dried coconut",
       "unitWeight": "250 g",
@@ -1013,6 +1110,7 @@
       ]
     },
     {
+      "itemCode": "vh100",
       "brand": "vandevi",
       "item": "hing / asafoetida",
       "unitWeight": "100 g",
@@ -1023,6 +1121,7 @@
       ]
     },
     {
+      "itemCode": "adcl20",
       "brand": "annam / heera",
       "item": "dried curry leaves",
       "unitWeight": "20 g",
@@ -1033,6 +1132,7 @@
       ]
     },
     {
+      "itemCode": "pmp300",
       "brand": "priya",
       "item": "mango pickle ",
       "unitWeight": "300 g",
@@ -1043,6 +1143,7 @@
       ]
     },
     {
+      "itemCode": "pgp300",
       "brand": "priya",
       "item": "gongura pickle",
       "unitWeight": "300 g",
@@ -1053,6 +1154,7 @@
       ]
     },
     {
+      "itemCode": "mum200",
       "brand": "mtr",
       "item": "upma mix",
       "unitWeight": "200 g",
@@ -1063,6 +1165,7 @@
       ]
     },
     {
+      "itemCode": "mrim500",
       "brand": "mtr",
       "item": "rawa idly mix",
       "unitWeight": "500 g",
@@ -1073,6 +1176,7 @@
       ]
     },
     {
+      "itemCode": "ajg500",
       "brand": "annam",
       "item": "jaggery goor",
       "unitWeight": "500 g",
@@ -1083,6 +1187,7 @@
       ]
     },
     {
+      "itemCode": "kbg500",
       "brand": "khanum",
       "item": "butter ghee",
       "unitWeight": "500",
@@ -1093,6 +1198,7 @@
       ]
     },
     {
+      "itemCode": "tcpeh100",
       "brand": "trs",
       "item": "chilli powder extra hot",
       "unitWeight": "100 g",
@@ -1103,6 +1209,7 @@
       ]
     },
     {
+      "itemCode": "tpp375",
       "brand": "trs",
       "item": "pink peanuts",
       "unitWeight": "375 g",
@@ -1113,6 +1220,7 @@
       ]
     },
     {
+      "itemCode": "mmn70",
       "brand": "maggi",
       "item": "masala noodles",
       "unitWeight": "70 g",
@@ -1123,6 +1231,7 @@
       ]
     },
     {
+      "itemCode": "fg250",
       "brand": "",
       "item": "fresh ginger",
       "unitWeight": "250 g",
@@ -1133,6 +1242,7 @@
       ]
     },
     {
+      "itemCode": "fgr250",
       "brand": "",
       "item": "fresh garlic",
       "unitWeight": "250 g",
@@ -1143,6 +1253,7 @@
       ]
     },
     {
+      "itemCode": "hmggp500",
       "brand": "home made",
       "item": "ginger / garlic paste",
       "unitWeight": "500 g",
@@ -1153,6 +1264,7 @@
       ]
     },
     {
+      "itemCode": "fgc100",
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "100 g",
@@ -1163,6 +1275,7 @@
       ]
     },
     {
+      "itemCode": "fgc250",
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "250 g",
@@ -1173,6 +1286,7 @@
       ]
     },
     {
+      "itemCode": "fgc500",
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "500 g",
@@ -1183,6 +1297,7 @@
       ]
     },
     {
+      "itemCode": "fgc1",
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "1 kg",
@@ -1193,6 +1308,7 @@
       ]
     },
     {
+      "itemCode": "hab200",
       "brand": "haldirams",
       "item": "aloo bhujia ",
       "unitWeight": "200 g",
@@ -1203,6 +1319,7 @@
       ]
     },
     {
+      "itemCode": "hpb200",
       "brand": "haldirams",
       "item": "plain bhujia ",
       "unitWeight": "200 g",
@@ -1213,6 +1330,7 @@
       ]
     },
     {
+      "itemCode": "haio200",
       "brand": "haldirams",
       "item": " all in one ",
       "unitWeight": "200 g",
@@ -1223,6 +1341,7 @@
       ]
     },
     {
+      "itemCode": "hmb200",
       "brand": "haldirams",
       "item": " masala boondi  ",
       "unitWeight": "200 g",
@@ -1233,6 +1352,7 @@
       ]
     },
     {
+      "itemCode": "hls200",
       "brand": "haldirams",
       "item": " long sev",
       "unitWeight": "200 g",
@@ -1243,6 +1363,7 @@
       ]
     },
     {
+      "itemCode": "hs200",
       "brand": "haldirams",
       "item": "samosa",
       "unitWeight": "200 g",
@@ -1253,6 +1374,7 @@
       ]
     },
     {
+      "itemCode": "pgb80",
       "brand": "parle g",
       "item": "biscuits",
       "unitWeight": "80 g",
@@ -1263,6 +1385,7 @@
       ]
     },
     {
+      "itemCode": "lcpv300",
       "brand": "laziza",
       "item": "custard powder vanilla",
       "unitWeight": "300 g",
@@ -1273,6 +1396,7 @@
       ]
     },
     {
+      "itemCode": "poil200",
       "brand": "parachute",
       "item": "coconut oil",
       "unitWeight": "200ml",
@@ -1283,6 +1407,7 @@
       ]
     },
     {
+      "itemCode": "ktcsso250",
       "brand": "ktc",
       "item": "sesame seed oil",
       "unitWeight": "250 ml",
@@ -1293,6 +1418,7 @@
       ]
     },
     {
+      "itemCode": "amoil1",
       "brand": "annam",
       "item": "mustard oil",
       "unitWeight": "1 l",
@@ -1303,6 +1429,7 @@
       ]
     },
     {
+      "itemCode": "rltp450",
       "brand": "Red Label",
       "item": "tea powder",
       "unitWeight": "450 g",
@@ -1313,6 +1440,7 @@
       ]
     },
     {
+      "itemCode": "wbpltj495",
       "brand": "Wagh Bakri",
       "item": "premium leaf tee jar",
       "unitWeight": "495 g",
@@ -1323,6 +1451,7 @@
       ]
     },
     {
+      "itemCode": "tmtp450",
       "brand": "Taj Mahal",
       "item": "tea powder",
       "unitWeight": "450 g",
@@ -1333,6 +1462,7 @@
       ]
     },
     {
+      "itemCode": "dvp1",
       "brand": "dairy valley",
       "item": "paneer",
       "unitWeight": "1 kg",

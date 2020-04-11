@@ -1,5 +1,7 @@
 import React from 'react';
+import { connect } from 'react-redux';
 import { withStyles } from '@material-ui/core/styles';
+import { reduce } from 'lodash';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import IconButton from '@material-ui/core/IconButton';
@@ -10,7 +12,7 @@ import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 
 import styles from './AppBar.style.js';
 
-const AppBarComp = ({ classes, value, onChange, menuClickHandler }) => {
+const AppBarComp = ({ classes, value, onChange, menuClickHandler, onCartClick, total }) => {
   return (
     <div className={classes.grow}>
       <AppBar position="static">
@@ -47,8 +49,9 @@ const AppBarComp = ({ classes, value, onChange, menuClickHandler }) => {
               aria-label="Your items"
               aria-haspopup="true"
               color="inherit"
+              disabled={total <= 0}
             >
-              <AddShoppingCartIcon fontSize="large" />
+              <AddShoppingCartIcon fontSize="large" onClick={onCartClick} />
             </IconButton>
           </div>
         </Toolbar>
@@ -57,4 +60,11 @@ const AppBarComp = ({ classes, value, onChange, menuClickHandler }) => {
   );
 }
 
-export default withStyles(styles)(AppBarComp);
+const mapStateToProps = state => {
+  const total = reduce(state.cart, (result, item) => {
+    return item.quantity * item.unitPrice + result;
+  }, 0);
+  return { total }
+}
+
+export default withStyles(styles)(connect(mapStateToProps)(AppBarComp));
