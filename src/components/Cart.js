@@ -19,7 +19,7 @@ const useStyles = makeStyles(theme => ({
   table: {
     width: 500,
     [theme.breakpoints.down('sm')]: {
-      width: '90%',
+      width: '80%',
     },
   },
   copyOrder: {
