@@ -56,7 +56,6 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
           </CardContent>
           <CardActions disableSpacing>
             <div className="qtyContainer">
-              Qty.
               <input
                 className={classes.quantity}
                 type="number"

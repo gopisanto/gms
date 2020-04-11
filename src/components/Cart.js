@@ -19,7 +19,7 @@ const useStyles = makeStyles(theme => ({
   table: {
     width: 500,
     [theme.breakpoints.down('sm')]: {
-      width: 250,
+      width: 180,
     },
   },
   copyOrder: {
@@ -31,6 +31,11 @@ const useStyles = makeStyles(theme => ({
   },
   deleteItem: {
     cursor: 'pointer'
+  },
+  cartContainer: {
+    width: '90%',
+    height: '100%',
+    margin: '0 auto'
   }
 }));
 
@@ -56,7 +61,7 @@ const Cart = ({ cart, onBack, total, deleteItemFromCart }) => {
   }
 
   return (
-    <div>
+    <div className={classes.cartContainer}>
       <Button color="primary" onClick={onBack}><h2>{goBack}</h2></Button>
       <h2 className={classes.ctr}>Invoice</h2>
       <TableContainer component={Paper}>
