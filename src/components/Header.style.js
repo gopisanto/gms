@@ -12,10 +12,10 @@ export default (theme) => ({
     fontFamily: 'Arial, Helvetica, sans-serif',
     textShadow: '2px 2px 2px rgba(206,89,55,0)',
     [theme.breakpoints.up('sm')]: {
-      backgroundPosition: '20%'
+      backgroundPosition: '18%'
     },
     [theme.breakpoints.up('md')]: {
-      backgroundPosition: '33%'
+      backgroundPosition: '35%'
     },
   },
   headerTitle: {

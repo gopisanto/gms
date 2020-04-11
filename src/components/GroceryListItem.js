@@ -17,7 +17,7 @@ import { formatCurrency } from '../helper';
 import styles from './GroceryListItem.style';
 
 const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
-  const [qty, setQty] = useState(quantity);
+  const [qty, setQty] = useState();
   const [addedToCart, setAddedToCart] = useState(false);
   const onAddToCart = () => {
     addItem({
