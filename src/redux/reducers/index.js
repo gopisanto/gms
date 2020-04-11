@@ -20,7 +20,7 @@ export default (state = Immutable({ cart: {} }), action) => {
       const { quantity, unitPrice, itemCode, name, unitWeight, brand } = payload;
       return state.setIn(['cart', payload.itemCode], { itemCode, quantity, unitPrice, name, unitWeight, brand });
     case DELETE_ITEM_FROM_CART:
-      return state.setIn(['cart', payload], { itemCode: payload, quantity: 0 });
+      return state.setIn(['cart', payload.itemCode], { ...payload, quantity: 0 });
     default: return state;
   }
 }

@@ -10,6 +10,7 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 import Button from '@material-ui/core/Button';
+import CloseIcon from '@material-ui/icons/Close';
 import copy from 'copy-to-clipboard';
 import { deleteItemFromCart } from '../redux/reducers';
 import { formatCurrency } from '../helper';
@@ -24,6 +25,9 @@ const useStyles = makeStyles({
   ctr: {
     textAlign: 'center',
     textDecoration: 'underline'
+  },
+  deleteItem: {
+    cursor: 'pointer'
   }
 });
 
@@ -41,7 +45,12 @@ const Cart = ({ cart, onBack, total, deleteItemFromCart }) => {
   const classes = useStyles();
   const goBack = 'X';
   copy(prepareCopyText(cart, total));
-  const handleItemDelete = itemCode => deleteItemFromCart(itemCode);
+  const handleItemDelete = item => deleteItemFromCart(item);
+
+  if (total <= 0) {
+    onBack();
+    return null;
+  }
 
   return (
     <div>
@@ -55,6 +64,7 @@ const Cart = ({ cart, onBack, total, deleteItemFromCart }) => {
               <TableCell align="right"><h4>Quantity</h4></TableCell>
               <TableCell align="right"><h4>Unit price</h4></TableCell>
               <TableCell align="right"><h4>Total</h4></TableCell>
+              <TableCell align="right"></TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
@@ -64,7 +74,7 @@ const Cart = ({ cart, onBack, total, deleteItemFromCart }) => {
                 <TableCell align="center">{row.quantity}</TableCell>
                 <TableCell align="right">{`${formatCurrency(row.unitPrice)}`}</TableCell>
                 <TableCell align="right">{formatCurrency(row.quantity * row.unitPrice)}</TableCell>
-                <TableCell align="center" onClick={() => handleItemDelete(row.itemCode)}>X</TableCell>
+                <TableCell align="center" className={classes.deleteItem} onClick={() => handleItemDelete(row)}><CloseIcon color="primary" /></TableCell>
               </TableRow>
             ))}
             <TableRow>

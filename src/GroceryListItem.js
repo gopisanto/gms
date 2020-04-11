@@ -6,6 +6,10 @@ import CardMedia from '@material-ui/core/CardMedia';
 import CardContent from '@material-ui/core/CardContent';
 import CardActions from '@material-ui/core/CardActions';
 import Typography from '@material-ui/core/Typography';
+import Snackbar from '@material-ui/core/Snackbar';
+import MuiAlert from '@material-ui/lab/Alert';
+import IconButton from '@material-ui/core/IconButton';
+import CloseIcon from '@material-ui/icons/Close';
 import Button from '@material-ui/core/Button';
 import { withStyles } from '@material-ui/core/styles';
 import { connect } from 'react-redux';
@@ -16,14 +20,19 @@ import styles from './GroceryListItem.style';
 
 const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
   const [qty, setQty] = useState(quantity);
-  const onAddToCart = () => addItem({
-    quantity: qty,
-    unitPrice: item.unitPrice,
-    itemCode: item.itemCode,
-    brand: item.brand,
-    name: item.item,
-    unitWeight: item.unitWeight
-  });
+  const [addedToCart, setAddedToCart] = useState(false);
+  const onAddToCart = () => {
+    addItem({
+      quantity: qty,
+      unitPrice: item.unitPrice,
+      itemCode: item.itemCode,
+      brand: item.brand,
+      name: item.item,
+      unitWeight: item.unitWeight
+    });
+    setQty(0);
+    setAddedToCart(true);
+  }
   const onQtyChange = ({ target: { value } }) => {
     if (value >= 0) {
       setQty(value)
@@ -66,6 +75,19 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
               >
                 Add to cart
               </Button>
+              <Snackbar
+                open={addedToCart}
+                autoHideDuration={3000}
+                onClose={() => setAddedToCart(false)}
+                anchorOrigin={{
+                  vertical: 'top',
+                  horizontal: 'right',
+                }}
+              >
+                <MuiAlert onClose={() => setAddedToCart(false)} severity="success">
+                  {`${item.brand} ${item.item} added to cart.`}
+                </MuiAlert>
+              </Snackbar>
             </div>
           </CardActions>
         </Card>

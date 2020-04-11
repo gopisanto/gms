@@ -35,5 +35,8 @@ export default ({
     marginLeft: '10px',
     borderRadius: '5px',
     padding: '5px'
+  },
+  qtyContainer: {
+    position: 'relative'
   }
 });

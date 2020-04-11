@@ -5,6 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.9",
     "@material-ui/icons": "^4.2.1",
+    "@material-ui/lab": "^4.0.0-alpha.49",
     "clsx": "^1.0.4",
     "copy-to-clipboard": "^3.2.1",
     "eslint-utils": "^1.4.1",
