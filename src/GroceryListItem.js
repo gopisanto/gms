@@ -24,6 +24,11 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
     name: item.item,
     unitWeight: item.unitWeight
   });
+  const onQtyChange = ({ target: { value } }) => {
+    if (value >= 0) {
+      setQty(value)
+    }
+  }
   return (
     <Grid item xs={6} md={3} key={`${item.item}-${item.unitWeight}-${item.brand}`}>
       <Paper variant="outlined" square className={classes.paper}>
@@ -45,7 +50,13 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
           <CardActions disableSpacing>
             <div className="qtyContainer">
               Qty.
-              <input className={classes.quantity} type="number" placeholder="Qty." value={qty} onChange={({ target: { value } }) => setQty(value)} />
+              <input
+                className={classes.quantity}
+                type="number"
+                placeholder="Qty."
+                min='0'
+                value={qty}
+                onChange={onQtyChange} />
               <Button
                 variant="contained"
                 color="primary"
