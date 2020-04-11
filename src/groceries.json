@@ -2,7 +2,7 @@
   "groceries": [
     {
       "itemCode": "hp",
-      "brand": "trs",
+      "brand": "schani",
       "item": "haldi power",
       "unitWeight": "100 g",
       "unitPrice": 1,
@@ -199,7 +199,8 @@
       "available": false,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/aaatta.png"
     },
     {
       "itemCode": "ama2",
@@ -210,7 +211,8 @@
       "available": false,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/aamul.png"
     },
     {
       "itemCode": "amaep5",
@@ -221,36 +223,27 @@
       "available": false,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/aamul.png"
     },
     {
       "itemCode": "aca5",
       "brand": "aashirwaad",
       "item": "chapathi atta",
       "unitWeight": "5 kg",
-      "unitPrice": 0,
-      "available": false,
+      "unitPrice": 6.5,
+      "available": true,
       "categoryCode": [
         "F001"
-      ]
-    },
-    {
-      "itemCode": "aca10",
-      "brand": "aashirwaad",
-      "item": "chapathi atta",
-      "unitWeight": "10 kg",
-      "unitPrice": 0,
-      "available": false,
-      "categoryCode": [
-        "F001"
-      ]
+      ],
+      "imgUrl": "/images/aaatta.png"
     },
     {
       "itemCode": "amca5",
       "brand": "amratsari",
       "item": "chapathi atta",
       "unitWeight": "5 Kg",
-      "unitPrice": 6.0,
+      "unitPrice": 6.5,
       "available": true,
       "categoryCode": [
         "F001"
@@ -343,11 +336,11 @@
     },
     {
       "itemCode": "ttd2",
-      "brand": "trs",
+      "brand": "trs / heera",
       "item": "toor dal",
       "unitWeight": "2 kg",
-      "unitPrice": 5.9,
-      "available": false,
+      "unitPrice": 6.5,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
@@ -358,7 +351,7 @@
       "brand": "trs",
       "item": "toor dal",
       "unitWeight": "500 g",
-      "unitPrice": 1.6,
+      "unitPrice": 1.8,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -466,11 +459,12 @@
       "brand": "trs",
       "item": "black eye beans",
       "unitWeight": "2 kg",
-      "unitPrice": 0,
+      "unitPrice": 6.0,
       "available": false,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/blackeye.png"
     },
     {
       "itemCode": "tbeb500",
@@ -481,7 +475,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/blackeye.png"
     },
     {
       "itemCode": "tmw2",
@@ -492,7 +487,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/mungdalwhole.png"
     },
     {
       "brand": "trs",
@@ -502,7 +498,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/redmasoordal.png"
     },
     {
       "itemCode": "tbl500",
@@ -513,7 +510,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/brownlentils.png"
     },
     {
       "itemCode": "tgl500",
@@ -524,7 +522,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/greenlentils.png"
     },
     {
       "itemCode": "tcwrl150",
@@ -535,7 +534,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/rchilli.png"
     },
     {
       "itemCode": "tcwwseh400",
@@ -546,7 +546,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/rcextra.png"
     },
     {
       "itemCode": "arf1.5",
@@ -557,7 +558,8 @@
       "available": true,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/riceflour.png"
     },
     {
       "itemCode": "sgf1",
@@ -568,7 +570,8 @@
       "available": true,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/gramflour.png"
     },
     {
       "itemCode": "tjf1",
@@ -579,7 +582,8 @@
       "available": true,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/juwarflour.png"
     },
     {
       "itemCode": "arf1",
@@ -590,7 +594,8 @@
       "available": true,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/ragiflour.png"
     },
     {
       "itemCode": "tcmc1.5",
@@ -601,7 +606,8 @@
       "available": true,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/cornmeal.png"
     },
     {
       "itemCode": "tcp300",
@@ -612,15 +618,16 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/cocopowder.png"
     },
     {
       "itemCode": "ahs500",
-      "brand": "annam",
+      "brand": "shan",
       "item": "himalayan salt",
-      "unitWeight": "500 g",
-      "unitPrice": 2.9,
-      "available": false,
+      "unitWeight": "800 g",
+      "unitPrice": 4.4,
+      "available": true,
       "categoryCode": [
         "S0001"
       ]
@@ -634,7 +641,8 @@
       "available": true,
       "categoryCode": [
         "RW001"
-      ]
+      ],
+      "imgUrl": "/images/idlyrawa.png"
     },
     {
       "itemCode": "aur1",
@@ -645,7 +653,8 @@
       "available": true,
       "categoryCode": [
         "RW001"
-      ]
+      ],
+      "imgUrl": "/images/upmarawa.png"
     },
     {
       "itemCode": "tscr500",
@@ -656,7 +665,8 @@
       "available": true,
       "categoryCode": [
         "RW001"
-      ]
+      ],
+      "imgUrl": "/images/semolina.png"
     },
     {
       "itemCode": "tc50",
@@ -667,7 +677,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/cardmom.png"
     },
     {
       "itemCode": "tps100",
@@ -678,7 +689,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/poopy.png"
     },
     {
       "itemCode": "kd50",
@@ -689,7 +701,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/cinnamon.png"
     },
     {
       "itemCode": "sdw100",
@@ -700,7 +713,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/wholedhaniya.png"
     },
     {
       "itemCode": "ac50",
@@ -711,7 +725,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/cloves.png"
     },
     {
       "itemCode": "tbp100",
@@ -722,7 +737,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/blackpepper.png"
     },
     {
       "itemCode": "tsj50",
@@ -733,7 +749,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/sjeera.png"
     },
     {
       "itemCode": "ta100",
@@ -744,7 +761,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/ajwain.png"
     },
     {
       "itemCode": "ajm25",
@@ -755,7 +773,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/javentry.png"
     },
     {
       "itemCode": "afs50",
@@ -766,7 +785,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/fennelseeds.png"
     },
     {
       "itemCode": "wbs100",
@@ -788,7 +808,8 @@
       "available": true,
       "categoryCode": [
         "P001"
-      ]
+      ],
+      "imgUrl": "/images/lijjatmasalapapad.png"
     },
     {
       "itemCode": "ljpg200",
@@ -799,7 +820,8 @@
       "available": true,
       "categoryCode": [
         "P001"
-      ]
+      ],
+      "imgUrl": "/images/jeerapapad.png"
     },
     {
       "itemCode": "tdp100",
@@ -810,7 +832,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/dpowder.png"
     },
     {
       "itemCode": "tjp400",
@@ -821,7 +844,20 @@
       "available": false,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/jpowder.png"
+    },
+    {
+      "itemCode": "tjp100",
+      "brand": "trs",
+      "item": "jeera powder",
+      "unitWeight": "100 g",
+      "unitPrice": 1.2,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/jpowder.png"
     },
     {
       "itemCode": "msp200",
@@ -832,7 +868,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/sampow.png"
     },
     {
       "itemCode": "ggjm200",
@@ -843,7 +880,8 @@
       "available": true,
       "categoryCode": [
         "RD001"
-      ]
+      ],
+      "imgUrl": "/images/gitsgulab.png"
     },
     {
       "itemCode": "ats500",
@@ -854,7 +892,8 @@
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
+      ],
+      "imgUrl": "/images/tapsmall.png"
     },
     {
       "itemCode": "ttm300",
@@ -865,7 +904,8 @@
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
+      ],
+      "imgUrl": "/images/tapmed.png"
     },
     {
       "itemCode": "asc250",
@@ -876,18 +916,8 @@
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
-    },
-    {
-      "itemCode": "asc500",
-      "brand": "annam",
-      "item": "soya chunks (small)",
-      "unitWeight": "500 g",
-      "unitPrice": 2.5,
-      "available": false,
-      "categoryCode": [
-        "PM001"
-      ]
+      ],
+      "imgUrl": "/images/soyachunks.png"
     },
     {
       "itemCode": "hpm1",
@@ -898,18 +928,20 @@
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
+      ],
+      "imgUrl": "/images/powa.png"
     },
     {
       "itemCode": "ampr400",
       "brand": "annam",
-      "item": "marma / puffed rice",
+      "item": "mamra / puffed rice",
       "unitWeight": "400 g",
       "unitPrice": 3.9,
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
+      ],
+      "imgUrl": "/images/mamra.png"
     },
     {
       "itemCode": "apm200",
@@ -920,7 +952,8 @@
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
+      ],
+      "imgUrl": "/images/phoolmakhana.png"
     },
     {
       "itemCode": "avs500",
@@ -931,7 +964,8 @@
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
+      ],
+      "imgUrl": "/images/vermicellirost.png"
     },
     {
       "itemCode": "kgppp200",
@@ -942,7 +976,8 @@
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
+      ],
+      "imgUrl": "/images/golgappa.png"
     },
     {
       "itemCode": "ams100",
@@ -953,7 +988,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/mustardseeds.png"
     },
     {
       "itemCode": "acs100",
@@ -964,11 +1000,12 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/cumin.png"
     },
     {
-      "itemCode": "sms100",
-      "brand": "schani",
+      "itemCode": "tms100",
+      "brand": "trs",
       "item": "methi seeds",
       "unitWeight": "100 g",
       "unitPrice": 0.9,
@@ -986,7 +1023,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/kasoori.png"
     },
     {
       "itemCode": "mgm100",
@@ -997,7 +1035,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/garam.png"
     },
     {
       "itemCode": "ngm100",
@@ -1008,7 +1047,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/garam.png"
     },
     {
       "itemCode": "sssw100",
@@ -1019,7 +1059,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/sesame.png"
     },
     {
       "itemCode": "arc500",
@@ -1030,7 +1071,8 @@
       "available": true,
       "categoryCode": [
         "DL001"
-      ]
+      ],
+      "imgUrl": "/images/rostcha.png"
     },
     {
       "itemCode": "mbm100",
@@ -1041,7 +1083,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/birmasala.png"
     },
     {
       "itemCode": "mpb100",
@@ -1052,7 +1095,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/pavbhaji.png"
     },
     {
       "itemCode": "mkk100",
@@ -1063,7 +1107,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/kking.png"
     },
     {
       "itemCode": "map100",
@@ -1074,7 +1119,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/amchur.png"
     },
     {
       "itemCode": "mcm100",
@@ -1085,7 +1131,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/chatmasala.png"
     },
     {
       "itemCode": "kbl30",
@@ -1096,7 +1143,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/bayleaves.png"
     },
     {
       "itemCode": "tdc250",
@@ -1184,7 +1232,8 @@
       "available": true,
       "categoryCode": [
         "SS001"
-      ]
+      ],
+      "imgUrl": "/images/jaggery.png"
     },
     {
       "itemCode": "kbg500",
@@ -1195,7 +1244,8 @@
       "available": true,
       "categoryCode": [
         "O001"
-      ]
+      ],
+      "imgUrl": "/images/bghee.png"
     },
     {
       "itemCode": "tcpeh100",
@@ -1206,7 +1256,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/chillipow.png"
     },
     {
       "itemCode": "tpp375",
@@ -1217,7 +1268,8 @@
       "available": true,
       "categoryCode": [
         "SS001"
-      ]
+      ],
+      "imgUrl": "/images/pinkpeanuts.png"
     },
     {
       "itemCode": "mmn70",
@@ -1228,18 +1280,20 @@
       "available": true,
       "categoryCode": [
         "PM001"
-      ]
+      ],
+      "imgUrl": "/images/maggi.png"
     },
     {
       "itemCode": "fg250",
       "brand": "",
       "item": "fresh ginger",
       "unitWeight": "250 g",
-      "unitPrice": 1.7,
+      "unitPrice": 0,
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/ginger.png"
     },
     {
       "itemCode": "fgr250",
@@ -1250,14 +1304,15 @@
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/garlic.png"
     },
     {
       "itemCode": "hmggp500",
       "brand": "home made",
       "item": "ginger / garlic paste",
       "unitWeight": "500 g",
-      "unitPrice": 4,
+      "unitPrice": 5.0,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1272,40 +1327,44 @@
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/gchilli.png"
     },
     {
       "itemCode": "fgc250",
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "250 g",
-      "unitPrice": 1.8,
+      "unitPrice": 0,
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/gchilli.png"
     },
     {
       "itemCode": "fgc500",
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "500 g",
-      "unitPrice": 3.0,
+      "unitPrice": 0,
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/gchilli.png"
     },
     {
       "itemCode": "fgc1",
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "1 kg",
-      "unitPrice": 5.5,
+      "unitPrice": 0,
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/gchilli.png"
     },
     {
       "itemCode": "hab200",
@@ -1316,7 +1375,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/haloobhujia.png"
     },
     {
       "itemCode": "hpb200",
@@ -1327,7 +1387,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/hplainbhujia.png"
     },
     {
       "itemCode": "haio200",
@@ -1338,7 +1399,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/allinone.png"
     },
     {
       "itemCode": "hmb200",
@@ -1349,7 +1411,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/hboondimasala.png"
     },
     {
       "itemCode": "hls200",
@@ -1360,7 +1423,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/hlongsev.png"
     },
     {
       "itemCode": "hs200",
@@ -1371,7 +1435,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/hsamosa.png"
     },
     {
       "itemCode": "pgb80",
@@ -1382,7 +1447,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/parleg.png"
     },
     {
       "itemCode": "lcpv300",
@@ -1393,7 +1459,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/custpowder.png"
     },
     {
       "itemCode": "poil200",
@@ -1404,18 +1471,8 @@
       "available": true,
       "categoryCode": [
         "O001"
-      ]
-    },
-    {
-      "itemCode": "ktcsso250",
-      "brand": "ktc",
-      "item": "sesame seed oil",
-      "unitWeight": "250 ml",
-      "unitPrice": 3.5,
-      "available": false,
-      "categoryCode": [
-        "O001"
-      ]
+      ],
+      "imgUrl": "/images/parachuteoil.png"
     },
     {
       "itemCode": "amoil1",
@@ -1426,7 +1483,8 @@
       "available": true,
       "categoryCode": [
         "O001"
-      ]
+      ],
+      "imgUrl": "/images/mustardoil.png"
     },
     {
       "itemCode": "rltp450",
@@ -1437,7 +1495,8 @@
       "available": true,
       "categoryCode": [
         "T001"
-      ]
+      ],
+      "imgUrl": "/images/redlabel.png"
     },
     {
       "itemCode": "wbpltj495",
@@ -1448,7 +1507,8 @@
       "available": true,
       "categoryCode": [
         "T001"
-      ]
+      ],
+      "imgUrl": "/images/waghbakri.png"
     },
     {
       "itemCode": "tmtp450",
@@ -1459,7 +1519,8 @@
       "available": true,
       "categoryCode": [
         "T001"
-      ]
+      ],
+      "imgUrl": "/images/tajmahal.png"
     },
     {
       "itemCode": "dvp1",
