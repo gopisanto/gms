@@ -17,9 +17,9 @@ import { formatCurrency } from '../helper';
 
 const useStyles = makeStyles(theme => ({
   table: {
-    minWidth: 500,
+    width: 500,
     [theme.breakpoints.down('sm')]: {
-      width: 200,
+      width: '100%',
     },
   },
   copyOrder: {
