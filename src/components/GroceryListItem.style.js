@@ -41,5 +41,26 @@ export default (theme => ({
   },
   qtyContainer: {
     position: 'relative'
+  },
+  itemContainer: {
+    position: 'relative'
+  },
+  outOfStock: {
+    position: 'absolute',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: '100%',
+    height: '100%',
+    top: '0',
+    left: '0',
+    right: '0',
+    bottom: '0',
+    zIndex: '2',
+    fontSize: '24px',
+    color: 'red',
+    opacity: '0.6',
+    fontWeight: 'bold',
+    transform: 'rotate(-45deg)'
   }
 }));
