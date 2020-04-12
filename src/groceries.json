@@ -78,7 +78,7 @@
       "item": "basmathi rice",
       "unitWeight": "5 kg",
       "unitPrice": 13.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -125,7 +125,7 @@
       "item": "ponni boiled rice",
       "unitWeight": "5 kg",
       "unitPrice": 12.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -447,7 +447,7 @@
       "brand": "trs",
       "item": "green peas",
       "unitWeight": "500 g",
-      "unitPrice": 1.6,
+      "unitPrice": 2.1,
       "available": true,
       "categoryCode": [
         "DL001"
