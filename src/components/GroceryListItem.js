@@ -46,7 +46,7 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
         <Card className={classes.root}>
           <CardMedia
             className={classes.media}
-            image={`${item.imgUrl}`}
+            image={!!item.imgUrl ? require(`../../src${item.imgUrl}`) : null}
             title={`${item.brand} ${item.item} ${item.unitWeight}`}
           />
           <CardContent classes={{ root: classes.content }}>
