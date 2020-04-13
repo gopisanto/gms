@@ -8,7 +8,7 @@
     "bellName": ""
   },
   {
-    "name": "Alok Bethel",
+    "name": "Alok Bethel",/
     "mobile": "+49 1523 3970215",
     "whatsapp": "+49 1523 3970215",
     "address": "Sewanstrasse 247, 10319, lichtenberg",
@@ -134,5 +134,13 @@
     "address": "Sparrstraße 9, 13353 Berlin",
     "floor": "17th floor",
     "bellName": "sneha Routhu"
+  },
+  {
+    "name": "arpita",
+    "mobile": "+49 17689263200",
+    "whatsapp": "+91 8904296275",
+    "address": "Mittlestrasse 22, 13055 berlin",
+    "floor": "",
+    "bellName": "Ayesha Firdose"
   }
 ]
