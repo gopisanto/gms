@@ -901,7 +901,7 @@
       "item": "tapioca (sabudana) medium",
       "unitWeight": "300 g",
       "unitPrice": 1.9,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "PM001"
       ],
