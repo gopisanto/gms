@@ -1068,7 +1068,7 @@
       "item": "roasted chana",
       "unitWeight": "500 g",
       "unitPrice": 4.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
