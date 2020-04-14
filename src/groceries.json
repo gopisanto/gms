@@ -1524,11 +1524,11 @@
     },
     {
       "itemCode": "dvp1",
-      "brand": "dairy valley",
+      "brand": "elephant",
       "item": "paneer",
-      "unitWeight": "1 kg",
+      "unitWeight": "1 kg / 1stu",
       "unitPrice": 8.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ]
