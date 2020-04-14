@@ -1319,6 +1319,39 @@
       ]
     },
     {
+      "itemCode": "hmdb500",
+      "brand": "home made",
+      "item": "Dosa batter",
+      "unitWeight": "1 kg",
+      "unitPrice": 7.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ]
+    },
+    {
+      "itemCode": "hmib500",
+      "brand": "home made",
+      "item": "Idly batter",
+      "unitWeight": "1kg",
+      "unitPrice": 7.0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ]
+    },
+    {
+      "itemCode": "hmpp500",
+      "brand": "home made",
+      "item": "puliogare paste",
+      "unitWeight": "250 g",
+      "unitPrice": 2.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ]
+    },
+    {
       "itemCode": "fgc100",
       "brand": "",
       "item": "fresh green chilli",
