@@ -142,5 +142,13 @@
     "address": "Mittlestrasse 22, 13055 berlin",
     "floor": "3rd floor",
     "bellName": "Ayesha Firdose"
+  },
+  {
+    "name": "Alok Sharma",
+    "mobile": "+49 15218653441",
+    "whatsapp": "+91 9654332569",
+    "address": "Heilmannring 71c, 13627",
+    "floor": "2nd floor",
+    "bellName": "Sharma"
   }
 ]
