@@ -42,7 +42,7 @@ const useStyles = makeStyles(theme => ({
 const prepareCopyText = (cart, total) => {
   const description = reduce(cart, (result, item) => {
     if (item.quantity && item.quantity > 0) {
-      return result.concat(`${item.brand} ${item.name}(${item.unitWeight}) ${item.quantity} * ${formatCurrency(item.unitPrice)} = ${formatCurrency(item.quantity * item.unitPrice)}\n`.toUpperCase())
+      return result.concat(`${item.brand} ${item.name}(${item.unitWeight}) ${item.quantity} * ${formatCurrency(item.unitPrice)} = ${formatCurrency(item.quantity * item.unitPrice)}, \n`.toUpperCase())
     }
     return result;
   }, '');
