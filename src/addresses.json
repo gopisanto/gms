@@ -166,5 +166,21 @@
     "address": "Rosenheimer straße 11, 10781, Berlin",
     "floor": "3rd floor",
     "bellName": "Pulicheri"
+  },
+  {
+    "name": "Janu Berlin Telugu",
+    "mobile": "+49 17685647400",
+    "whatsapp": "+49 17685647400",
+    "address": "kopenhagener straße 101, 13158, Berlin",
+    "floor": "5th floor",
+    "bellName": "Raghu Jinka"
+  },
+  {
+    "name": "Patil Berlin",
+    "mobile": "+49 15732374942",
+    "whatsapp": "+49 15732374942",
+    "address": "Goltzstr 51, 13587, Berlin",
+    "floor": "3rd floor",
+    "bellName": "Patil"
   }
 ]
