@@ -232,7 +232,7 @@
       "item": "chapathi atta",
       "unitWeight": "5 kg",
       "unitPrice": 7.0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -333,6 +333,18 @@
         "DL001"
       ],
       "imgUrl": "/images/uridchilka.png"
+    },
+    {
+      "itemCode": "tub",
+      "brand": "trs",
+      "item": "urid beans / urid whole black",
+      "unitWeight": "2 kg",
+      "unitPrice": 7.2,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/uridblack.png"
     },
     {
       "itemCode": "ttd2",
@@ -686,7 +698,7 @@
       "item": "poppy seeds ",
       "unitWeight": "100 g",
       "unitPrice": 1.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -746,7 +758,7 @@
       "item": "shahi jeera",
       "unitWeight": "50 g",
       "unitPrice": 1.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],

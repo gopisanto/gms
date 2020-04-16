@@ -8,6 +8,7 @@
     "@material-ui/lab": "^4.0.0-alpha.49",
     "clsx": "^1.0.4",
     "copy-to-clipboard": "^3.2.1",
+    "dom-to-image": "^2.6.0",
     "eslint-utils": "^1.4.1",
     "fg-loadcss": "^2.1.0",
     "react": "^16.9.0",
