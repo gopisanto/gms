@@ -12,7 +12,6 @@ import Paper from '@material-ui/core/Paper';
 import Button from '@material-ui/core/Button';
 import CloseIcon from '@material-ui/icons/Close';
 import copy from 'copy-to-clipboard';
-import domToImage from 'dom-to-image';
 import { deleteItemFromCart } from '../redux/reducers';
 import { formatCurrency } from '../helper';
 
@@ -41,10 +40,6 @@ const useStyles = makeStyles(theme => ({
 }));
 
 const prepareCopyText = (cart, total) => {
-  domToImage.toSvg(document.getElementById('cart'))
-    .then(function (dataUrl) {
-      copy(dataUrl);
-    });
   const description = reduce(cart, (result, item) => {
     if (item.quantity && item.quantity > 0) {
       return result.concat(`${item.brand} ${item.name}(${item.unitWeight}) ${item.quantity} * ${formatCurrency(item.unitPrice)} = ${formatCurrency(item.quantity * item.unitPrice)}, \n`.toUpperCase())
@@ -57,7 +52,7 @@ const prepareCopyText = (cart, total) => {
 const Cart = ({ cart, onBack, total, deleteItemFromCart }) => {
   const classes = useStyles();
   const goBack = 'X';
-  prepareCopyText(cart, total);
+  copy(prepareCopyText(cart, total));
   const handleItemDelete = item => deleteItemFromCart(item);
 
   if (total <= 0) {
