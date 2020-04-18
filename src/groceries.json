@@ -574,6 +574,18 @@
       "imgUrl": "/images/riceflour.png"
     },
     {
+      "itemCode": "wzmhl1",
+      "brand": "",
+      "item": "Maida / Weizenmehl",
+      "unitWeight": "1.0 kg",
+      "unitPrice": 0.9,
+      "available": true,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/riceflour.png"
+    },
+    {
       "itemCode": "sgf1",
       "brand": "schani",
       "item": "gram flour / besan",
@@ -1422,6 +1434,18 @@
         "SN0001"
       ],
       "imgUrl": "/images/haloobhujia.png"
+    },
+    {
+      "itemCode": "almnds",
+      "brand": "",
+      "item": "Almonds",
+      "unitWeight": "250 g",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/almonds.png"
     },
     {
       "itemCode": "hpb200",
