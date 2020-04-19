@@ -1585,7 +1585,7 @@
       "item": "tea powder",
       "unitWeight": "450 g",
       "unitPrice": 7.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "T001"
       ],
