@@ -53,7 +53,7 @@ export default (theme => ({
     width: '100%',
     height: '100%',
     top: '0',
-    left: '0',
+    left: '12%',
     right: '0',
     bottom: '0',
     zIndex: '2',
@@ -61,7 +61,7 @@ export default (theme => ({
     color: 'red',
     opacity: '0.6',
     fontWeight: 'bold',
-    transform: 'rotate(-45deg)'
+    // transform: 'rotate(-45deg)'
   },
   outOfStockPrice: {
     backgroundColor: 'black',
