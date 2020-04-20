@@ -185,10 +185,18 @@
   },
   {
     "name": "Kshitij Batra Berlin",
-    "mobile": "",
+    "mobile": "01735218807",
     "whatsapp": "+91 8447970291",
     "address": "Riemenschneiderweg 28, 12157, Berlin",
-    "floor": "",
+    "floor": "2nd floor",
     "bellName": "Kshitij Batra"
+  },
+  {
+    "name": "Noorla, Kommanamanchi",
+    "mobile": "+49 15175126584",
+    "whatsapp": "+91 9949170375",
+    "address": "Streitstr 62, 13587, Berlin Spandau",
+    "floor": "1st floor",
+    "bellName": "Noorla, Kommanamanchi"
   }
 ]
