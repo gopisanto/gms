@@ -848,6 +848,28 @@
       "imgUrl": "/images/jeerapapad.png"
     },
     {
+      "itemCode": "ashslp500",
+      "brand": "Ashoka",
+      "item": "Sweet Lime Pickle",
+      "unitWeight": "500 g",
+      "unitPrice": 3.2,
+      "available": true,
+      "categoryCode": [
+        "P001"
+      ]
+    },
+    {
+      "itemCode": "ashmp500",
+      "brand": "Ashoka",
+      "item": "Mango Pickle",
+      "unitWeight": "500 g",
+      "unitPrice": 3.2,
+      "available": true,
+      "categoryCode": [
+        "P001"
+      ]
+    },
+    {
       "itemCode": "tdp100",
       "brand": "trs",
       "item": "dhaniya powder",
@@ -1600,6 +1622,17 @@
       "available": true,
       "categoryCode": [
         "FR001"
+      ]
+    },
+    {
+      "itemCode": "anmlsmr5",
+      "brand": "Anmol",
+      "item": "Sona Masuri Rice",
+      "unitWeight": "5kg",
+      "unitPrice": 9.7,
+      "available": true,
+      "categoryCode": [
+        "R001"
       ]
     }
   ]
