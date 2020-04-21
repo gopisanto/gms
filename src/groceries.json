@@ -804,8 +804,8 @@
       "itemCode": "afs50",
       "brand": "annam",
       "item": "fennel seeds",
-      "unitWeight": "50 g",
-      "unitPrice": 0.9,
+      "unitWeight": "100 g",
+      "unitPrice": 1.1,
       "available": true,
       "categoryCode": [
         "S0001"
