@@ -54,5 +54,9 @@
   {
     "code": "PJ001",
     "label": "Pooja Items"
+  },
+  {
+    "code": "FRZ001",
+    "label": "Frozen Items"
   }
 ]

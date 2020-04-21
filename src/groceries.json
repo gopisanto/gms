@@ -1446,6 +1446,90 @@
       "imgUrl": "/images/gchilli.png"
     },
     {
+      "itemCode": "okra250",
+      "brand": "",
+      "item": "fresh okra / bhendi",
+      "unitWeight": "250 g",
+      "unitPrice": 1.8,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/okra.png"
+    },
+    {
+      "itemCode": "okra500",
+      "brand": "",
+      "item": "fresh okra / bhendi",
+      "unitWeight": "500 g",
+      "unitPrice": 3.3,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/okra.png"
+    },
+    {
+      "itemCode": "okra1",
+      "brand": "",
+      "item": "fresh okra / bhendi",
+      "unitWeight": "1 kg",
+      "unitPrice": 6.6,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/okra.png"
+    },
+    {
+      "itemCode": "btlgourd",
+      "brand": "",
+      "item": "fresh bottle gourd / louki",
+      "unitWeight": "1 kg",
+      "unitPrice": 6.6,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/bottle_gourd.png"
+    },
+    {
+      "itemCode": "karela250",
+      "brand": "",
+      "item": "fresh karela / bitter gourd",
+      "unitWeight": "250 g",
+      "unitPrice": 1.8,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/karela.png"
+    },
+    {
+      "itemCode": "karela500",
+      "brand": "",
+      "item": "fresh karela / bitter gourd",
+      "unitWeight": "500 g",
+      "unitPrice": 3.3,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/karela.png"
+    },
+    {
+      "itemCode": "karela1",
+      "brand": "",
+      "item": "fresh karela / bitter gourd",
+      "unitWeight": "1 kg",
+      "unitPrice": 6.6,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/karela.png"
+    },
+    {
       "itemCode": "hab200",
       "brand": "haldirams",
       "item": "aloo bhujia ",
@@ -1616,13 +1700,26 @@
     {
       "itemCode": "dvp1",
       "brand": "elephant",
-      "item": "paneer",
-      "unitWeight": "1 kg / 1stu",
+      "item": "Fresh paneer",
+      "unitWeight": "1 kg / 1 stu",
       "unitPrice": 8.5,
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/paneer.png"
+    },
+    {
+      "itemCode": "dvp230",
+      "brand": "elephant",
+      "item": "Fresh paneer",
+      "unitWeight": "apprx. 230 - 270 g packs",
+      "unitPrice": 2.3,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/paneer.png"
     },
     {
       "itemCode": "anmlsmr5",
@@ -1634,6 +1731,42 @@
       "categoryCode": [
         "R001"
       ]
+    },
+    {
+      "itemCode": "partdrnaan",
+      "brand": "Ashoka",
+      "item": "Tandoori Naan",
+      "unitWeight": "1 pack",
+      "unitPrice": 2.3,
+      "available": true,
+      "categoryCode": [
+        "FRZ001"
+      ],
+      "imgUrl": "/images/tandoori_naan.png"
+    },
+    {
+      "itemCode": "parmxdvgtbl",
+      "brand": "Ashoka",
+      "item": "Mixed vegetable paratha",
+      "unitWeight": "1 pack",
+      "unitPrice": 2.3,
+      "available": true,
+      "categoryCode": [
+        "FRZ001"
+      ],
+      "imgUrl": "/images/mixed_veg_paratha.png"
+    },
+    {
+      "itemCode": "paraloo",
+      "brand": "Ashoka",
+      "item": "Aloo Paratha",
+      "unitWeight": "1 pack",
+      "unitPrice": 2.3,
+      "available": true,
+      "categoryCode": [
+        "FRZ001"
+      ],
+      "imgUrl": "/images/aloo_paratha.png"
     }
   ]
 }

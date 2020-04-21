@@ -11,8 +11,10 @@ export default (theme) => ({
   },
   groceries: {
     width: '70%',
+    height: '800px',
     [theme.breakpoints.down('sm')]: {
-      width: '100%',
+      width: '100%'
     },
+    overflow: 'auto'
   }
 });
