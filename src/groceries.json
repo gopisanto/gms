@@ -615,7 +615,7 @@
       "item": "ragi flour",
       "unitWeight": "1 kg",
       "unitPrice": 2.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -710,7 +710,7 @@
       "item": "poppy seeds ",
       "unitWeight": "100 g",
       "unitPrice": 1.3,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
