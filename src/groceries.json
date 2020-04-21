@@ -858,6 +858,18 @@
         "P001"
       ]
     },
+     {
+      "itemCode": "ashlp500",
+      "brand": "Ashoka",
+      "item": " Lime Pickle",
+      "unitWeight": "500 g",
+      "unitPrice": 3.2,
+      "available": true,
+      "categoryCode": [
+        "P001"
+      ]
+    },
+
     {
       "itemCode": "ashmp500",
       "brand": "Ashoka",
