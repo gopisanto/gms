@@ -615,7 +615,7 @@
       "item": "ragi flour",
       "unitWeight": "1 kg",
       "unitPrice": 2.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -710,7 +710,7 @@
       "item": "poppy seeds ",
       "unitWeight": "100 g",
       "unitPrice": 1.3,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
@@ -804,8 +804,8 @@
       "itemCode": "afs50",
       "brand": "annam",
       "item": "fennel seeds",
-      "unitWeight": "50 g",
-      "unitPrice": 0.9,
+      "unitWeight": "100 g",
+      "unitPrice": 1.1,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -858,6 +858,18 @@
         "P001"
       ]
     },
+     {
+      "itemCode": "ashlp500",
+      "brand": "Ashoka",
+      "item": " Lime Pickle",
+      "unitWeight": "500 g",
+      "unitPrice": 3.2,
+      "available": true,
+      "categoryCode": [
+        "P001"
+      ]
+    },
+
     {
       "itemCode": "ashmp500",
       "brand": "Ashoka",
