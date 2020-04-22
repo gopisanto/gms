@@ -16,7 +16,7 @@ import { addToCart } from '../redux/reducers';
 import { formatCurrency } from '../helper';
 import styles from './GroceryListItem.style';
 
-const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
+const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
   const [qty, setQty] = useState();
   const [addedToCart, setAddedToCart] = useState(false);
   const onAddToCart = () => {
@@ -28,7 +28,7 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
       name: item.item,
       unitWeight: item.unitWeight
     });
-    setQty(0);
+    setQty('');
     setAddedToCart(true);
   }
   const onQtyChange = ({ target: { value } }) => {
@@ -73,6 +73,7 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
                 size="small"
                 className={classes.addToCart}
                 onClick={onAddToCart}
+                disabled={!qty || qty <= 0}
               >
                 To cart
               </Button>
@@ -85,7 +86,7 @@ const GroceryListItem = ({ item, quantity, classes, addToCart: addItem }) => {
                   horizontal: 'right',
                 }}
               >
-                <MuiAlert onClose={() => setAddedToCart(false)} severity="success">
+                <MuiAlert onClose={() => setAddedToCart(false)} severity="success" variant="filled">
                   {`${item.brand} ${item.item} added to cart.`}
                 </MuiAlert>
               </Snackbar>

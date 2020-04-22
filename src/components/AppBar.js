@@ -9,7 +9,8 @@ import InputBase from '@material-ui/core/InputBase';
 import MenuIcon from '@material-ui/icons/Menu';
 import SearchIcon from '@material-ui/icons/Search';
 import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
-
+import Badge from '@material-ui/core/Badge'
+import { formatCurrency } from '../helper';
 import styles from './AppBar.style.js';
 
 const AppBarComp = ({ classes, value, onChange, menuClickHandler, onCartClick, total }) => {
@@ -43,16 +44,18 @@ const AppBarComp = ({ classes, value, onChange, menuClickHandler, onCartClick, t
             />
           </div>
           <div className={classes.grow} />
-          <div>
-            <IconButton
-              edge="end"
-              aria-label="Your items"
-              aria-haspopup="true"
-              color="inherit"
-              disabled={total <= 0}
-            >
-              <AddShoppingCartIcon fontSize="large" onClick={onCartClick} />
-            </IconButton>
+          <div style={{ marginRight: '20px' }}>
+            <Badge badgeContent={formatCurrency(total)} color="secondary" invisible={total <= 0}>
+              <IconButton
+                edge="end"
+                aria-label="Your items"
+                aria-haspopup="true"
+                color="inherit"
+                disabled={total <= 0}
+              >
+                <AddShoppingCartIcon fontSize="large" onClick={onCartClick} />
+              </IconButton>
+            </Badge>
           </div>
         </Toolbar>
       </AppBar>

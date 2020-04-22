@@ -93,7 +93,8 @@ const Cart = ({ cart, onBack, total, deleteItemFromCart }) => {
         </Table>
       </TableContainer>
       <Button variant="contained" color="primary" className={classes.copyOrder}>Copy the order</Button>
-      <span>{'<-- Click here to copy the order and paste it in Whatsapp'}</span>
+      <span>{'<-- Click here to copy the order'}</span>
+      <div>You can whatsapp your order to +49 15143571582</div>
     </div>
   );
 }
