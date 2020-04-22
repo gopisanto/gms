@@ -8,12 +8,20 @@
     "bellName": ""
   },
   {
+    "name": "",
+    "mobile": "",
+    "whatsapp": "",
+    "address": "",
+    "floor": "",
+    "bellName": ""
+  },
+  {
     "name": "Saravani",
     "mobile": "+49 15901351350",
     "whatsapp": "+49 15901351350",
     "address": "Bärbel-Bohley-Ring, 32, 13355, Berlin",
-    "floor": "",
-    "bellName": ""
+    "floor": "1st floor",
+    "bellName": "Gurajada"
   },
   {
     "name": "Alok Bethel",
