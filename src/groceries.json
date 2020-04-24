@@ -543,7 +543,7 @@
       "item": "chilli whole red long",
       "unitWeight": "150 g",
       "unitPrice": 2.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
