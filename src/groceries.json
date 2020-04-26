@@ -108,6 +108,18 @@
       ]
     },
     {
+      "itemCode": "bbr10",
+      "brand": "banno",
+      "item": "Basmati rice",
+      "unitWeight": "5 kg",
+      "unitPrice": 15,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/bannobasmatirice.png"
+    },
+    {
       "itemCode": "asmr5",
       "brand": "annam",
       "item": "sona masoori rice",
