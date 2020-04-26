@@ -1505,11 +1505,11 @@
       "imgUrl": "/images/arbi.png"
     },
     {
-      "itemCode": "drsticks3",
+      "itemCode": "drsticks1",
       "brand": "",
       "item": "fresh drumsticks",
-      "unitWeight": "3 Stuck",
-      "unitPrice": 1.6,
+      "unitWeight": "1 Kg",
+      "unitPrice": 8,
       "available": true,
       "categoryCode": [
         "FR001"
