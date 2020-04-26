@@ -1413,7 +1413,7 @@
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "100 g",
-      "unitPrice": 1.1,
+      "unitPrice": 1.0,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1425,7 +1425,7 @@
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "250 g",
-      "unitPrice": 3.2,
+      "unitPrice": 2.3,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1437,7 +1437,7 @@
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "500 g",
-      "unitPrice": 5,
+      "unitPrice": 4,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1449,7 +1449,7 @@
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "1 kg",
-      "unitPrice": 10,
+      "unitPrice": 8,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1457,12 +1457,108 @@
       "imgUrl": "/images/gchilli.png"
     },
     {
+      "itemCode": "coriander1",
+      "brand": "",
+      "item": "fresh coriander",
+      "unitWeight": "1 Stuck",
+      "unitPrice": 1.2,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/coriander.png"
+    },
+    {
+      "itemCode": "arbi250",
+      "brand": "",
+      "item": "fresh arbi",
+      "unitWeight": "250 g",
+      "unitPrice": 2,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/arbi.png"
+    },
+    {
+      "itemCode": "arbi500",
+      "brand": "",
+      "item": "fresh arbi",
+      "unitWeight": "500 g",
+      "unitPrice": 3.8,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/arbi.png"
+    },
+    {
+      "itemCode": "arbi1",
+      "brand": "",
+      "item": "fresh arbi",
+      "unitWeight": "1 Kg",
+      "unitPrice": 7.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/arbi.png"
+    },
+    {
+      "itemCode": "drsticks3",
+      "brand": "",
+      "item": "fresh drumsticks",
+      "unitWeight": "3 Stuck",
+      "unitPrice": 1.6,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/drstick.png"
+    },
+    {
+      "itemCode": "ivygourd250",
+      "brand": "",
+      "item": "fresh ivy gourd / Tindly",
+      "unitWeight": "250 g",
+      "unitPrice": 2,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/ivygourd.png"
+    },
+    {
+      "itemCode": "ivygourd500",
+      "brand": "",
+      "item": "fresh ivy gourd / Tindly",
+      "unitWeight": "500 g",
+      "unitPrice": 3.8,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/ivygourd.png"
+    },
+    {
+      "itemCode": "ivygourd1",
+      "brand": "",
+      "item": "fresh ivy gourd / Tindly",
+      "unitWeight": "1 Kg",
+      "unitPrice": 7.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/ivygourd.png"
+    },
+    {
       "itemCode": "okra250",
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
-      "unitPrice": 1.8,
-      "available": false,
+      "unitPrice": 2.0,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1473,8 +1569,8 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
-      "unitPrice": 3.3,
-      "available": false,
+      "unitPrice": 3.8,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1485,8 +1581,8 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "1 kg",
-      "unitPrice": 6.6,
-      "available": false,
+      "unitPrice": 7.5,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
