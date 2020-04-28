@@ -8,6 +8,14 @@
     "bellName": ""
   },
   {
+    "name": "Sonal Berlin",
+    "mobile": "",
+    "whatsapp": "+91 7218126780",
+    "address": "Kufsteiner Strasse 84, 10825, Berlin",
+    "floor": "",
+    "bellName": "Khosla"
+  },
+  {
     "name": "Sakshi Garg",
     "mobile": "+49 15210261114",
     "whatsapp": "+91 8826630846",
@@ -140,8 +148,8 @@
     "mobile": "",
     "whatsapp": "+91 88614 60606",
     "address": "Hallesches ufer 24,10963, berlin",
-    "floor": "",
-    "bellName": ""
+    "floor": "3rd Floor",
+    "bellName": "Kumar"
   },
   {
     "name": "Siri",
