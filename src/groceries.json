@@ -308,9 +308,8 @@
       "categoryCode": [
         "DL001"
       ],
-      "imgUrl": ""
+      "imgUrl": "/images/mung_chilka.png"
     },
-
     {
       "itemCode": "tt454",
       "brand": "thai",
@@ -335,7 +334,7 @@
       ],
       "imgUrl": "/images/uriddal.png"
     },
-        {
+    {
       "itemCode": "tud500",
       "brand": "trs",
       "item": "urid dal",
@@ -347,7 +346,6 @@
       ],
       "imgUrl": "/images/uriddal.png"
     },
-
     {
       "itemCode": "suwb500",
       "brand": "schani",
@@ -533,7 +531,19 @@
       "brand": "trs",
       "item": "mung whole (mung beans green)",
       "unitWeight": "2 kg",
-      "unitPrice": 5.9,
+      "unitPrice": 6.7,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/mungdalwhole.png"
+    },
+    {
+      "itemCode": "tmw500",
+      "brand": "trs",
+      "item": "mung whole (mung beans green)",
+      "unitWeight": "500 gms",
+      "unitPrice": 1.9,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -621,7 +631,7 @@
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/riceflour.png"
+      "imgUrl": "/images/allpurposeflour.png"
     },
     {
       "itemCode": "sgf1",
@@ -994,7 +1004,7 @@
       "itemCode": "ttm300",
       "brand": "trs",
       "item": "tapioca (sabudana) medium",
-      "unitWeight": "300 g",
+      "unitWeight": "500 g",
       "unitPrice": 1.9,
       "available": false,
       "categoryCode": [
@@ -1061,6 +1071,18 @@
         "PM001"
       ],
       "imgUrl": "/images/vermicellirost.png"
+    },
+    {
+      "itemCode": "avs200",
+      "brand": "trs",
+      "item": "vermicelli / semiya (roasted)",
+      "unitWeight": "200 g",
+      "unitPrice": 1.5,
+      "available": true,
+      "categoryCode": [
+        "PM001"
+      ],
+      "imgUrl": "/images/trs_vermicelli.png"
     },
     {
       "itemCode": "kgppp200",
@@ -1812,7 +1834,7 @@
       "item": "tea powder",
       "unitWeight": "450 g",
       "unitPrice": 6.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "T001"
       ],
@@ -1836,7 +1858,7 @@
       "item": "tea powder",
       "unitWeight": "450 g",
       "unitPrice": 7.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "T001"
       ],
