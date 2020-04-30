@@ -10,7 +10,7 @@
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/haldi.png"
+      "imgUrl": "/imagesF/haldi.png"
     },
     {
       "itemCode": "rk",
@@ -256,7 +256,7 @@
       "item": "chapathi atta",
       "unitWeight": "5 Kg",
       "unitPrice": 6.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -299,6 +299,19 @@
       "imgUrl": "/images/mungdal.png"
     },
     {
+      "itemCode": "mdc500",
+      "brand": "trs",
+      "item": "moong dal chika",
+      "unitWeight": "500 g",
+      "unitPrice": 2,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": ""
+    },
+
+    {
       "itemCode": "tt454",
       "brand": "thai",
       "item": "tamarind",
@@ -315,13 +328,26 @@
       "brand": "trs",
       "item": "urid dal",
       "unitWeight": "2 kg",
-      "unitPrice": 5.5,
+      "unitPrice": 6.0,
       "available": true,
       "categoryCode": [
         "DL001"
       ],
       "imgUrl": "/images/uriddal.png"
     },
+        {
+      "itemCode": "tud500",
+      "brand": "trs",
+      "item": "urid dal",
+      "unitWeight": "500 g",
+      "unitPrice": 1.9,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/uriddal.png"
+    },
+
     {
       "itemCode": "suwb500",
       "brand": "schani",
