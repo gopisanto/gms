@@ -44,9 +44,14 @@ export default (theme => ({
   },
   itemContainer: {
     position: 'relative',
-    width: '190px',
+    width: '200px',
     minWidth: '200px',
-    maxWidth: '200px'
+    maxWidth: '200px',
+    [theme.breakpoints.down('sm')]: {
+      width: '170px',
+      minWidth: '170px',
+      maxWidth: '170px',
+    },
   },
   outOfStock: {
     position: 'absolute',
