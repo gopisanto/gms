@@ -44,7 +44,7 @@ export default (theme => ({
   },
   itemContainer: {
     position: 'relative',
-    width: '200px',
+    width: '190px',
     minWidth: '200px',
     maxWidth: '200px'
   },
