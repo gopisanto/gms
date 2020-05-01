@@ -1,6 +1,6 @@
 export default (theme => ({
   paper: {
-    width: 220,
+    width: 190,
     [theme.breakpoints.down('sm')]: {
       width: 170,
     },
@@ -43,7 +43,10 @@ export default (theme => ({
     position: 'relative'
   },
   itemContainer: {
-    position: 'relative'
+    position: 'relative',
+    width: '200px',
+    minWidth: '200px',
+    maxWidth: '200px'
   },
   outOfStock: {
     position: 'absolute',
@@ -53,7 +56,7 @@ export default (theme => ({
     width: '100%',
     height: '100%',
     top: '0',
-    left: '10%',
+    left: '5%',
     right: '0',
     bottom: '0',
     zIndex: '2',

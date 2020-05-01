@@ -275,6 +275,18 @@
       "imgUrl": "/images/amratsari.png"
     },
     {
+      "itemCode": "pcfa5",
+      "brand": "pilsbury",
+      "item": "chakki fresh atta",
+      "unitWeight": "5 kg",
+      "unitPrice": 10.30,
+      "available": false,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/pilsbury.png"
+    },
+    {
       "itemCode": "hmd2",
       "brand": "heera",
       "item": "mung dal",
@@ -982,7 +994,7 @@
       "item": "gulab jamun mix",
       "unitWeight": "200 g",
       "unitPrice": 2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RD001"
       ],
@@ -1858,7 +1870,7 @@
       "item": "tea powder",
       "unitWeight": "450 g",
       "unitPrice": 7.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "T001"
       ],

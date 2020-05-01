@@ -15,6 +15,7 @@ import { connect } from 'react-redux';
 import { addToCart } from '../redux/reducers';
 import { formatCurrency } from '../helper';
 import styles from './GroceryListItem.style';
+import commingsoon from '../commingsoon.json';
 
 const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
   const [qty, setQty] = useState();
@@ -40,7 +41,7 @@ const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
   return (
     <Grid item xs={6} sm={4} md={3} key={`${item.item}-${item.unitWeight}-${item.brand}`} className={classes.itemContainer}>
       {!item.available && <div className={classes.outOfStock}>
-        out of stock
+        {""}
       </div>}
       <Paper variant="outlined" square className={classes.paper}>
         <Card className={classes.root}>
@@ -50,6 +51,16 @@ const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
             title={`${item.brand} ${item.item} ${item.unitWeight}`}
           />
           <CardContent classes={{ root: classes.content }}>
+            {
+              !item.available
+              &&
+              <React.Fragment>
+                <Typography variant="overline" component="subtitle2" color="error">
+                  {commingsoon.includes(item.itemCode) ? "comming soon" : "out of stock"}
+                </Typography>
+                <br />
+              </React.Fragment>
+            }
             <Typography variant="subtitle2" component="subtitle2">
               {`${item.brand} ${item.item}`.toUpperCase()}
             </Typography>
