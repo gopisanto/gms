@@ -1,6 +1,6 @@
 export default (theme => ({
   paper: {
-    width: 190,
+    width: 180,
     [theme.breakpoints.down('sm')]: {
       width: 170,
     },
