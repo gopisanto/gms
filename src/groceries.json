@@ -916,7 +916,8 @@
       "available": true,
       "categoryCode": [
         "P001"
-      ]
+      ],
+      "imgUrl": "/images/ashokasweetlime.png"
     },
     {
       "itemCode": "ashlp500",
@@ -927,7 +928,8 @@
       "available": true,
       "categoryCode": [
         "P001"
-      ]
+      ],
+      "imgUrl": "/images/ashokalimemild.png"
     },
     {
       "itemCode": "ashmp500",
@@ -938,7 +940,8 @@
       "available": true,
       "categoryCode": [
         "P001"
-      ]
+      ],
+      "imgUrl": "/images/ashokamangomild.png"
     },
     {
       "itemCode": "tdp100",
@@ -993,12 +996,24 @@
       "brand": "gits",
       "item": "gulab jamun mix",
       "unitWeight": "200 g",
-      "unitPrice": 2,
-      "available": false,
+      "unitPrice": 2.3,
+      "available": true,
       "categoryCode": [
         "RD001"
       ],
       "imgUrl": "/images/gitsgulab.png"
+    },
+    {
+      "itemCode": "mtrgjm200",
+      "brand": "MTR",
+      "item": "gulab jamun mix",
+      "unitWeight": "200 g",
+      "unitPrice": 3.5,
+      "available": true,
+      "categoryCode": [
+        "RD001"
+      ],
+      "imgUrl": "/images/mtrgulab.png"
     },
     {
       "itemCode": "ats500",
@@ -1204,6 +1219,18 @@
       "imgUrl": "/images/rostcha.png"
     },
     {
+      "itemCode": "arc250",
+      "brand": "annam",
+      "item": "roasted chana",
+      "unitWeight": "250 g",
+      "unitPrice": 3.0,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/rostcha.png"
+    },
+    {
       "itemCode": "mbm100",
       "brand": "mdh",
       "item": "biryani masala",
@@ -1313,22 +1340,24 @@
       "brand": "priya",
       "item": "mango pickle ",
       "unitWeight": "300 g",
-      "unitPrice": "0",
-      "available": false,
+      "unitPrice": "2.0",
+      "available": true,
       "categoryCode": [
         "P001"
-      ]
+      ],
+      "imgUrl": "/images/priyamango.png"
     },
     {
       "itemCode": "pgp300",
       "brand": "priya",
       "item": "gongura pickle",
       "unitWeight": "300 g",
-      "unitPrice": "0",
-      "available": false,
+      "unitPrice": "2.0",
+      "available": true,
       "categoryCode": [
         "P001"
-      ]
+      ],
+      "imgUrl": "/images/priyagongura.png"
     },
     {
       "itemCode": "mum200",
@@ -1954,7 +1983,7 @@
       "item": "tea powder",
       "unitWeight": "450 g",
       "unitPrice": 6.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "T001"
       ],
