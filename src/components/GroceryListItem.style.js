@@ -16,6 +16,10 @@ export default (theme => ({
   media: {
     height: 0,
     paddingTop: '56.25%', // 16:9
+    '&:hover': {
+      transform: 'scale(2.5, 2.5)',
+      backgroundSize: 'contain'
+    }
   },
   actions: {
     position: "absolute",
