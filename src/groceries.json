@@ -90,7 +90,7 @@
       "item": "sona masoori rice",
       "unitWeight": "10 kg",
       "unitPrice": 18.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -102,7 +102,7 @@
       "item": "sona masoori rice",
       "unitWeight": "10 kg",
       "unitPrice": 17,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ]
@@ -1541,6 +1541,18 @@
       "imgUrl": "/images/coriander.png"
     },
     {
+      "itemCode": "mint1",
+      "brand": "",
+      "item": "fresh mint",
+      "unitWeight": "1 Stuck",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/mint.png"
+    },
+    {
       "itemCode": "arbi250",
       "brand": "",
       "item": "fresh arbi",
@@ -1661,6 +1673,78 @@
       "imgUrl": "/images/okra.png"
     },
     {
+      "itemCode": "chkdkya250",
+      "brand": "",
+      "item": "fresh lima beans / chikudukaya",
+      "unitWeight": "250 g",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/chikudukaya.png"
+    },
+    {
+      "itemCode": "chkdkya500",
+      "brand": "",
+      "item": "fresh lima beans / chikudukaya",
+      "unitWeight": "500 g",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/chikudukaya.png"
+    },
+    {
+      "itemCode": "chkdkya1",
+      "brand": "",
+      "item": "fresh lima beans / chikudukaya",
+      "unitWeight": "1 kg",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/chikudukaya.png"
+    },
+    {
+      "itemCode": "brinjal1",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "1 kg",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
+    },
+    {
+      "itemCode": "brinjal250",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "250 g",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
+    },
+    {
+      "itemCode": "brinjal500",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "500 g",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
+    },
+    {
       "itemCode": "btlgourd",
       "brand": "",
       "item": "fresh bottle gourd / louki",
@@ -1707,6 +1791,30 @@
         "FR001"
       ],
       "imgUrl": "/images/karela.png"
+    },
+    {
+      "itemCode": "penutwtshell1",
+      "brand": "",
+      "item": "Peanut with shell",
+      "unitWeight": "1 kg",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/peanutwithshell.png"
+    },
+    {
+      "itemCode": "penutwtshell500",
+      "brand": "",
+      "item": "Peanut with shell",
+      "unitWeight": "500 g",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/peanutwithshell.png"
     },
     {
       "itemCode": "hab200",
@@ -1892,7 +2000,7 @@
       "itemCode": "dvp230",
       "brand": "dairy valley",
       "item": "Fresh paneer",
-      "unitWeight": "apprx. 230 - 270 g packs",
+      "unitWeight": "appr 230 - 270 g packs",
       "unitPrice": 2.3,
       "available": true,
       "categoryCode": [
