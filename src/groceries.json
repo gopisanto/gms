@@ -711,7 +711,7 @@
       "item": "himalayan salt",
       "unitWeight": "800 g",
       "unitPrice": 4.4,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ]
@@ -1336,7 +1336,7 @@
       "item": "upma mix",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RD001"
       ]
@@ -1347,7 +1347,7 @@
       "item": "rawa idly mix",
       "unitWeight": "500 g",
       "unitPrice": 2.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RD001"
       ]
@@ -1570,7 +1570,7 @@
       "item": "fresh arbi",
       "unitWeight": "1 Kg",
       "unitPrice": 7.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1582,7 +1582,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "1 Kg",
       "unitPrice": 8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1666,7 +1666,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 6.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1678,7 +1678,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1690,7 +1690,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
       "unitPrice": 3.3,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1702,7 +1702,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "1 kg",
       "unitPrice": 6.6,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1882,7 +1882,7 @@
       "item": "Fresh paneer",
       "unitWeight": "1 kg / 1 stu",
       "unitPrice": 8.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
