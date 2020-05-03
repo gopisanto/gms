@@ -1574,7 +1574,7 @@
       "brand": "",
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
-      "unitPrice": 0,
+      "unitPrice": 1.2,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1707,7 +1707,7 @@
       "item": "fresh lima beans / chikudukaya",
       "unitWeight": "250 g",
       "unitPrice": 0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1719,7 +1719,7 @@
       "item": "fresh lima beans / chikudukaya",
       "unitWeight": "500 g",
       "unitPrice": 0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1731,7 +1731,7 @@
       "item": "fresh lima beans / chikudukaya",
       "unitWeight": "1 kg",
       "unitPrice": 0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1743,7 +1743,7 @@
       "item": "fresh small egg plant / small brinjal",
       "unitWeight": "1 kg",
       "unitPrice": 0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1755,7 +1755,7 @@
       "item": "fresh small egg plant / small brinjal",
       "unitWeight": "250 g",
       "unitPrice": 0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1767,7 +1767,7 @@
       "item": "fresh small egg plant / small brinjal",
       "unitWeight": "500 g",
       "unitPrice": 0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1790,7 +1790,7 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
-      "unitPrice": 1.8,
+      "unitPrice": 2.0,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1802,7 +1802,7 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
-      "unitPrice": 3.3,
+      "unitPrice": 3.5,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1814,7 +1814,7 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "1 kg",
-      "unitPrice": 6.6,
+      "unitPrice": 7.0,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1826,7 +1826,7 @@
       "brand": "",
       "item": "Peanut with shell",
       "unitWeight": "1 kg",
-      "unitPrice": 0,
+      "unitPrice": 7,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1838,7 +1838,7 @@
       "brand": "",
       "item": "Peanut with shell",
       "unitWeight": "500 g",
-      "unitPrice": 0,
+      "unitPrice": 3.5,
       "available": true,
       "categoryCode": [
         "FR001"
