@@ -1635,7 +1635,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1647,7 +1647,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1657,6 +1657,18 @@
       "itemCode": "ivygourd1",
       "brand": "",
       "item": "fresh ivy gourd / Tindly",
+      "unitWeight": "1 Kg",
+      "unitPrice": 7.5,
+      "available": false,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/ivygourd.png"
+    },
+    {
+      "itemCode": "peargourd1",
+      "brand": "",
+      "item": "fresh Pear gourd",
       "unitWeight": "1 Kg",
       "unitPrice": 7.5,
       "available": true,
