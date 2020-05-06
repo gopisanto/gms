@@ -651,6 +651,18 @@
       "item": "gram flour / besan",
       "unitWeight": "1 kg",
       "unitPrice": 2.3,
+      "available": false,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/gramflour.png"
+    },
+    {
+      "itemCode": "trsgf1",
+      "brand": "trs",
+      "item": "gram flour / besan",
+      "unitWeight": "1 kg",
+      "unitPrice": 2.7,
       "available": true,
       "categoryCode": [
         "F001"
@@ -1032,8 +1044,8 @@
       "brand": "trs",
       "item": "tapioca (sabudana) medium",
       "unitWeight": "500 g",
-      "unitPrice": 1.9,
-      "available": false,
+      "unitPrice": 2.0,
+      "available": true,
       "categoryCode": [
         "PM001"
       ],
