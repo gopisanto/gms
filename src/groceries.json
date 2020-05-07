@@ -1571,7 +1571,7 @@
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/chillipow.png"
+      "imgUrl": "/images/mdhkashmirimirchi.png"
     },
     {
       "itemCode": "tpp375",
@@ -2252,18 +2252,6 @@
         "T001"
       ],
       "imgUrl": "/images/tajmahal.png"
-    },
-    {
-      "itemCode": "dvp1",
-      "brand": "elephant",
-      "item": "Fresh paneer",
-      "unitWeight": "1 kg / 1 stu",
-      "unitPrice": 8.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/paneer.png"
     },
     {
       "itemCode": "dvp230",
