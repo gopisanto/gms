@@ -921,21 +921,9 @@
       "imgUrl": "/images/blackpepper.png"
     },
     {
-      "itemCode": "tsj50",
-      "brand": "trs",
-      "item": "shahi jeera",
-      "unitWeight": "50 g",
-      "unitPrice": 1.5,
-      "available": false,
-      "categoryCode": [
-        "S0001"
-      ],
-      "imgUrl": "/images/sjeera.png"
-    },
-    {
       "itemCode": "tkj50",
       "brand": "trs",
-      "item": "kala jeera",
+      "item": "shahi kala jeera",
       "unitWeight": "50 g",
       "unitPrice": 1.4,
       "available": true,
@@ -1141,7 +1129,7 @@
       "item": "gulab jamun mix",
       "unitWeight": "200 g",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RD001"
       ],
