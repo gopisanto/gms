@@ -61,6 +61,18 @@
       "imgUrl": "/images/cottonwicks.png"
     },
     {
+      "itemCode": "bbr10",
+      "brand": "banno",
+      "item": "Basmati rice",
+      "unitWeight": "5 kg",
+      "unitPrice": 15,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/bannobasmatirice.png"
+    },
+    {
       "itemCode": "heerbr5",
       "brand": "heer",
       "item": "long grain basmathi rice",
@@ -130,18 +142,6 @@
       "categoryCode": [
         "R001"
       ]
-    },
-    {
-      "itemCode": "bbr10",
-      "brand": "banno",
-      "item": "Basmati rice",
-      "unitWeight": "5 kg",
-      "unitPrice": 15,
-      "available": true,
-      "categoryCode": [
-        "R001"
-      ],
-      "imgUrl": "/images/bannobasmatirice.png"
     },
     {
       "itemCode": "asmr5",
@@ -239,6 +239,18 @@
       "imgUrl": "/images/sonaatta.png"
     },
     {
+      "itemCode": "pcfa5",
+      "brand": "pilsbury",
+      "item": "chakki fresh atta",
+      "unitWeight": "5 kg",
+      "unitPrice": 10.20,
+      "available": true,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/pilsbury.png"
+    },
+    {
       "itemCode": "aca1",
       "brand": "aashirwaad",
       "item": "chapathi atta",
@@ -309,18 +321,6 @@
         "F001"
       ],
       "imgUrl": "/images/amratsari.png"
-    },
-    {
-      "itemCode": "pcfa5",
-      "brand": "pilsbury",
-      "item": "chakki fresh atta",
-      "unitWeight": "5 kg",
-      "unitPrice": 10.20,
-      "available": true,
-      "categoryCode": [
-        "F001"
-      ],
-      "imgUrl": "/images/pilsbury.png"
     },
     {
       "itemCode": "hmd2",
@@ -476,7 +476,7 @@
       "categoryCode": [
         "DL001"
       ],
-      "imgUrl": "/images/chanadal.png"
+      "imgUrl": "/images/kalachana.png"
     },
     {
       "itemCode": "tcd2",
@@ -1145,7 +1145,7 @@
       "categoryCode": [
         "RD001"
       ],
-      "imgUrl": "/images/gitsgulabjamun.png"
+      "imgUrl": "/images/gitsgulabjamun(1).png"
     },
     {
       "itemCode": "mtrgjm200",
