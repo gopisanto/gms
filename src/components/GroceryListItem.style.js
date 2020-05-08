@@ -19,7 +19,9 @@ export default (theme => ({
     '&:hover': {
       transform: 'scale(2.5, 2.5)',
       backgroundSize: 'contain'
-    }
+    },
+    height: 100,
+    width: '100%'
   },
   actions: {
     position: "absolute",
