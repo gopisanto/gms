@@ -82,6 +82,12 @@
   display: flex;
 }
 
+.marquee {
+  background-color: bisque;
+  color: maroon;
+  font-weight: bold;
+}
+
 @media screen and (max-width: 680px) {
   .menuIcon {
     display: inline-block;

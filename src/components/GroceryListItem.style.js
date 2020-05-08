@@ -14,7 +14,6 @@ export default (theme => ({
     justifyContent: 'space-between'
   },
   media: {
-    height: 0,
     paddingTop: '56.25%', // 16:9
     '&:hover': {
       transform: 'scale(2.5, 2.5)',
