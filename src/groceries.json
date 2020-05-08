@@ -1504,6 +1504,17 @@
       "imgUrl": "/images/priyagongura.png"
     },
     {
+      "itemCode": "priyaupmamix175",
+      "brand": "priya",
+      "item": "upma mix",
+      "unitWeight": "175 g",
+      "unitPrice": 2.2,
+      "available": true,
+      "categoryCode": [
+        "RD001"
+      ]
+    },
+    {
       "itemCode": "mum200",
       "brand": "mtr",
       "item": "upma mix",
