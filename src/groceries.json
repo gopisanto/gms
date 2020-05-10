@@ -1,6 +1,30 @@
 {
   "groceries": [
     {
+      "itemCode": "mng1",
+      "brand": "Alphonso",
+      "item": "Mangoes",
+      "unitWeight": "1 Kg",
+      "unitPrice": 13,
+      "available": true,
+      "categoryCode": [
+        "MNGOS01"
+      ],
+      "imgUrl": "/images/alphonso.png"
+    },
+    {
+      "itemCode": "mng2",
+      "brand": "Banginapalli",
+      "item": "Mangoes",
+      "unitWeight": "1 Kg",
+      "unitPrice": 9,
+      "available": true,
+      "categoryCode": [
+        "MNGOS01"
+      ],
+      "imgUrl": "/images/banginapalli.png"
+    },
+    {
       "itemCode": "hp",
       "brand": "schani",
       "item": "haldi power",

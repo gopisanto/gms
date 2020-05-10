@@ -88,6 +88,24 @@
   font-weight: bold;
 }
 
+.marquee-news {
+  background-color: bisque;
+  color: blue;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.blinking{
+  animation:blinkingText 2s infinite;
+}
+@keyframes blinkingText{
+  0%{     color: #000;    }
+  49%{    color: #000; }
+  60%{    color: transparent; }
+  99%{    color:transparent;  }
+  100%{   color: #000;    }
+}
+
 @media screen and (max-width: 680px) {
   .menuIcon {
     display: inline-block;
