@@ -62,6 +62,16 @@ const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
                 <br />
               </React.Fragment>
             }
+            {
+              item.itemCode === 'btlgourd'
+              &&
+              <React.Fragment>
+                <Typography variant="overline" component="subtitle2" color="textPrimary">
+                  Available per Stuck also.
+                </Typography>
+                <br />
+              </React.Fragment>
+            }
             <Typography variant="subtitle2" component="subtitle2">
               {`${item.brand} ${item.item}`.toUpperCase()}
             </Typography>

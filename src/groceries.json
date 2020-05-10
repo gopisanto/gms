@@ -1755,7 +1755,7 @@
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1970,8 +1970,8 @@
       "brand": "",
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
-      "unitPrice": 6.6,
-      "available": false,
+      "unitPrice": 7.5,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1983,7 +1983,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 2.0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1995,7 +1995,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2007,7 +2007,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "1 kg",
       "unitPrice": 7.0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
