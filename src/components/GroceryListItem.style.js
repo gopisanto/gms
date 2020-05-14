@@ -90,5 +90,9 @@ export default (theme => ({
   flexified: {
     display: 'flex',
     flexDirection: 'column'
+  },
+  row: {
+    display: 'flex',
+    flexDirection: 'row'
   }
 }));

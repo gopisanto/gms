@@ -89,7 +89,7 @@ const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
           <CardActions disableSpacing>
             <div className="qtyContainer">
               <div className="flexified">
-                <div>
+                <div className="row">
                   <input
                     className={qtyClass}
                     type="number"
@@ -106,7 +106,7 @@ const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
                     disabled={!qty || qty <= 0 || error}
                   >
                     To cart
-              </Button>
+                  </Button>
                 </div>
                 {error && <label className={classes.errorLabel}>Enter proper quantity (no decimals)</label>}
               </div>
