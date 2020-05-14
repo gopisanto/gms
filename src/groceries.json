@@ -1223,7 +1223,7 @@
       "itemCode": "ttm300",
       "brand": "trs",
       "item": "tapioca (sabudana) medium",
-      "unitWeight": "500 g",
+      "unitWeight": "300 g",
       "unitPrice": 2.0,
       "available": true,
       "categoryCode": [
@@ -2073,18 +2073,6 @@
         "FR001"
       ],
       "imgUrl": "/images/karela.png"
-    },
-    {
-      "itemCode": "penutwtshell1",
-      "brand": "",
-      "item": "Peanut with shell",
-      "unitWeight": "1 kg",
-      "unitPrice": 7,
-      "available": true,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/peanutwithshell.png"
     },
     {
       "itemCode": "penutwtshell500",

@@ -11,6 +11,7 @@ import MuiAlert from '@material-ui/lab/Alert';
 import Button from '@material-ui/core/Button';
 import { withStyles } from '@material-ui/core/styles';
 import { connect } from 'react-redux';
+import classNames from 'classnames';
 
 import { addToCart } from '../redux/reducers';
 import { formatCurrency } from '../helper';
@@ -19,6 +20,7 @@ import commingsoon from '../commingsoon.json';
 
 const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
   const [qty, setQty] = useState();
+  const [error, setError] = useState(false);
   const [addedToCart, setAddedToCart] = useState(false);
   const onAddToCart = () => {
     addItem({
@@ -33,10 +35,14 @@ const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
     setAddedToCart(true);
   }
   const onQtyChange = ({ target: { value } }) => {
-    if (value >= 0) {
-      setQty(value)
+    setQty(value);
+    if (!Number.isInteger(Number(value))) {
+      setError(true);
+    } else if (value >= 0) {
+      setError(false);
     }
   }
+  const qtyClass = classNames(classes.quantity, { [classes.error]: error });
   // the below priceClass was used to put a black foreground for non available items, but its awkward for now so just commenting. after proper decision remove this line
   // const priceClass = !item.available ? classes.outOfStockPrice : '';
   return (
@@ -82,23 +88,28 @@ const GroceryListItem = ({ item, classes, addToCart: addItem }) => {
           </CardContent>
           <CardActions disableSpacing>
             <div className="qtyContainer">
-              <input
-                className={classes.quantity}
-                type="number"
-                placeholder="Qty."
-                min='0'
-                value={qty}
-                onChange={onQtyChange} />
-              <Button
-                variant="contained"
-                color="primary"
-                size="small"
-                className={classes.addToCart}
-                onClick={onAddToCart}
-                disabled={!qty || qty <= 0}
-              >
-                To cart
+              <div className="flexified">
+                <div>
+                  <input
+                    className={qtyClass}
+                    type="number"
+                    placeholder="Qty."
+                    min='1'
+                    value={qty}
+                    onChange={onQtyChange} />
+                  <Button
+                    variant="contained"
+                    color="primary"
+                    size="small"
+                    className={classes.addToCart}
+                    onClick={onAddToCart}
+                    disabled={!qty || qty <= 0 || error}
+                  >
+                    To cart
               </Button>
+                </div>
+                {error && <label className={classes.errorLabel}>Enter proper quantity (no decimals)</label>}
+              </div>
               <Snackbar
                 open={addedToCart}
                 autoHideDuration={3000}

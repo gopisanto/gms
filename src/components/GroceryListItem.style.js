@@ -78,5 +78,17 @@ export default (theme => ({
   },
   outOfStockPrice: {
     backgroundColor: 'black',
+  },
+  error: {
+    border: '1px solid red'
+  },
+  errorLabel: {
+    fontWeight: 'bold',
+    fontSize: '12px',
+    color: 'red'
+  },
+  flexified: {
+    display: 'flex',
+    flexDirection: 'column'
   }
 }));
