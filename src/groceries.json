@@ -1117,7 +1117,7 @@
       "item": "Mango Pickle",
       "unitWeight": "500 g",
       "unitPrice": 3.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "P001"
       ],
@@ -1129,7 +1129,7 @@
       "item": "dhaniya powder",
       "unitWeight": "100 g",
       "unitPrice": 0.85,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -1558,7 +1558,7 @@
       "item": "mango pickle ",
       "unitWeight": "300 g",
       "unitPrice": "2.0",
-      "available": true,
+      "available": false,
       "categoryCode": [
         "P001"
       ],

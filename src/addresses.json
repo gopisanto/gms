@@ -8,20 +8,36 @@
     "bellName": ""
   },
   {
+    "name": "Priyadharshini Kothandam",
+    "mobile": "+49 15171969331",
+    "whatsapp": "+49 15171969331",
+    "address": "Bopparder Str 1,10318, berlin",
+    "floor": "2nd floor",
+    "bellName": "kothandam"
+  },
+  {
+    "name": "Rishikesh Dhokare",
+    "mobile": "+49 1704404396",
+    "whatsapp": "+49 1704404396",
+    "address": "Neustrelitzer Str. 5, 13055, Berlin",
+    "floor": "4rth floor",
+    "bellName": "Dhokare"
+  },
+  {
     "name": "Nitya Balapuram Berlin",
-    "mobile": "",
+    "mobile": "+49 17632028160",
     "whatsapp": "+49 17632028160",
-    "address": "Stallschreiberstraße 25, 10179",
-    "floor": "",
-    "bellName": ""
+    "address": "Stallschreiberstraße 25, 10179, Berlin",
+    "floor": "1st floor, WE77",
+    "bellName": "Nitya Balapuram"
   },
   {
     "name": "Divya Berlin",
     "mobile": "+49 1747029320",
     "whatsapp": "+49 1747029320",
-    "address": "Charlottenstraße 75, 10117",
-    "floor": "1st floor, WE77",
-    "bellName": "Nitya Balapuram"
+    "address": "Charlottenstraße 75, 10117, Berlin",
+    "floor": "",
+    "bellName": ""
   },
   {
     "name": "Khushbu Berlin",
