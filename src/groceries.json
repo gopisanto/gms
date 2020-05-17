@@ -5,8 +5,8 @@
       "brand": "Alphonso",
       "item": "Mangoes",
       "unitWeight": "1 Kg",
-      "unitPrice": 13,
-      "available": false,
+      "unitPrice": 13.5,
+      "available": true,
       "categoryCode": [
         "MNGOS01"
       ],
@@ -1699,7 +1699,7 @@
       "brand": "",
       "item": "fresh garlic",
       "unitWeight": "250 g",
-      "unitPrice": 1.7,
+      "unitPrice": 1.8,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1816,59 +1816,71 @@
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/mint.png"
     },
     {
-      "itemCode": "arbi250",
-      "brand": "",
-      "item": "fresh arbi",
-      "unitWeight": "250 g",
-      "unitPrice": 2,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/arbi.png"
-    },
-    {
-      "itemCode": "arbi500",
-      "brand": "",
-      "item": "fresh arbi",
-      "unitWeight": "500 g",
-      "unitPrice": 3.8,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/arbi.png"
-    },
-    {
-      "itemCode": "arbi1",
-      "brand": "",
-      "item": "fresh arbi",
-      "unitWeight": "1 Kg",
-      "unitPrice": 7.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/arbi.png"
-    },
-    {
-      "itemCode": "drsticks1",
+      "itemCode": "drsticks250",
       "brand": "",
       "item": "fresh drumsticks",
-      "unitWeight": "1 Kg",
-      "unitPrice": 8,
-      "available": false,
+      "unitWeight": "250 g",
+      "unitPrice": 2.6,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/drstick.png"
+    },
+    {
+      "itemCode": "drsticks500",
+      "brand": "",
+      "item": "fresh drumsticks",
+      "unitWeight": "500 g",
+      "unitPrice": 5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/drstick.png"
+    },
+    {
+      "itemCode": "okra250",
+      "brand": "",
+      "item": "fresh okra / bhendi",
+      "unitWeight": "250 g",
+      "unitPrice": 2.0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/okra.png"
+    },
+    {
+      "itemCode": "okra500",
+      "brand": "",
+      "item": "fresh okra / bhendi",
+      "unitWeight": "500 g",
+      "unitPrice": 3.8,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/okra.png"
+    },
+    {
+      "itemCode": "okra1",
+      "brand": "",
+      "item": "fresh okra / bhendi",
+      "unitWeight": "1 kg",
+      "unitPrice": 7.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/okra.png"
     },
     {
       "itemCode": "ivygourd250",
@@ -1912,47 +1924,47 @@
       "item": "fresh Pear gourd",
       "unitWeight": "1 Kg",
       "unitPrice": 7.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/peargourd.png"
     },
     {
-      "itemCode": "okra250",
+      "itemCode": "arbi250",
       "brand": "",
-      "item": "fresh okra / bhendi",
+      "item": "fresh arbi",
       "unitWeight": "250 g",
-      "unitPrice": 2.0,
-      "available": true,
+      "unitPrice": 2,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/okra.png"
+      "imgUrl": "/images/arbi.png"
     },
     {
-      "itemCode": "okra500",
+      "itemCode": "arbi500",
       "brand": "",
-      "item": "fresh okra / bhendi",
+      "item": "fresh arbi",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/okra.png"
+      "imgUrl": "/images/arbi.png"
     },
     {
-      "itemCode": "okra1",
+      "itemCode": "arbi1",
       "brand": "",
-      "item": "fresh okra / bhendi",
-      "unitWeight": "1 kg",
+      "item": "fresh arbi",
+      "unitWeight": "1 Kg",
       "unitPrice": 7.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/okra.png"
+      "imgUrl": "/images/arbi.png"
     },
     {
       "itemCode": "chkdkya250",
@@ -2032,7 +2044,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 7.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2080,7 +2092,7 @@
       "item": "Peanut with shell",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
