@@ -1177,7 +1177,7 @@
       "item": "gulab jamun mix",
       "unitWeight": "200 g",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RD001"
       ],
