@@ -806,7 +806,7 @@
       "brand": "trs",
       "item": "juwar flour",
       "unitWeight": "1 kg",
-      "unitPrice": 2.4,
+      "unitPrice": 2.6,
       "available": true,
       "categoryCode": [
         "F001"
@@ -1140,8 +1140,20 @@
       "brand": "trs",
       "item": "dhaniya powder",
       "unitWeight": "100 g",
-      "unitPrice": 0.85,
-      "available": false,
+      "unitPrice": 0.9,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/dpowder.png"
+    },
+    {
+      "itemCode": "tdp100",
+      "brand": "trs",
+      "item": "dhaniya powder",
+      "unitWeight": "400 g",
+      "unitPrice": 2.6,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
@@ -1293,7 +1305,7 @@
     },
     {
       "itemCode": "ampr400",
-      "brand": "annam",
+      "brand": "annam / heera",
       "item": "mamra / puffed rice",
       "unitWeight": "400 g",
       "unitPrice": 3.9,
@@ -2188,7 +2200,7 @@
       "item": "plain bhujia ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
