@@ -747,6 +747,18 @@
       "item": "rice flour",
       "unitWeight": "1.5 kg",
       "unitPrice": 2.8,
+      "available": false,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/riceflour.png"
+    },
+    {
+      "itemCode": "trsrf1.5",
+      "brand": "trs",
+      "item": "rice flour",
+      "unitWeight": "1.5 kg",
+      "unitPrice": 3.3,
       "available": true,
       "categoryCode": [
         "F001"
@@ -1623,6 +1635,18 @@
       "imgUrl": "/images/jaggery.png"
     },
     {
+      "itemCode": "hjg500",
+      "brand": "heera",
+      "item": "jaggery goor",
+      "unitWeight": "450 g",
+      "unitPrice": 2.5,
+      "available": true,
+      "categoryCode": [
+        "SS001"
+      ],
+      "imgUrl": "/images/jaggery.png"
+    },
+    {
       "itemCode": "kbg500",
       "brand": "khanum",
       "item": "butter ghee",
@@ -2176,7 +2200,7 @@
       "item": " all in one ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
