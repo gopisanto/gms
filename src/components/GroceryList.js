@@ -20,7 +20,7 @@ const GroceryList = ({ filter, filterByCode }) => {
           return (brand.indexOf(term) !== -1 || item.indexOf(term) !== -1) && ((filterByCode && code.includes(filterByCode)) || !filterByCode);
         }).map(item => {
           return (
-            <React.Fragment>
+            <React.Fragment key={`${item.itemCode}`}>
               <GroceryListItem item={item} />
             </React.Fragment>
           );

@@ -1,6 +1,18 @@
 {
   "groceries": [
     {
+      "itemCode": "mngpulp850",
+      "brand": "Banno",
+      "item": "Alphonso mango pulp",
+      "unitWeight": "850 g",
+      "unitPrice": 3.6,
+      "available": true,
+      "categoryCode": [
+        "MNGOS01"
+      ],
+      "imgUrl": "/images/mangopulp.png"
+    },
+    {
       "itemCode": "mng1",
       "brand": "Alphonso",
       "item": "Mangoes",
@@ -138,7 +150,7 @@
       "item": "Sona Masuri Rice",
       "unitWeight": "5kg",
       "unitPrice": 9.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -587,11 +599,11 @@
       "imgUrl": "/images/kidney.png"
     },
     {
-      "itemCode": "tcp2",
+      "itemCode": "tcp500",
       "brand": "trs",
       "item": "chick peas",
-      "unitWeight": "2 kg",
-      "unitPrice": 5.5,
+      "unitWeight": "500 g",
+      "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -599,12 +611,12 @@
       "imgUrl": "/images/chickpeas.png"
     },
     {
-      "itemCode": "tcp500",
+      "itemCode": "tcp2",
       "brand": "trs",
       "item": "chick peas",
-      "unitWeight": "500 g",
-      "unitPrice": 0,
-      "available": false,
+      "unitWeight": "2 kg",
+      "unitPrice": 5.5,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
@@ -628,7 +640,7 @@
       "item": "black eye beans",
       "unitWeight": "2 kg",
       "unitPrice": 6.0,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
@@ -838,6 +850,18 @@
       "imgUrl": "/images/cornmeal.png"
     },
     {
+      "itemCode": "tcornflour500",
+      "brand": "trs",
+      "item": "corn flour",
+      "unitWeight": "500 g",
+      "unitPrice": 2,
+      "available": true,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/cornflour.png"
+    },
+    {
       "itemCode": "tcp300",
       "brand": "trs",
       "item": "coconut powder",
@@ -848,6 +872,18 @@
         "S0001"
       ],
       "imgUrl": "/images/cocopowder.png"
+    },
+    {
+      "itemCode": "tmcp300",
+      "brand": "trs",
+      "item": "medium desiccated coconut powder",
+      "unitWeight": "300 g",
+      "unitPrice": 2.2,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/coconutpowder_medium.png"
     },
     {
       "itemCode": "ahs500",
@@ -1148,7 +1184,7 @@
       "imgUrl": "/images/dpowder.png"
     },
     {
-      "itemCode": "tdp100",
+      "itemCode": "tdp400",
       "brand": "trs",
       "item": "dhaniya powder",
       "unitWeight": "400 g",
@@ -1249,7 +1285,7 @@
       "item": "tapioca (sabudana) medium",
       "unitWeight": "300 g",
       "unitPrice": 2.0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "PM001"
       ],
@@ -1852,35 +1888,47 @@
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/mint.png"
     },
     {
-      "itemCode": "drsticks250",
+      "itemCode": "rawmango250",
       "brand": "",
-      "item": "fresh drumsticks",
+      "item": "Raw Mango",
       "unitWeight": "250 g",
-      "unitPrice": 2.6,
+      "unitPrice": 2,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/drstick.png"
+      "imgUrl": "/images/rawmango.png"
     },
     {
-      "itemCode": "drsticks500",
+      "itemCode": "rawmango500",
       "brand": "",
-      "item": "fresh drumsticks",
+      "item": "Raw Mango",
       "unitWeight": "500 g",
-      "unitPrice": 5,
+      "unitPrice": 3.5,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/drstick.png"
+      "imgUrl": "/images/rawmango.png"
+    },
+    {
+      "itemCode": "rawmango",
+      "brand": "",
+      "item": "Raw Mango",
+      "unitWeight": "1 kg",
+      "unitPrice": 7,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/rawmango.png"
     },
     {
       "itemCode": "okra250",
@@ -1919,60 +1967,12 @@
       "imgUrl": "/images/okra.png"
     },
     {
-      "itemCode": "ivygourd250",
-      "brand": "",
-      "item": "fresh ivy gourd / Tindly",
-      "unitWeight": "250 g",
-      "unitPrice": 2,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/ivygourd.png"
-    },
-    {
-      "itemCode": "ivygourd500",
-      "brand": "",
-      "item": "fresh ivy gourd / Tindly",
-      "unitWeight": "500 g",
-      "unitPrice": 3.8,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/ivygourd.png"
-    },
-    {
-      "itemCode": "ivygourd1",
-      "brand": "",
-      "item": "fresh ivy gourd / Tindly",
-      "unitWeight": "1 Kg",
-      "unitPrice": 7.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/ivygourd.png"
-    },
-    {
-      "itemCode": "peargourd1",
-      "brand": "",
-      "item": "fresh Pear gourd",
-      "unitWeight": "1 Kg",
-      "unitPrice": 7.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/peargourd.png"
-    },
-    {
       "itemCode": "arbi250",
       "brand": "",
       "item": "fresh arbi",
       "unitWeight": "250 g",
-      "unitPrice": 2,
-      "available": false,
+      "unitPrice": 2.3,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1983,8 +1983,8 @@
       "brand": "",
       "item": "fresh arbi",
       "unitWeight": "500 g",
-      "unitPrice": 3.8,
-      "available": false,
+      "unitPrice": 4.2,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1995,12 +1995,108 @@
       "brand": "",
       "item": "fresh arbi",
       "unitWeight": "1 Kg",
-      "unitPrice": 7.5,
-      "available": false,
+      "unitPrice": 8,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/arbi.png"
+    },
+    {
+      "itemCode": "brinjal250",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "250 g",
+      "unitPrice": 2.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
+    },
+    {
+      "itemCode": "brinjal500",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "500 g",
+      "unitPrice": 3.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
+    },
+    {
+      "itemCode": "brinjal1",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "1 kg",
+      "unitPrice": 6.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
+    },
+    {
+      "itemCode": "karela250",
+      "brand": "",
+      "item": "fresh karela / bitter gourd",
+      "unitWeight": "250 g",
+      "unitPrice": 2.0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/karela.png"
+    },
+    {
+      "itemCode": "karela500",
+      "brand": "",
+      "item": "fresh karela / bitter gourd",
+      "unitWeight": "500 g",
+      "unitPrice": 3.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/karela.png"
+    },
+    {
+      "itemCode": "karela1",
+      "brand": "",
+      "item": "fresh karela / bitter gourd",
+      "unitWeight": "1 kg",
+      "unitPrice": 7.0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/karela.png"
+    },
+    {
+      "itemCode": "drsticks250",
+      "brand": "",
+      "item": "fresh drumsticks",
+      "unitWeight": "250 g",
+      "unitPrice": 2.6,
+      "available": false,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/drstick.png"
+    },
+    {
+      "itemCode": "drsticks500",
+      "brand": "",
+      "item": "fresh drumsticks",
+      "unitWeight": "500 g",
+      "unitPrice": 5,
+      "available": false,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/drstick.png"
     },
     {
       "itemCode": "chkdkya250",
@@ -2039,42 +2135,6 @@
       "imgUrl": "/images/chikudukaya.png"
     },
     {
-      "itemCode": "brinjal1",
-      "brand": "",
-      "item": "fresh small egg plant / small brinjal",
-      "unitWeight": "1 kg",
-      "unitPrice": 0,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/brinjal.png"
-    },
-    {
-      "itemCode": "brinjal250",
-      "brand": "",
-      "item": "fresh small egg plant / small brinjal",
-      "unitWeight": "250 g",
-      "unitPrice": 0,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/brinjal.png"
-    },
-    {
-      "itemCode": "brinjal500",
-      "brand": "",
-      "item": "fresh small egg plant / small brinjal",
-      "unitWeight": "500 g",
-      "unitPrice": 0,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/brinjal.png"
-    },
-    {
       "itemCode": "btlgourd",
       "brand": "",
       "item": "fresh bottle gourd / louki",
@@ -2087,40 +2147,40 @@
       "imgUrl": "/images/bottle_gourd.png"
     },
     {
-      "itemCode": "karela250",
+      "itemCode": "ivygourd250",
       "brand": "",
-      "item": "fresh karela / bitter gourd",
+      "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
-      "unitPrice": 2.0,
+      "unitPrice": 2,
       "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/karela.png"
+      "imgUrl": "/images/ivygourd.png"
     },
     {
-      "itemCode": "karela500",
+      "itemCode": "ivygourd500",
       "brand": "",
-      "item": "fresh karela / bitter gourd",
+      "item": "fresh ivy gourd / Tindly",
       "unitWeight": "500 g",
-      "unitPrice": 3.5,
+      "unitPrice": 3.8,
       "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/karela.png"
+      "imgUrl": "/images/ivygourd.png"
     },
     {
-      "itemCode": "karela1",
+      "itemCode": "ivygourd1",
       "brand": "",
-      "item": "fresh karela / bitter gourd",
-      "unitWeight": "1 kg",
-      "unitPrice": 7.0,
+      "item": "fresh ivy gourd / Tindly",
+      "unitWeight": "1 Kg",
+      "unitPrice": 7.5,
       "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/karela.png"
+      "imgUrl": "/images/ivygourd.png"
     },
     {
       "itemCode": "penutwtshell500",
@@ -2351,18 +2411,6 @@
       "imgUrl": "/images/mustardoil.png"
     },
     {
-      "itemCode": "ktcmoil500",
-      "brand": "ktc",
-      "item": "mustard oil (external use)",
-      "unitWeight": "500 ml",
-      "unitPrice": 2.2,
-      "available": true,
-      "categoryCode": [
-        "O001"
-      ],
-      "imgUrl": "/images/ktcmustardoil.png"
-    },
-    {
       "itemCode": "sesameoil250",
       "brand": "ktc",
       "item": "sesame oil",
@@ -2392,7 +2440,7 @@
       "item": "premium leaf tee jar",
       "unitWeight": "495 g",
       "unitPrice": 5.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "T001"
       ],
@@ -2403,8 +2451,8 @@
       "brand": "Taj Mahal",
       "item": "tea powder",
       "unitWeight": "450 g",
-      "unitPrice": 7.5,
-      "available": false,
+      "unitPrice": 8,
+      "available": true,
       "categoryCode": [
         "T001"
       ],
