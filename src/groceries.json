@@ -49,6 +49,18 @@
       "imgUrl": "/images/haldi.png"
     },
     {
+      "itemCode": "hdrydates250",
+      "brand": "heera",
+      "item": "dry dates",
+      "unitWeight": "250 g",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/drydates.png"
+    },
+    {
       "itemCode": "rk",
       "brand": "",
       "item": "red kumkum",
