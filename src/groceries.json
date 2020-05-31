@@ -18,7 +18,7 @@
       "item": "Mangoes",
       "unitWeight": "1 Kg",
       "unitPrice": 13.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "MNGOS01"
       ],
@@ -30,7 +30,7 @@
       "item": "Mangoes",
       "unitWeight": "1 Kg",
       "unitPrice": 9,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "MNGOS01"
       ],
@@ -1937,7 +1937,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1949,7 +1949,7 @@
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1961,7 +1961,7 @@
       "item": "Raw Mango",
       "unitWeight": "250 g",
       "unitPrice": 2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1973,7 +1973,7 @@
       "item": "Raw Mango",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1985,7 +1985,7 @@
       "item": "Raw Mango",
       "unitWeight": "1 kg",
       "unitPrice": 7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1997,7 +1997,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 2.0,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2009,7 +2009,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2021,7 +2021,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "1 kg",
       "unitPrice": 7.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2069,7 +2069,7 @@
       "item": "fresh small egg plant / small brinjal",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2081,7 +2081,7 @@
       "item": "fresh small egg plant / small brinjal",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2093,7 +2093,7 @@
       "item": "fresh small egg plant / small brinjal",
       "unitWeight": "1 kg",
       "unitPrice": 6.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2141,7 +2141,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.6,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2153,7 +2153,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2201,7 +2201,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 7.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2213,7 +2213,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2225,7 +2225,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2237,7 +2237,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "1 Kg",
       "unitPrice": 7.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
