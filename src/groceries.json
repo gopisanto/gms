@@ -200,7 +200,8 @@
       "available": true,
       "categoryCode": [
         "R001"
-      ]
+      ],
+      "imgUrl": "/images/hasinarice.png"
     },
     {
       "itemCode": "apbr10",
@@ -1251,7 +1252,8 @@
       "available": true,
       "categoryCode": [
         "RD001"
-      ]
+      ],
+      "imgUrl": "/images/dhokla.png"
     },
     {
       "itemCode": "ggjm200",
@@ -1644,7 +1646,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/hing.png"
     },
     {
       "itemCode": "hdcl20",
@@ -2261,7 +2264,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/panipuribox.png"
     },
     {
       "itemCode": "hsp250",
@@ -2320,7 +2324,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/dabur.png"
     },
     {
       "itemCode": "almnds",
@@ -2427,7 +2432,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/parlegbig.png"
     },
     {
       "itemCode": "pgbbn150",
