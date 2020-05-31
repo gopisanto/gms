@@ -2585,7 +2585,7 @@
       "item": "Tandoori Naan",
       "unitWeight": "1 pack",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FRZ001"
       ],
@@ -2597,7 +2597,7 @@
       "item": "Tandoori Garlic Naan",
       "unitWeight": "1 pack",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FRZ001"
       ],
@@ -2609,7 +2609,7 @@
       "item": "Mixed vegetable paratha",
       "unitWeight": "1 pack",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FRZ001"
       ],
@@ -2621,7 +2621,7 @@
       "item": "Aloo Paratha",
       "unitWeight": "1 pack",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FRZ001"
       ],
