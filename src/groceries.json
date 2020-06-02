@@ -102,7 +102,7 @@
       "item": "Basmati rice",
       "unitWeight": "5 kg",
       "unitPrice": 15,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -1118,7 +1118,7 @@
       "item": "soda",
       "unitWeight": "100 g",
       "unitPrice": 1,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ]
@@ -1177,7 +1177,7 @@
       "item": "Mango Pickle",
       "unitWeight": "500 g",
       "unitPrice": 3.2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "P001"
       ],
@@ -2344,7 +2344,7 @@
       "brand": "heera",
       "item": "dry dates",
       "unitWeight": "250 g",
-      "unitPrice": 0,
+      "unitPrice": 2.5,
       "available": true,
       "categoryCode": [
         "S0001"
