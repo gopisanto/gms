@@ -1973,7 +1973,7 @@
       "item": "Raw Mango",
       "unitWeight": "250 g",
       "unitPrice": 2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1985,7 +1985,7 @@
       "item": "Raw Mango",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -1997,7 +1997,7 @@
       "item": "Raw Mango",
       "unitWeight": "1 kg",
       "unitPrice": 7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
