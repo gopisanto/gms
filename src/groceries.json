@@ -347,12 +347,24 @@
       "imgUrl": "/images/aamul.png"
     },
     {
+      "itemCode": "aca2",
+      "brand": "aashirwaad",
+      "item": "chapathi atta",
+      "unitWeight": "2 kg",
+      "unitPrice": 7.5,
+      "available": true,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/aashirwadatta.png"
+    },
+    {
       "itemCode": "aca5",
       "brand": "aashirwaad",
       "item": "chapathi atta",
       "unitWeight": "5 kg",
-      "unitPrice": 7.0,
-      "available": false,
+      "unitPrice": 2.6,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -640,7 +652,7 @@
       "item": "green peas",
       "unitWeight": "500 g",
       "unitPrice": 2.1,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
@@ -1141,7 +1153,7 @@
       "item": "jeera papadom gross",
       "unitWeight": "200 g",
       "unitPrice": 1.4,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "P001"
       ],
@@ -2033,7 +2045,7 @@
       "item": "fresh arbi",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2045,7 +2057,7 @@
       "item": "fresh arbi",
       "unitWeight": "500 g",
       "unitPrice": 4.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2057,7 +2069,7 @@
       "item": "fresh arbi",
       "unitWeight": "1 Kg",
       "unitPrice": 8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2141,7 +2153,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2153,7 +2165,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2213,7 +2225,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2225,7 +2237,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2237,7 +2249,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "1 Kg",
       "unitPrice": 7.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2326,6 +2338,18 @@
         "SN0001"
       ],
       "imgUrl": "/images/dabur.png"
+    },
+    {
+      "itemCode": "cashew",
+      "brand": "trs",
+      "item": "cashew kernels",
+      "unitWeight": "100 g",
+      "unitPrice": 0,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/almonds.png"
     },
     {
       "itemCode": "almnds",
@@ -2573,6 +2597,18 @@
       "item": "Fresh paneer",
       "unitWeight": "appr 230 - 270 g packs",
       "unitPrice": 2.4,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/paneer.png"
+    },
+    {
+      "itemCode": "dvp1",
+      "brand": "dairy valley",
+      "item": "Fresh paneer",
+      "unitWeight": "1 kg",
+      "unitPrice": 8.5,
       "available": true,
       "categoryCode": [
         "FR001"
