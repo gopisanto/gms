@@ -14,6 +14,18 @@
     },
     {
       "itemCode": "mng1",
+      "brand": "Kesar",
+      "item": "Mangoes",
+      "unitWeight": "1 Kg",
+      "unitPrice": 14,
+      "available": true,
+      "categoryCode": [
+        "MNGOS01"
+      ],
+      "imgUrl": "/images/alphonso.png"
+    },
+    {
+      "itemCode": "mng1",
       "brand": "Alphonso",
       "item": "Mangoes",
       "unitWeight": "1 Kg",
@@ -1901,7 +1913,7 @@
       "item": "fresh green chilli",
       "unitWeight": "100 g",
       "unitPrice": 1.0,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1913,7 +1925,7 @@
       "item": "fresh green chilli",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1925,19 +1937,7 @@
       "item": "fresh green chilli",
       "unitWeight": "500 g",
       "unitPrice": 4,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/gchilli.png"
-    },
-    {
-      "itemCode": "fgc1",
-      "brand": "",
-      "item": "fresh green chilli",
-      "unitWeight": "1 kg",
-      "unitPrice": 8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1949,7 +1949,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1973,7 +1973,7 @@
       "item": "Raw Mango",
       "unitWeight": "250 g",
       "unitPrice": 2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1985,7 +1985,7 @@
       "item": "Raw Mango",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -1997,7 +1997,7 @@
       "item": "Raw Mango",
       "unitWeight": "1 kg",
       "unitPrice": 7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2009,7 +2009,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 2.0,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2020,32 +2020,32 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
-      "unitPrice": 3.8,
-      "available": false,
+      "unitPrice": 3.9,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/okra.png"
     },
     {
-      "itemCode": "okra1",
+      "itemCode": "ridge500",
       "brand": "",
-      "item": "fresh okra / bhendi",
-      "unitWeight": "1 kg",
-      "unitPrice": 7.5,
-      "available": false,
+      "item": "Ridge gourd / turia",
+      "unitWeight": "500 g",
+      "unitPrice": 3.8,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/okra.png"
+      "imgUrl": "/images/ridgegourd.png"
     },
     {
       "itemCode": "arbi250",
       "brand": "",
       "item": "fresh arbi",
       "unitWeight": "250 g",
-      "unitPrice": 2.3,
-      "available": false,
+      "unitPrice": 2.5,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2056,60 +2056,12 @@
       "brand": "",
       "item": "fresh arbi",
       "unitWeight": "500 g",
-      "unitPrice": 4.2,
-      "available": false,
+      "unitPrice": 4.5,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/arbi.png"
-    },
-    {
-      "itemCode": "arbi1",
-      "brand": "",
-      "item": "fresh arbi",
-      "unitWeight": "1 Kg",
-      "unitPrice": 8,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/arbi.png"
-    },
-    {
-      "itemCode": "brinjal250",
-      "brand": "",
-      "item": "fresh small egg plant / small brinjal",
-      "unitWeight": "250 g",
-      "unitPrice": 2.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/brinjal.png"
-    },
-    {
-      "itemCode": "brinjal500",
-      "brand": "",
-      "item": "fresh small egg plant / small brinjal",
-      "unitWeight": "500 g",
-      "unitPrice": 3.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/brinjal.png"
-    },
-    {
-      "itemCode": "brinjal1",
-      "brand": "",
-      "item": "fresh small egg plant / small brinjal",
-      "unitWeight": "1 kg",
-      "unitPrice": 6.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/brinjal.png"
     },
     {
       "itemCode": "karela250",
@@ -2117,7 +2069,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 2.0,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2129,47 +2081,35 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/karela.png"
     },
     {
-      "itemCode": "karela1",
+      "itemCode": "rawbanana250",
       "brand": "",
-      "item": "fresh karela / bitter gourd",
-      "unitWeight": "1 kg",
-      "unitPrice": 7.0,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/karela.png"
-    },
-    {
-      "itemCode": "drsticks250",
-      "brand": "",
-      "item": "fresh drumsticks",
+      "item": "fresh raw banana",
       "unitWeight": "250 g",
-      "unitPrice": 2.6,
-      "available": false,
+      "unitPrice": 2,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/drstick.png"
+      "imgUrl": "/images/rawbanana.png"
     },
     {
-      "itemCode": "drsticks500",
+      "itemCode": "rawbanana500",
       "brand": "",
-      "item": "fresh drumsticks",
+      "item": "fresh raw banana",
       "unitWeight": "500 g",
-      "unitPrice": 5,
-      "available": false,
+      "unitPrice": 3.8,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/drstick.png"
+      "imgUrl": "/images/rawbanana.png"
     },
     {
       "itemCode": "chkdkya250",
@@ -2254,6 +2194,66 @@
         "FR001"
       ],
       "imgUrl": "/images/ivygourd.png"
+    },
+    {
+      "itemCode": "drsticks250",
+      "brand": "",
+      "item": "fresh drumsticks",
+      "unitWeight": "250 g",
+      "unitPrice": 2.6,
+      "available": false,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/drstick.png"
+    },
+    {
+      "itemCode": "drsticks500",
+      "brand": "",
+      "item": "fresh drumsticks",
+      "unitWeight": "500 g",
+      "unitPrice": 5,
+      "available": false,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/drstick.png"
+    },
+    {
+      "itemCode": "brinjal250",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "250 g",
+      "unitPrice": 2.5,
+      "available": false,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
+    },
+    {
+      "itemCode": "brinjal500",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "500 g",
+      "unitPrice": 3.5,
+      "available": false,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
+    },
+    {
+      "itemCode": "brinjal1",
+      "brand": "",
+      "item": "fresh small egg plant / small brinjal",
+      "unitWeight": "1 kg",
+      "unitPrice": 6.5,
+      "available": false,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
     },
     {
       "itemCode": "penutwtshell500",
