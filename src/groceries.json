@@ -2417,7 +2417,7 @@
       "item": " long sev",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -2489,7 +2489,7 @@
       "item": "custard powder vanilla",
       "unitWeight": "300 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
