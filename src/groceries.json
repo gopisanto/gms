@@ -2009,7 +2009,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 2.0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2021,7 +2021,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
       "unitPrice": 3.9,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2069,7 +2069,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 2.0,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2081,7 +2081,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2405,7 +2405,7 @@
       "item": " masala boondi  ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
