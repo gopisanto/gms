@@ -22,15 +22,15 @@
       "categoryCode": [
         "MNGOS01"
       ],
-      "imgUrl": "/images/alphonso.png"
+      "imgUrl": "/images/kesar.png"
     },
     {
       "itemCode": "mng1",
       "brand": "Alphonso",
       "item": "Mangoes",
       "unitWeight": "1 Kg",
-      "unitPrice": 13.5,
-      "available": false,
+      "unitPrice": 13.7,
+      "available": true,
       "categoryCode": [
         "MNGOS01"
       ],
@@ -38,7 +38,7 @@
     },
     {
       "itemCode": "mng2",
-      "brand": "Banginapalli",
+      "brand": "Banaganapalli",
       "item": "Mangoes",
       "unitWeight": "1 Kg",
       "unitPrice": 9,
@@ -109,16 +109,52 @@
       "imgUrl": "/images/cottonwicks.png"
     },
     {
-      "itemCode": "bbr10",
+      "itemCode": "kkatpuram105",
+      "brand": "kavadi",
+      "item": "katpuram",
+      "unitWeight": "105 pc",
+      "unitPrice": 3.2,
+      "available": true,
+      "categoryCode": [
+        "PJ001"
+      ],
+      "imgUrl": "/images/katpuram.png"
+    },
+    {
+      "itemCode": "tbr5",
+      "brand": "tilda",
+      "item": "pure Basmati rice",
+      "unitWeight": "5 kg",
+      "unitPrice": 17.49,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/tilda.png"
+    },
+    {
+      "itemCode": "bbr5",
       "brand": "banno",
       "item": "Basmati rice",
       "unitWeight": "5 kg",
       "unitPrice": 15,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "R001"
       ],
       "imgUrl": "/images/bannobasmatiblue.png"
+    },
+    {
+      "itemCode": "bbr10",
+      "brand": "banno",
+      "item": "Basmati rice",
+      "unitWeight": "10 kg",
+      "unitPrice": 23.5,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/bannobasmati10.png"
     },
     {
       "itemCode": "heerbr5",
@@ -155,18 +191,6 @@
         "R001"
       ],
       "imgUrl": "/images/lailabasmati5.png"
-    },
-    {
-      "itemCode": "anmlsmr5",
-      "brand": "Anmol",
-      "item": "Sona Masuri Rice",
-      "unitWeight": "5kg",
-      "unitPrice": 9.7,
-      "available": false,
-      "categoryCode": [
-        "R001"
-      ],
-      "imgUrl": "/images/anmolsonamasuri.png"
     },
     {
       "itemCode": "bsmr10",
@@ -250,6 +274,18 @@
         "R001"
       ],
       "imgUrl": "/images/ponniraw5.png"
+    },
+    {
+      "itemCode": "aprr10",
+      "brand": "annam",
+      "item": "ponni raw rice",
+      "unitWeight": "10 kg",
+      "unitPrice": 20.99,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/ponnirawrice.png"
     },
     {
       "itemCode": "nbbr2",
@@ -351,8 +387,8 @@
       "brand": "aashirwaad",
       "item": "multigrain atta export pack",
       "unitWeight": "5 kg",
-      "unitPrice": 0,
-      "available": false,
+      "unitPrice": 11.99,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -369,6 +405,18 @@
         "F001"
       ],
       "imgUrl": "/images/aashirwadatta.png"
+    },
+    {
+      "itemCode": "acaep5",
+      "brand": "aashirwaad",
+      "item": "chapathi atta (export pack)",
+      "unitWeight": "5 kg",
+      "unitPrice": 9.5,
+      "available": true,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/aaatta.png"
     },
     {
       "itemCode": "aca5",
@@ -459,7 +507,7 @@
       "brand": "trs",
       "item": "urid dal",
       "unitWeight": "2 kg",
-      "unitPrice": 6.0,
+      "unitPrice": 6.2,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -754,6 +802,17 @@
       "imgUrl": "/images/greenlentils.png"
     },
     {
+      "itemCode": "annamredchilli100",
+      "brand": "Annam",
+      "item": "red chilli",
+      "unitWeight": "100 g",
+      "unitPrice": 1.8,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ]
+    },
+    {
       "itemCode": "kingschilliwhole100",
       "brand": "kings",
       "item": "chilli whole",
@@ -778,12 +837,12 @@
       "imgUrl": "/images/rchilli.png"
     },
     {
-      "itemCode": "tcwwseh400",
-      "brand": "trs",
+      "itemCode": "heeracwwseh400",
+      "brand": "heera",
       "item": "chilli whole without stem (Extra hot)",
       "unitWeight": "400 g",
-      "unitPrice": 4.4,
-      "available": false,
+      "unitPrice": 6.2,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
@@ -1304,6 +1363,18 @@
       "imgUrl": "/images/mtrgulab500.png"
     },
     {
+      "itemCode": "mtrgjm200",
+      "brand": "MTR",
+      "item": "gulab jamun mix",
+      "unitWeight": "200 g",
+      "unitPrice": 2.00,
+      "available": true,
+      "categoryCode": [
+        "RD001"
+      ],
+      "imgUrl": "/images/mtrgulabjamun200.png"
+    },
+    {
       "itemCode": "mpulipwdr200",
       "brand": "mtr",
       "item": "puliyogare powder",
@@ -1332,8 +1403,8 @@
       "brand": "trs",
       "item": "tapioca (sabudana) medium",
       "unitWeight": "300 g",
-      "unitPrice": 2.0,
-      "available": false,
+      "unitPrice": 2.1,
+      "available": true,
       "categoryCode": [
         "PM001"
       ],
@@ -1576,7 +1647,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/mdhpulao.png"
     },
     {
       "itemCode": "mbm100",
@@ -1720,6 +1792,18 @@
         "RD001"
       ],
       "imgUrl": "/images/priyaupmamix.png"
+    },
+    {
+      "itemCode": "mdm200",
+      "brand": "mtr",
+      "item": "instant dosa mix",
+      "unitWeight": "200 g",
+      "unitPrice": 2.1,
+      "available": true,
+      "categoryCode": [
+        "RD001"
+      ],
+      "imgUrl": "/images/mtrdosamix.png"
     },
     {
       "itemCode": "mum200",
@@ -1872,7 +1956,8 @@
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/gingergarlicpaste.png"
     },
     {
       "itemCode": "hmdb500",
@@ -1897,6 +1982,17 @@
       ]
     },
     {
+      "itemCode": "hmvb500",
+      "brand": "home made",
+      "item": "vada batter",
+      "unitWeight": "1kg",
+      "unitPrice": 8.0,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ]
+    },
+    {
       "itemCode": "hmpp500",
       "brand": "home made",
       "item": "puliogare paste",
@@ -1905,7 +2001,8 @@
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "imgUrl": "/images/hm_puliogarepaste.png"
     },
     {
       "itemCode": "fgc100",
@@ -1973,43 +2070,31 @@
       "item": "Raw Mango",
       "unitWeight": "250 g",
       "unitPrice": 2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/rawmango.png"
     },
     {
-      "itemCode": "rawmango500",
+      "itemCode": "guvar250",
       "brand": "",
-      "item": "Raw Mango",
-      "unitWeight": "500 g",
-      "unitPrice": 3.5,
+      "item": "fresh Gawar",
+      "unitWeight": "250 g",
+      "unitPrice": 2.4,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/rawmango.png"
-    },
-    {
-      "itemCode": "rawmango",
-      "brand": "",
-      "item": "Raw Mango",
-      "unitWeight": "1 kg",
-      "unitPrice": 7,
-      "available": true,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/rawmango.png"
+      "imgUrl": "/images/gawar.png"
     },
     {
       "itemCode": "okra250",
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
-      "unitPrice": 2.0,
-      "available": false,
+      "unitPrice": 2.3,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2020,8 +2105,8 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
-      "unitPrice": 3.9,
-      "available": false,
+      "unitPrice": 4.0,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2033,7 +2118,7 @@
       "item": "Ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2068,8 +2153,8 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
-      "unitPrice": 2.0,
-      "available": false,
+      "unitPrice": 2.5,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2080,12 +2165,36 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
-      "unitPrice": 3.5,
-      "available": false,
+      "unitPrice": 4.2,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/karela.png"
+    },
+    {
+      "itemCode": "drsticks250",
+      "brand": "",
+      "item": "fresh drumsticks",
+      "unitWeight": "250 g",
+      "unitPrice": 2.7,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/drstick.png"
+    },
+    {
+      "itemCode": "drsticks500",
+      "brand": "",
+      "item": "fresh drumsticks",
+      "unitWeight": "500 g",
+      "unitPrice": 5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/drstick.png"
     },
     {
       "itemCode": "rawbanana250",
@@ -2164,8 +2273,8 @@
       "brand": "",
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
-      "unitPrice": 2,
-      "available": false,
+      "unitPrice": 2.3,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2176,8 +2285,8 @@
       "brand": "",
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "500 g",
-      "unitPrice": 3.8,
-      "available": false,
+      "unitPrice": 4.2,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2188,36 +2297,12 @@
       "brand": "",
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "1 Kg",
-      "unitPrice": 7.5,
-      "available": false,
+      "unitPrice": 8,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/ivygourd.png"
-    },
-    {
-      "itemCode": "drsticks250",
-      "brand": "",
-      "item": "fresh drumsticks",
-      "unitWeight": "250 g",
-      "unitPrice": 2.6,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/drstick.png"
-    },
-    {
-      "itemCode": "drsticks500",
-      "brand": "",
-      "item": "fresh drumsticks",
-      "unitWeight": "500 g",
-      "unitPrice": 5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/drstick.png"
     },
     {
       "itemCode": "brinjal250",
@@ -2520,6 +2605,30 @@
       "imgUrl": "/images/annampeanutbar.png"
     },
     {
+      "itemCode": "bananachips170",
+      "brand": "annam",
+      "item": "banana chips",
+      "unitWeight": "170 g",
+      "unitPrice": 1.8,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/bananachips.png"
+    },
+    {
+      "itemCode": "murukku200",
+      "brand": "annam",
+      "item": "ring murukku",
+      "unitWeight": "200 g",
+      "unitPrice": 2.2,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/murukku.png"
+    },
+    {
       "itemCode": "poil200",
       "brand": "parachute",
       "item": "coconut oil",
@@ -2609,7 +2718,7 @@
       "item": "Fresh paneer",
       "unitWeight": "1 kg",
       "unitPrice": 8.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2657,7 +2766,7 @@
       "item": "Aloo Paratha",
       "unitWeight": "1 pack",
       "unitPrice": 2.3,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FRZ001"
       ],
