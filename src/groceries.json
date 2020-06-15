@@ -810,7 +810,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/redchilli.png"
     },
     {
       "itemCode": "kingschilliwhole100",
@@ -1355,7 +1356,7 @@
       "brand": "MTR",
       "item": "gulab jamun mix",
       "unitWeight": "500 g",
-      "unitPrice": 5.1,
+      "unitPrice": 5.2,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -1367,7 +1368,7 @@
       "brand": "MTR",
       "item": "gulab jamun mix",
       "unitWeight": "200 g",
-      "unitPrice": 2.00,
+      "unitPrice": 2.6,
       "available": true,
       "categoryCode": [
         "RD001"
