@@ -18,7 +18,7 @@
       "item": "Mangoes",
       "unitWeight": "1 Kg",
       "unitPrice": 14,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "MNGOS01"
       ],
@@ -459,7 +459,7 @@
       "brand": "heera",
       "item": "mung dal",
       "unitWeight": "2 kg",
-      "unitPrice": 5.9,
+      "unitPrice": 6.2,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -1834,7 +1834,7 @@
       "item": "jaggery goor",
       "unitWeight": "500 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SS001"
       ],
@@ -2131,7 +2131,7 @@
       "item": "fresh arbi",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2143,7 +2143,7 @@
       "item": "fresh arbi",
       "unitWeight": "500 g",
       "unitPrice": 4.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2203,7 +2203,7 @@
       "item": "fresh raw banana",
       "unitWeight": "250 g",
       "unitPrice": 2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2215,7 +2215,7 @@
       "item": "fresh raw banana",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2275,7 +2275,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2287,7 +2287,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "500 g",
       "unitPrice": 4.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2299,7 +2299,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "1 Kg",
       "unitPrice": 8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
