@@ -2462,6 +2462,30 @@
       "imgUrl": "/images/drydates.png"
     },
     {
+      "itemCode": "charmagaz100",
+      "brand": "trs",
+      "item": "charmagaz / dried melon seeds",
+      "unitWeight": "100 g",
+      "unitPrice": 1.69,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/charmagaz_seeds.png"
+    },
+    {
+      "itemCode": "raisins100",
+      "brand": "trs",
+      "item": "raisins",
+      "unitWeight": "100 g",
+      "unitPrice": 1.69,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/raisins.png"
+    },
+    {
       "itemCode": "hpb200",
       "brand": "haldirams",
       "item": "plain bhujia ",
