@@ -2282,18 +2282,6 @@
       "imgUrl": "/images/brinjal.png"
     },
     {
-      "itemCode": "brinjal1",
-      "brand": "",
-      "item": "fresh small egg plant / small brinjal",
-      "unitWeight": "1 kg",
-      "unitPrice": 6.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/brinjal.png"
-    },
-    {
       "itemCode": "penutwtshell500",
       "brand": "",
       "item": "Peanut with shell",
