@@ -18,7 +18,7 @@
       "item": "Mangoes",
       "unitWeight": "1 Kg",
       "unitPrice": 14,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "MNGOS01"
       ],
@@ -30,7 +30,7 @@
       "item": "Mangoes",
       "unitWeight": "1 Kg",
       "unitPrice": 13.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "MNGOS01"
       ],
@@ -232,7 +232,7 @@
       "brand": "Hasina",
       "item": "bio sona masoori rice",
       "unitWeight": "5 kg",
-      "unitPrice": 10.99,
+      "unitPrice": 9.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -339,7 +339,7 @@
       "brand": "sona",
       "item": "chapathi atta",
       "unitWeight": "5 kg",
-      "unitPrice": 7.5,
+      "unitPrice": 6.99,
       "available": true,
       "categoryCode": [
         "F001"
@@ -1669,7 +1669,7 @@
       "item": "pav bhaji",
       "unitWeight": "100 g",
       "unitPrice": 1.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -2030,18 +2030,6 @@
       "imgUrl": "/images/gchilli.png"
     },
     {
-      "itemCode": "fgc500",
-      "brand": "",
-      "item": "fresh green chilli",
-      "unitWeight": "500 g",
-      "unitPrice": 4,
-      "available": true,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/gchilli.png"
-    },
-    {
       "itemCode": "coriander1",
       "brand": "",
       "item": "fresh coriander",
@@ -2090,24 +2078,24 @@
       "imgUrl": "/images/gawar.png"
     },
     {
+      "itemCode": "snakegourd250",
+      "brand": "",
+      "item": "snake gourd",
+      "unitWeight": "250 g",
+      "unitPrice": 2.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/snakeguard.png"
+    },
+    {
       "itemCode": "okra250",
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/okra.png"
-    },
-    {
-      "itemCode": "okra500",
-      "brand": "",
-      "item": "fresh okra / bhendi",
-      "unitWeight": "500 g",
-      "unitPrice": 4.0,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2131,19 +2119,7 @@
       "item": "fresh arbi",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/arbi.png"
-    },
-    {
-      "itemCode": "arbi500",
-      "brand": "",
-      "item": "fresh arbi",
-      "unitWeight": "500 g",
-      "unitPrice": 4.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2155,19 +2131,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/karela.png"
-    },
-    {
-      "itemCode": "karela500",
-      "brand": "",
-      "item": "fresh karela / bitter gourd",
-      "unitWeight": "500 g",
-      "unitPrice": 4.2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2263,7 +2227,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 7.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2311,19 +2275,7 @@
       "item": "fresh small egg plant / small brinjal",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/brinjal.png"
-    },
-    {
-      "itemCode": "brinjal500",
-      "brand": "",
-      "item": "fresh small egg plant / small brinjal",
-      "unitWeight": "500 g",
-      "unitPrice": 3.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2352,6 +2304,18 @@
         "FR001"
       ],
       "imgUrl": "/images/peanutwithshell.png"
+    },
+    {
+      "itemCode": "roohafza",
+      "brand": "",
+      "item": "Roohafza",
+      "unitWeight": "1 stuck (750 ml)",
+      "unitPrice": 2.99,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/roohafza.png"
     },
     {
       "itemCode": "hpanipuri",
@@ -2714,6 +2678,18 @@
       "imgUrl": "/images/waghbakri.png"
     },
     {
+      "itemCode": "wbpltj1",
+      "brand": "Wagh Bakri",
+      "item": "premium leaf tee jar",
+      "unitWeight": "1 kg",
+      "unitPrice": 8.8,
+      "available": true,
+      "categoryCode": [
+        "T001"
+      ],
+      "imgUrl": "/images/waghbakri1.png"
+    },
+    {
       "itemCode": "tmtp450",
       "brand": "Taj Mahal",
       "item": "tea powder",
@@ -2743,7 +2719,7 @@
       "item": "Fresh paneer",
       "unitWeight": "1 kg",
       "unitPrice": 8.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2763,15 +2739,15 @@
     },
     {
       "itemCode": "partdrgrlcnaan",
-      "brand": "Ashoka",
+      "brand": "shana",
       "item": "Tandoori Garlic Naan",
       "unitWeight": "1 pack",
-      "unitPrice": 2.3,
-      "available": false,
+      "unitPrice": 2.6,
+      "available": true,
       "categoryCode": [
         "FRZ001"
       ],
-      "imgUrl": "/images/tandoori_naan.png"
+      "imgUrl": "/images/garlic_naan.png"
     },
     {
       "itemCode": "parmxdvgtbl",
@@ -2796,6 +2772,18 @@
         "FRZ001"
       ],
       "imgUrl": "/images/aloo_paratha.png"
+    },
+    {
+      "itemCode": "methileaves",
+      "brand": "",
+      "item": "Methi Leaves",
+      "unitWeight": "1 pack (310 g)",
+      "unitPrice": 2.1,
+      "available": true,
+      "categoryCode": [
+        "FRZ001"
+      ],
+      "imgUrl": "/images/methi_leaves.png"
     }
   ]
 }

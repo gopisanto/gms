@@ -40,7 +40,7 @@ function App({ classes: { app, filterMenu, groceries } }) {
   return (
     <div className={app}>
       <marquee className="marquee">Stay home, Stay safe! We do free delivery of Groceries at your door step! Simply whats app your order to +49 15143571582.</marquee>
-      <blink><marquee className="marquee-news blinking">We have fresh Alphonso, Banginapalli, and Kesar mangoes.</marquee></blink>
+      <blink><marquee className="marquee-news blinking">We have fresh Banganapalli, and Kesar mangoes.</marquee></blink>
       <Header />
       <AppBar value={filter} onChange={onFilterChange} menuClickHandler={onMenuClick} onCartClick={onCartClick} />
       <div>
