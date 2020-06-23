@@ -221,7 +221,7 @@
       "item": "sona masoori rice",
       "unitWeight": "5 kg",
       "unitPrice": 11.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -1429,7 +1429,7 @@
       "item": "powa thick / rice flakes",
       "unitWeight": "1 kg",
       "unitPrice": 3.4,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "PM001"
       ],
