@@ -18,7 +18,7 @@
       "item": "Mangoes",
       "unitWeight": "1 Kg",
       "unitPrice": 14,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "MNGOS01"
       ],
@@ -520,7 +520,7 @@
       "item": "urid dal",
       "unitWeight": "500 g",
       "unitPrice": 1.9,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
@@ -2035,7 +2035,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2763,7 +2763,7 @@
     },
     {
       "itemCode": "methileaves",
-      "brand": "",
+      "brand": "Frozen",
       "item": "Methi Leaves",
       "unitWeight": "1 pack (310 g)",
       "unitPrice": 2.1,
