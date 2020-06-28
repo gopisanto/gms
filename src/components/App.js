@@ -36,10 +36,7 @@ function App({ classes: { app, filterMenu, groceries } }) {
   }
 
   const onCartClick = () => setOpenCart(true);
-const flag = true;
-if(flag) {
-return <div>We are updating the site. Please try after some time.</div>;
-}
+  
   return (
     <div className={app}>
       <marquee className="marquee">Stay home, Stay safe! We do free delivery of Groceries at your door step! Simply whats app your order to +49 15143571582.</marquee>

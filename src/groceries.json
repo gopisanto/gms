@@ -18,23 +18,11 @@
       "item": "Mangoes",
       "unitWeight": "1 Kg",
       "unitPrice": 14,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "MNGOS01"
       ],
       "imgUrl": "/images/kesar.png"
-    },
-    {
-      "itemCode": "mng1",
-      "brand": "Alphonso",
-      "item": "Mangoes",
-      "unitWeight": "1 Kg",
-      "unitPrice": 13.7,
-      "available": false,
-      "categoryCode": [
-        "MNGOS01"
-      ],
-      "imgUrl": "/images/alphonso.png"
     },
     {
       "itemCode": "mng2",
@@ -50,7 +38,7 @@
     },
     {
       "itemCode": "hp",
-      "brand": "schani",
+      "brand": "Schani / Annam",
       "item": "haldi power",
       "unitWeight": "100 g",
       "unitPrice": 1,
@@ -113,7 +101,7 @@
       "brand": "kavadi",
       "item": "katpuram",
       "unitWeight": "105 pc",
-      "unitPrice": 3.2,
+      "unitPrice": 3.4,
       "available": true,
       "categoryCode": [
         "PJ001"
@@ -149,7 +137,7 @@
       "brand": "banno",
       "item": "Basmati rice",
       "unitWeight": "10 kg",
-      "unitPrice": 23.5,
+      "unitPrice": 24.5,
       "available": true,
       "categoryCode": [
         "R001"
@@ -208,7 +196,7 @@
       "brand": "annam",
       "item": "sona masoori rice",
       "unitWeight": "10 kg",
-      "unitPrice": 20.5,
+      "unitPrice": 17.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -232,7 +220,7 @@
       "brand": "Hasina",
       "item": "bio sona masoori rice",
       "unitWeight": "5 kg",
-      "unitPrice": 9.99,
+      "unitPrice": 11.49,
       "available": true,
       "categoryCode": [
         "R001"
@@ -244,7 +232,7 @@
       "brand": "annam",
       "item": "ponni boiled rice",
       "unitWeight": "10 kg",
-      "unitPrice": 20.99,
+      "unitPrice": 25.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -256,7 +244,7 @@
       "brand": "annam",
       "item": "ponni boiled rice",
       "unitWeight": "5 kg",
-      "unitPrice": 12.8,
+      "unitPrice": 13.5,
       "available": true,
       "categoryCode": [
         "R001"
@@ -268,7 +256,7 @@
       "brand": "annam",
       "item": "ponni raw rice",
       "unitWeight": "5 kg",
-      "unitPrice": 12.3,
+      "unitPrice": 12.8,
       "available": true,
       "categoryCode": [
         "R001"
@@ -280,7 +268,7 @@
       "brand": "annam",
       "item": "ponni raw rice",
       "unitWeight": "10 kg",
-      "unitPrice": 20.99,
+      "unitPrice": 25,
       "available": true,
       "categoryCode": [
         "R001"
@@ -303,7 +291,7 @@
       "brand": "annam",
       "item": "sona masuri brown rice",
       "unitWeight": "5 kg",
-      "unitPrice": 12.7,
+      "unitPrice": 13.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -315,7 +303,7 @@
       "brand": "annam",
       "item": "idly rice",
       "unitWeight": "5 kg",
-      "unitPrice": 12.5,
+      "unitPrice": 12.49,
       "available": true,
       "categoryCode": [
         "R001"
@@ -359,30 +347,6 @@
       "imgUrl": "/images/pilsbury.png"
     },
     {
-      "itemCode": "aca1",
-      "brand": "aashirwaad",
-      "item": "chapathi atta",
-      "unitWeight": "1 kg",
-      "unitPrice": 2.1,
-      "available": false,
-      "categoryCode": [
-        "F001"
-      ],
-      "imgUrl": "/images/aaatta.png"
-    },
-    {
-      "itemCode": "ama2",
-      "brand": "aashirwaad",
-      "item": "multigrain atta",
-      "unitWeight": "2 kg",
-      "unitPrice": 0,
-      "available": false,
-      "categoryCode": [
-        "F001"
-      ],
-      "imgUrl": "/images/aamul.png"
-    },
-    {
       "itemCode": "amaep5",
       "brand": "aashirwaad",
       "item": "multigrain atta export pack",
@@ -395,24 +359,12 @@
       "imgUrl": "/images/aamul.png"
     },
     {
-      "itemCode": "aca2",
-      "brand": "aashirwaad",
-      "item": "chapathi atta",
-      "unitWeight": "2 kg",
-      "unitPrice": 2.6,
-      "available": true,
-      "categoryCode": [
-        "F001"
-      ],
-      "imgUrl": "/images/aashirwadatta.png"
-    },
-    {
       "itemCode": "acaep5",
       "brand": "aashirwaad",
       "item": "chapathi atta (export pack)",
       "unitWeight": "5 kg",
       "unitPrice": 9.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -423,7 +375,7 @@
       "brand": "aashirwaad",
       "item": "chapathi atta",
       "unitWeight": "5 kg",
-      "unitPrice": 7.5,
+      "unitPrice": 9.5,
       "available": true,
       "categoryCode": [
         "F001"
@@ -456,10 +408,10 @@
     },
     {
       "itemCode": "hmd2",
-      "brand": "heera",
+      "brand": "heera / trs",
       "item": "mung dal",
       "unitWeight": "2 kg",
-      "unitPrice": 6.2,
+      "unitPrice": 6.6,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -471,7 +423,7 @@
       "brand": "trs",
       "item": "mung dal",
       "unitWeight": "500 g",
-      "unitPrice": 1.8,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -481,9 +433,9 @@
     {
       "itemCode": "mdc500",
       "brand": "trs",
-      "item": "moong dal chika",
+      "item": "moong dal chilka",
       "unitWeight": "500 g",
-      "unitPrice": 2,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -507,7 +459,7 @@
       "brand": "trs",
       "item": "urid dal",
       "unitWeight": "2 kg",
-      "unitPrice": 6.2,
+      "unitPrice": 6.8,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -531,7 +483,7 @@
       "brand": "schani",
       "item": "urid whole black",
       "unitWeight": "500 g",
-      "unitPrice": 1.9,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -549,18 +501,6 @@
         "DL001"
       ],
       "imgUrl": "/images/uridchilka.png"
-    },
-    {
-      "itemCode": "tub2",
-      "brand": "trs",
-      "item": "urid beans / urid whole black",
-      "unitWeight": "2 kg",
-      "unitPrice": 7.2,
-      "available": true,
-      "categoryCode": [
-        "DL001"
-      ],
-      "imgUrl": "/images/uridblack.png"
     },
     {
       "itemCode": "ttd2",
@@ -591,7 +531,7 @@
       "brand": "annam",
       "item": "toor dal (Loose pack)",
       "unitWeight": "1 kg",
-      "unitPrice": 3.0,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -603,7 +543,7 @@
       "brand": "trs",
       "item": "kala chana",
       "unitWeight": "2 kg",
-      "unitPrice": 5.9,
+      "unitPrice": 5.99,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -615,7 +555,7 @@
       "brand": "trs",
       "item": "kala chana",
       "unitWeight": "500 g",
-      "unitPrice": 1.5,
+      "unitPrice": 1.6,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -639,7 +579,7 @@
       "brand": "trs",
       "item": "chana dal",
       "unitWeight": "500 g",
-      "unitPrice": 1.8,
+      "unitPrice": 1.69,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -651,7 +591,19 @@
       "brand": "trs",
       "item": "red kidney beans",
       "unitWeight": "2 kg",
-      "unitPrice": 5.9,
+      "unitPrice": 7.29,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/kidney.png"
+    },
+    {
+      "itemCode": "trkb500",
+      "brand": "trs",
+      "item": "red kidney beans",
+      "unitWeight": "500 g",
+      "unitPrice": 2.29,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -663,7 +615,7 @@
       "brand": "trs",
       "item": "cow peas red",
       "unitWeight": "500 g",
-      "unitPrice": 2.9,
+      "unitPrice": 1.89,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -671,23 +623,11 @@
       "imgUrl": "/images/cowpeas.png"
     },
     {
-      "itemCode": "trkb500",
-      "brand": "trs",
-      "item": "red kidney beans",
-      "unitWeight": "500 g",
-      "unitPrice": 1.9,
-      "available": true,
-      "categoryCode": [
-        "DL001"
-      ],
-      "imgUrl": "/images/kidney.png"
-    },
-    {
       "itemCode": "tcp500",
       "brand": "trs",
-      "item": "chick peas",
+      "item": "chick peas / kabuli chana",
       "unitWeight": "500 g",
-      "unitPrice": 1.6,
+      "unitPrice": 1.89,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -699,7 +639,7 @@
       "brand": "trs",
       "item": "chick peas",
       "unitWeight": "2 kg",
-      "unitPrice": 5.5,
+      "unitPrice": 7,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -723,7 +663,7 @@
       "brand": "trs",
       "item": "black eye beans",
       "unitWeight": "2 kg",
-      "unitPrice": 6.0,
+      "unitPrice": 6.79,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -735,7 +675,7 @@
       "brand": "trs",
       "item": "black eye beans",
       "unitWeight": "500 g",
-      "unitPrice": 1.8,
+      "unitPrice": 1.89,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -747,7 +687,7 @@
       "brand": "trs",
       "item": "mung whole (mung beans green)",
       "unitWeight": "2 kg",
-      "unitPrice": 6.7,
+      "unitPrice": 6.79,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -759,7 +699,7 @@
       "brand": "trs",
       "item": "mung whole (mung beans green)",
       "unitWeight": "500 gms",
-      "unitPrice": 1.9,
+      "unitPrice": 1.89,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -770,7 +710,7 @@
       "brand": "trs",
       "item": "red lentils / masoor dal",
       "unitWeight": "500 g",
-      "unitPrice": 1.6,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -804,9 +744,9 @@
     {
       "itemCode": "annamredchilli100",
       "brand": "Annam",
-      "item": "red chilli",
+      "item": "red chilli with stem",
       "unitWeight": "100 g",
-      "unitPrice": 1.8,
+      "unitPrice": 1.69,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -902,7 +842,7 @@
       "brand": "trs",
       "item": "gram flour / besan",
       "unitWeight": "1 kg",
-      "unitPrice": 2.7,
+      "unitPrice": 3.19,
       "available": true,
       "categoryCode": [
         "F001"
@@ -914,7 +854,7 @@
       "brand": "trs",
       "item": "juwar flour",
       "unitWeight": "1 kg",
-      "unitPrice": 2.6,
+      "unitPrice": 2.99,
       "available": true,
       "categoryCode": [
         "F001"
@@ -926,7 +866,7 @@
       "brand": "annam",
       "item": "ragi flour",
       "unitWeight": "1 kg",
-      "unitPrice": 2.8,
+      "unitPrice": 2.99,
       "available": true,
       "categoryCode": [
         "F001"
@@ -962,7 +902,7 @@
       "brand": "trs",
       "item": "coconut powder",
       "unitWeight": "300 g",
-      "unitPrice": 2.2,
+      "unitPrice": 2.25,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -974,7 +914,7 @@
       "brand": "trs",
       "item": "medium desiccated coconut powder",
       "unitWeight": "300 g",
-      "unitPrice": 2.2,
+      "unitPrice": 2.25,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1009,7 +949,7 @@
       "brand": "annam",
       "item": "idly rawa",
       "unitWeight": "1 kg",
-      "unitPrice": 2.6,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "RW001"
@@ -1105,7 +1045,7 @@
       "brand": "trs",
       "item": "black pepper",
       "unitWeight": "100 g",
-      "unitPrice": 1.8,
+      "unitPrice": 1.95,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1117,7 +1057,7 @@
       "brand": "trs",
       "item": "shahi kala jeera",
       "unitWeight": "50 g",
-      "unitPrice": 1.4,
+      "unitPrice": 1.49,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1129,7 +1069,7 @@
       "brand": "trs",
       "item": "kalonji",
       "unitWeight": "100 g",
-      "unitPrice": 1.4,
+      "unitPrice": 1.69,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1177,7 +1117,7 @@
       "brand": "annam",
       "item": "fennel seeds",
       "unitWeight": "100 g",
-      "unitPrice": 1.1,
+      "unitPrice": 0.99,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1189,7 +1129,7 @@
       "brand": "kings",
       "item": "anardana seeds",
       "unitWeight": "100 g",
-      "unitPrice": 1.4,
+      "unitPrice": 1.95,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1212,7 +1152,7 @@
       "brand": "lijjat",
       "item": "punjabi masala papadom gross",
       "unitWeight": "200 g",
-      "unitPrice": 1.4,
+      "unitPrice": 1.49,
       "available": true,
       "categoryCode": [
         "P001"
@@ -1249,7 +1189,7 @@
       "item": " Lime Pickle",
       "unitWeight": "500 g",
       "unitPrice": 3.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "P001"
       ],
@@ -1272,7 +1212,7 @@
       "brand": "trs",
       "item": "dhaniya powder",
       "unitWeight": "100 g",
-      "unitPrice": 0.9,
+      "unitPrice": 0.95,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1284,7 +1224,7 @@
       "brand": "trs",
       "item": "dhaniya powder",
       "unitWeight": "400 g",
-      "unitPrice": 2.6,
+      "unitPrice": 1.95,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1296,7 +1236,7 @@
       "brand": "annam",
       "item": "jeera powder",
       "unitWeight": "400 g",
-      "unitPrice": 3.8,
+      "unitPrice": 3.49,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1308,7 +1248,7 @@
       "brand": "trs",
       "item": "jeera powder",
       "unitWeight": "100 g",
-      "unitPrice": 1.2,
+      "unitPrice": 1.19,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1320,7 +1260,7 @@
       "brand": "mtr",
       "item": "sambar powder",
       "unitWeight": "200 g",
-      "unitPrice": 2.5,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1332,7 +1272,7 @@
       "brand": "gits",
       "item": "khatta dhokla mix",
       "unitWeight": "200 g",
-      "unitPrice": 1.3,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -1340,23 +1280,11 @@
       "imgUrl": "/images/dhokla.png"
     },
     {
-      "itemCode": "ggjm200",
-      "brand": "gits",
-      "item": "gulab jamun mix",
-      "unitWeight": "200 g",
-      "unitPrice": 2.3,
-      "available": false,
-      "categoryCode": [
-        "RD001"
-      ],
-      "imgUrl": "/images/gitsgulabjamun(1).png"
-    },
-    {
       "itemCode": "mtrgjm500",
       "brand": "MTR",
       "item": "gulab jamun mix",
       "unitWeight": "500 g",
-      "unitPrice": 5.2,
+      "unitPrice": 5.29,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -1368,7 +1296,7 @@
       "brand": "MTR",
       "item": "gulab jamun mix",
       "unitWeight": "200 g",
-      "unitPrice": 2.6,
+      "unitPrice": 2.99,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -1392,7 +1320,7 @@
       "brand": "annam",
       "item": "tapioca (sabudana) small",
       "unitWeight": "500 g",
-      "unitPrice": 2,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -1440,7 +1368,7 @@
       "brand": "heera/trs",
       "item": "powa medium / rice flakes",
       "unitWeight": "1 kg",
-      "unitPrice": 3.6,
+      "unitPrice": 3.99,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -1464,7 +1392,7 @@
       "brand": "annam / heera",
       "item": "mamra / puffed rice",
       "unitWeight": "400 g",
-      "unitPrice": 3.9,
+      "unitPrice": 4.39,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -1476,7 +1404,7 @@
       "brand": "annam",
       "item": "phool makhana",
       "unitWeight": "200 g",
-      "unitPrice": 5,
+      "unitPrice": 5.99,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -1488,7 +1416,7 @@
       "brand": "annam",
       "item": "vermicelli / semiya (roasted)",
       "unitWeight": "500 g",
-      "unitPrice": 3.2,
+      "unitPrice": 2.79,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -1524,7 +1452,7 @@
       "brand": "annam",
       "item": "mustard seeds",
       "unitWeight": "100 g",
-      "unitPrice": 1,
+      "unitPrice": 0.99,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1536,7 +1464,7 @@
       "brand": "annam / schani",
       "item": "cumin seeds / jeera whole",
       "unitWeight": "100 g",
-      "unitPrice": 1,
+      "unitPrice": 1.19,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1548,7 +1476,7 @@
       "brand": "trs",
       "item": "methi seeds",
       "unitWeight": "100 g",
-      "unitPrice": 0.9,
+      "unitPrice": 0.95,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1560,7 +1488,7 @@
       "brand": "mdh",
       "item": "kasoori methi",
       "unitWeight": "100 g",
-      "unitPrice": 2.5,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1572,7 +1500,7 @@
       "brand": "mdh",
       "item": "garam masala",
       "unitWeight": "100 g",
-      "unitPrice": 1.7,
+      "unitPrice": 1.95,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1580,11 +1508,23 @@
       "imgUrl": "/images/mdhgarammasala.png"
     },
     {
+      "itemCode": "mdhkashmiri100",
+      "brand": "mdh",
+      "item": "kashmiri mirchi",
+      "unitWeight": "100 g",
+      "unitPrice": 1.55,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/mdhkashmirimirchi.png"
+    },
+    {
       "itemCode": "ngm100",
-      "brand": "natco",
+      "brand": "trs",
       "item": "garam masala",
       "unitWeight": "100 g",
-      "unitPrice": 1.2,
+      "unitPrice": 1.19,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1596,7 +1536,7 @@
       "brand": "schani",
       "item": "sesame seeds white",
       "unitWeight": "100 g",
-      "unitPrice": 1,
+      "unitPrice": 0.95,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1608,7 +1548,7 @@
       "brand": "schani",
       "item": "sesame seeds white",
       "unitWeight": "400 g",
-      "unitPrice": 3.2,
+      "unitPrice": 3.39,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1620,7 +1560,7 @@
       "brand": "annam",
       "item": "roasted chana",
       "unitWeight": "250 g",
-      "unitPrice": 2.7,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -1631,8 +1571,8 @@
       "itemCode": "afrdonion400",
       "brand": "annam",
       "item": "fried onion",
-      "unitWeight": "4000 g",
-      "unitPrice": 2.4,
+      "unitWeight": "400 g",
+      "unitPrice": 2.69,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1644,7 +1584,7 @@
       "brand": "mdh",
       "item": "pulao masala",
       "unitWeight": "50 g",
-      "unitPrice": 1.7,
+      "unitPrice": 1.69,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1656,7 +1596,7 @@
       "brand": "mdh",
       "item": "biryani masala",
       "unitWeight": "100 g",
-      "unitPrice": 1.5,
+      "unitPrice": 1.59,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1680,7 +1620,7 @@
       "brand": "mdh",
       "item": "kitchen king",
       "unitWeight": "100 g",
-      "unitPrice": 1.7,
+      "unitPrice": 1.59,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1692,7 +1632,7 @@
       "brand": "mdh",
       "item": "amchur powder",
       "unitWeight": "100 g",
-      "unitPrice": 1.5,
+      "unitPrice": 1.59,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1704,7 +1644,7 @@
       "brand": "mdh",
       "item": "chunky chat masala",
       "unitWeight": "100 g",
-      "unitPrice": 1.4,
+      "unitPrice": 1.55,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1712,11 +1652,23 @@
       "imgUrl": "/images/mdhchunkychat.png"
     },
     {
+      "itemCode": "mtbm100",
+      "brand": "mdh",
+      "item": "Tandoori BBQ masala",
+      "unitWeight": "100 g",
+      "unitPrice": 1.59,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/tandoori_barbeque.png"
+    },
+    {
       "itemCode": "kbl30",
       "brand": "kings",
       "item": "bay leaves",
       "unitWeight": "50 g",
-      "unitPrice": 1.6,
+      "unitPrice": 1.95,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1739,7 +1691,7 @@
       "brand": "vandevi",
       "item": "hing / asafoetida",
       "unitWeight": "100 g",
-      "unitPrice": 3.5,
+      "unitPrice": 2.69,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1751,7 +1703,7 @@
       "brand": "heera",
       "item": "dried curry leaves",
       "unitWeight": "20 g",
-      "unitPrice": 2,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1787,7 +1739,7 @@
       "brand": "priya",
       "item": "upma mix",
       "unitWeight": "175 g",
-      "unitPrice": 2.2,
+      "unitPrice": 2.29,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -1795,11 +1747,23 @@
       "imgUrl": "/images/priyaupmamix.png"
     },
     {
+      "itemCode": "mscp200",
+      "brand": "mtr",
+      "item": "spiced chutney powder",
+      "unitWeight": "200 g",
+      "unitPrice": 1.99,
+      "available": true,
+      "categoryCode": [
+        "RD001"
+      ],
+      "imgUrl": "/images/mtr_chutney_powder.png"
+    },
+    {
       "itemCode": "mdm200",
       "brand": "mtr",
       "item": "instant dosa mix",
       "unitWeight": "200 g",
-      "unitPrice": 2.1,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -1811,7 +1775,7 @@
       "brand": "mtr",
       "item": "upma mix",
       "unitWeight": "200 g",
-      "unitPrice": 1.6,
+      "unitPrice": 1.99,
       "available": false,
       "categoryCode": [
         "RD001"
@@ -1822,7 +1786,7 @@
       "brand": "mtr",
       "item": "rawa idly mix",
       "unitWeight": "500 g",
-      "unitPrice": 2.5,
+      "unitPrice": 2.39,
       "available": false,
       "categoryCode": [
         "RD001"
@@ -1845,7 +1809,7 @@
       "brand": "heera",
       "item": "jaggery goor",
       "unitWeight": "450 g",
-      "unitPrice": 2.5,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "SS001"
@@ -1857,7 +1821,7 @@
       "brand": "khanum",
       "item": "butter ghee",
       "unitWeight": "500",
-      "unitPrice": 6.0,
+      "unitPrice": 5.99,
       "available": true,
       "categoryCode": [
         "O001"
@@ -1869,7 +1833,7 @@
       "brand": "khanum",
       "item": "butter ghee",
       "unitWeight": "1 kg",
-      "unitPrice": 10.2,
+      "unitPrice": 10.59,
       "available": true,
       "categoryCode": [
         "O001"
@@ -1881,7 +1845,7 @@
       "brand": "trs",
       "item": "chilli powder extra hot",
       "unitWeight": "100 g",
-      "unitPrice": 1,
+      "unitPrice": 0.99,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1889,23 +1853,11 @@
       "imgUrl": "/images/chillipow.png"
     },
     {
-      "itemCode": "mdhkashmiri100",
-      "brand": "mdh",
-      "item": "kashmiri mirchi",
-      "unitWeight": "100 g",
-      "unitPrice": 1.4,
-      "available": true,
-      "categoryCode": [
-        "S0001"
-      ],
-      "imgUrl": "/images/mdhkashmirimirchi.png"
-    },
-    {
       "itemCode": "tpp375",
-      "brand": "trs",
+      "brand": "trs / heera",
       "item": "pink peanuts",
       "unitWeight": "375 g",
-      "unitPrice": 2.1,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "SS001"
@@ -1917,7 +1869,7 @@
       "brand": "maggi",
       "item": "masala noodles",
       "unitWeight": "70 g",
-      "unitPrice": 0.6,
+      "unitPrice": 0.59,
       "available": false,
       "categoryCode": [
         "PM001"
@@ -1929,7 +1881,7 @@
       "brand": "",
       "item": "fresh ginger",
       "unitWeight": "250 g",
-      "unitPrice": 1.8,
+      "unitPrice": 1.89,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1941,7 +1893,7 @@
       "brand": "",
       "item": "fresh garlic",
       "unitWeight": "500 g",
-      "unitPrice": 3.4,
+      "unitPrice": 3.49,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -1953,7 +1905,7 @@
       "brand": "home made",
       "item": "ginger / garlic paste",
       "unitWeight": "500 g",
-      "unitPrice": 5.0,
+      "unitPrice": 5.49,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2010,7 +1962,7 @@
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "100 g",
-      "unitPrice": 1.0,
+      "unitPrice": 1.19,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2022,7 +1974,7 @@
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "250 g",
-      "unitPrice": 2.3,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2034,8 +1986,8 @@
       "brand": "",
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
-      "unitPrice": 1.2,
-      "available": false,
+      "unitPrice": 1.19,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2046,7 +1998,7 @@
       "brand": "",
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
-      "unitPrice": 1.2,
+      "unitPrice": 1.19,
       "available": false,
       "categoryCode": [
         "FR001"
@@ -2058,8 +2010,8 @@
       "brand": "",
       "item": "Raw Mango",
       "unitWeight": "250 g",
-      "unitPrice": 2,
-      "available": false,
+      "unitPrice": 2.5,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2083,7 +2035,7 @@
       "item": "snake gourd",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2094,7 +2046,7 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
-      "unitPrice": 2.3,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2130,7 +2082,7 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
-      "unitPrice": 2.5,
+      "unitPrice": 1.69,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2238,32 +2190,8 @@
       "brand": "",
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
-      "unitPrice": 2.3,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/ivygourd.png"
-    },
-    {
-      "itemCode": "ivygourd500",
-      "brand": "",
-      "item": "fresh ivy gourd / Tindly",
-      "unitWeight": "500 g",
-      "unitPrice": 4.2,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/ivygourd.png"
-    },
-    {
-      "itemCode": "ivygourd1",
-      "brand": "",
-      "item": "fresh ivy gourd / Tindly",
-      "unitWeight": "1 Kg",
-      "unitPrice": 8,
-      "available": false,
+      "unitPrice": 2.39,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2275,7 +2203,7 @@
       "item": "fresh small egg plant / small brinjal",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2310,7 +2238,7 @@
       "brand": "haldirams",
       "item": "pani puri",
       "unitWeight": "30 stuck",
-      "unitPrice": 4.3,
+      "unitPrice": 4.49,
       "available": true,
       "categoryCode": [
         "SN0001"
@@ -2323,7 +2251,7 @@
       "item": "soan papdi(veg. ghee)",
       "unitWeight": "250 g",
       "unitPrice": 3.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -2334,7 +2262,7 @@
       "brand": "haldirams",
       "item": "jor garam",
       "unitWeight": "200 g",
-      "unitPrice": 2.2,
+      "unitPrice": 2.19,
       "available": true,
       "categoryCode": [
         "SN0001"
@@ -2346,8 +2274,8 @@
       "brand": "haldirams",
       "item": "chilli chatak lacha",
       "unitWeight": "200 g",
-      "unitPrice": 2.2,
-      "available": true,
+      "unitPrice": 2.19,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -2382,24 +2310,12 @@
       "brand": "trs",
       "item": "cashew kernels",
       "unitWeight": "100 g",
-      "unitPrice": 0,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "SN0001"
       ],
       "imgUrl": "/images/cashew.png"
-    },
-    {
-      "itemCode": "almnds",
-      "brand": "",
-      "item": "Almonds",
-      "unitWeight": "250 g",
-      "unitPrice": 0,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/almonds.png"
     },
     {
       "itemCode": "hdrydates250",
@@ -2430,7 +2346,7 @@
       "brand": "trs",
       "item": "raisins",
       "unitWeight": "100 g",
-      "unitPrice": 1.69,
+      "unitPrice": 1.79,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -2442,7 +2358,7 @@
       "brand": "haldirams",
       "item": "plain bhujia ",
       "unitWeight": "200 g",
-      "unitPrice": 1.6,
+      "unitPrice": 1.59,
       "available": false,
       "categoryCode": [
         "SN0001"
@@ -2491,7 +2407,7 @@
       "item": "samosa",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -2538,7 +2454,7 @@
       "brand": "Britania",
       "item": "Good Day Rich & Cashew",
       "unitWeight": "216 g",
-      "unitPrice": 2.5,
+      "unitPrice": 2.69,
       "available": true,
       "categoryCode": [
         "SN0001"
@@ -2623,7 +2539,7 @@
       "item": "mustard oil",
       "unitWeight": "1 l",
       "unitPrice": 6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "O001"
       ],
@@ -2646,7 +2562,7 @@
       "brand": "Red Label",
       "item": "tea powder",
       "unitWeight": "450 g",
-      "unitPrice": 6.5,
+      "unitPrice": 5.99,
       "available": true,
       "categoryCode": [
         "T001"
@@ -2670,7 +2586,7 @@
       "brand": "Wagh Bakri",
       "item": "premium leaf tee jar",
       "unitWeight": "1 kg",
-      "unitPrice": 8.8,
+      "unitPrice": 8.89,
       "available": true,
       "categoryCode": [
         "T001"
@@ -2682,7 +2598,7 @@
       "brand": "Taj Mahal",
       "item": "tea powder",
       "unitWeight": "450 g",
-      "unitPrice": 8,
+      "unitPrice": 7.99,
       "available": true,
       "categoryCode": [
         "T001"
@@ -2767,7 +2683,7 @@
       "item": "Methi Leaves",
       "unitWeight": "1 pack (310 g)",
       "unitPrice": 2.1,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FRZ001"
       ],
