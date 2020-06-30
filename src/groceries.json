@@ -328,7 +328,7 @@
       "item": "chapathi atta",
       "unitWeight": "5 kg",
       "unitPrice": 6.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -352,7 +352,7 @@
       "item": "multigrain atta export pack",
       "unitWeight": "5 kg",
       "unitPrice": 11.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -471,8 +471,8 @@
       "brand": "trs",
       "item": "urid dal",
       "unitWeight": "500 g",
-      "unitPrice": 1.9,
-      "available": false,
+      "unitPrice": 1.95,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
@@ -1053,18 +1053,6 @@
       "imgUrl": "/images/blackpepper.png"
     },
     {
-      "itemCode": "tkj50",
-      "brand": "trs",
-      "item": "shahi kala jeera",
-      "unitWeight": "50 g",
-      "unitPrice": 1.49,
-      "available": true,
-      "categoryCode": [
-        "S0001"
-      ],
-      "imgUrl": "/images/kalajeera.png"
-    },
-    {
       "itemCode": "tkalonji100",
       "brand": "trs",
       "item": "kalonji",
@@ -1189,7 +1177,7 @@
       "item": " Lime Pickle",
       "unitWeight": "500 g",
       "unitPrice": 3.2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "P001"
       ],
@@ -1199,6 +1187,18 @@
       "itemCode": "ashmp500",
       "brand": "Ashoka",
       "item": "Mango Pickle",
+      "unitWeight": "500 g",
+      "unitPrice": 3.2,
+      "available": true,
+      "categoryCode": [
+        "P001"
+      ],
+      "imgUrl": "/images/ashokamangomild.png"
+    },
+    {
+      "itemCode": "ashmxdp500",
+      "brand": "Ashoka",
+      "item": "Mixed Pickle",
       "unitWeight": "500 g",
       "unitPrice": 3.2,
       "available": true,
@@ -1242,6 +1242,30 @@
         "S0001"
       ],
       "imgUrl": "/images/annamcuminpowder400.png"
+    },
+    {
+      "itemCode": "tkj50",
+      "brand": "trs",
+      "item": "shahi kala jeera",
+      "unitWeight": "50 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/kalajeera.png"
+    },
+    {
+      "itemCode": "twj1",
+      "brand": "trs",
+      "item": "whole jeera / cumin seeds",
+      "unitWeight": "1 Kg",
+      "unitPrice": 8.99,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/kalajeera.png"
     },
     {
       "itemCode": "tjp100",
@@ -2683,7 +2707,7 @@
       "item": "Methi Leaves",
       "unitWeight": "1 pack (310 g)",
       "unitPrice": 2.1,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FRZ001"
       ],
