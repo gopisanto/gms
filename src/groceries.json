@@ -2347,7 +2347,7 @@
       "item": "aloo bhujia ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
