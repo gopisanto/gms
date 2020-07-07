@@ -1937,6 +1937,17 @@
       "imgUrl": "/images/gingergarlicpaste.png"
     },
     {
+      "itemCode": "hmpb500",
+      "brand": "home made",
+      "item": "Pesar attu batter",
+      "unitWeight": "1 kg",
+      "unitPrice": 7.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ]
+    },
+    {
       "itemCode": "hmdb500",
       "brand": "home made",
       "item": "Dosa batter",
