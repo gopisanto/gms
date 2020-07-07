@@ -2023,7 +2023,7 @@
       "item": "malabar spinach / Bachali kura",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2059,7 +2059,7 @@
       "item": "Raw Mango",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
