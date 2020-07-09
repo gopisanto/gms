@@ -52,8 +52,8 @@
       "itemCode": "rk",
       "brand": "",
       "item": "red kumkum",
-      "unitWeight": "100 g",
-      "unitPrice": 1.2,
+      "unitWeight": "20 g",
+      "unitPrice": 0.5,
       "available": true,
       "categoryCode": [
         "PJ001"
@@ -1859,7 +1859,7 @@
       "item": "pink peanuts",
       "unitWeight": "375 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SS001"
       ],
@@ -2035,7 +2035,7 @@
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2131,7 +2131,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.69,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
