@@ -181,17 +181,6 @@
       "imgUrl": "/images/lailabasmati5.png"
     },
     {
-      "itemCode": "bsmr10",
-      "brand": "banno",
-      "item": "sona masoori rice",
-      "unitWeight": "10 kg",
-      "unitPrice": 17,
-      "available": false,
-      "categoryCode": [
-        "R001"
-      ]
-    },
-    {
       "itemCode": "asmr10",
       "brand": "annam",
       "item": "sona masoori rice",
@@ -214,18 +203,6 @@
         "R001"
       ],
       "imgUrl": "/images/smr5kg.png"
-    },
-    {
-      "itemCode": "hassmr5",
-      "brand": "Hasina",
-      "item": "bio sona masoori rice",
-      "unitWeight": "5 kg",
-      "unitPrice": 11.49,
-      "available": false,
-      "categoryCode": [
-        "R001"
-      ],
-      "imgUrl": "/images/hasinarice.png"
     },
     {
       "itemCode": "apbr10",
@@ -399,8 +376,8 @@
       "brand": "amratsari",
       "item": "chapathi atta",
       "unitWeight": "10 Kg",
-      "unitPrice": 0,
-      "available": false,
+      "unitPrice": 12.5,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
