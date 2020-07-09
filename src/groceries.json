@@ -2130,7 +2130,7 @@
       "item": "Ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2442,7 +2442,7 @@
       "item": " all in one ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
