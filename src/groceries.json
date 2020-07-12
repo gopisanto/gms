@@ -1970,16 +1970,28 @@
       "imgUrl": "/images/hm_puliogarepaste.png"
     },
     {
-      "itemCode": "fgc100",
+      "itemCode": "smonion",
       "brand": "",
-      "item": "fresh green chilli",
-      "unitWeight": "100 g",
-      "unitPrice": 1.19,
+      "item": "Small Onion",
+      "unitWeight": "250 g",
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/gchilli.png"
+      "imgUrl": "/images/smallonion.png"
+    },
+    {
+      "itemCode": "swpotato",
+      "brand": "",
+      "item": "Sweet Potato",
+      "unitWeight": "500 g",
+      "unitPrice": 1.99,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/sweetpotato.png"
     },
     {
       "itemCode": "suran",
@@ -1994,6 +2006,18 @@
       "imgUrl": "/images/yam.png"
     },
     {
+      "itemCode": "fgc100",
+      "brand": "",
+      "item": "fresh green chilli",
+      "unitWeight": "100 g",
+      "unitPrice": 1.19,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/gchilli.png"
+    },
+    {
       "itemCode": "fgc250",
       "brand": "",
       "item": "fresh green chilli",
@@ -2004,18 +2028,6 @@
         "FR001"
       ],
       "imgUrl": "/images/gchilli.png"
-    },
-    {
-      "itemCode": "bachali",
-      "brand": "",
-      "item": "malabar spinach / Bachali kura",
-      "unitWeight": "250 g",
-      "unitPrice": 2.19,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/bachali.png"
     },
     {
       "itemCode": "coriander1",
@@ -2042,54 +2054,6 @@
       "imgUrl": "/images/mint.png"
     },
     {
-      "itemCode": "rawmango250",
-      "brand": "",
-      "item": "Raw Mango",
-      "unitWeight": "250 g",
-      "unitPrice": 2.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/rawmango.png"
-    },
-    {
-      "itemCode": "amla",
-      "brand": "",
-      "item": "Fresh Amla",
-      "unitWeight": "250 g",
-      "unitPrice": 2.3,
-      "available": true,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/amla.png"
-    },
-    {
-      "itemCode": "guvar250",
-      "brand": "",
-      "item": "fresh Gawar",
-      "unitWeight": "250 g",
-      "unitPrice": 2.4,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/gawar.png"
-    },
-    {
-      "itemCode": "snakegourd250",
-      "brand": "",
-      "item": "snake gourd",
-      "unitWeight": "250 g",
-      "unitPrice": 2.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/snakeguard.png"
-    },
-    {
       "itemCode": "okra250",
       "brand": "",
       "item": "fresh okra / bhendi",
@@ -2102,36 +2066,12 @@
       "imgUrl": "/images/okra.png"
     },
     {
-      "itemCode": "ridge500",
-      "brand": "",
-      "item": "Ridge gourd / turia",
-      "unitWeight": "500 g",
-      "unitPrice": 3.8,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/ridgegourd.png"
-    },
-    {
-      "itemCode": "arbi250",
-      "brand": "",
-      "item": "fresh arbi",
-      "unitWeight": "250 g",
-      "unitPrice": 2.5,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/arbi.png"
-    },
-    {
       "itemCode": "karela250",
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.69,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2143,7 +2083,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2155,71 +2095,11 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/drstick.png"
-    },
-    {
-      "itemCode": "rawbanana250",
-      "brand": "",
-      "item": "fresh raw banana",
-      "unitWeight": "250 g",
-      "unitPrice": 2,
-      "available": true,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/rawbanana.png"
-    },
-    {
-      "itemCode": "rawbanana500",
-      "brand": "",
-      "item": "fresh raw banana",
-      "unitWeight": "500 g",
-      "unitPrice": 3.8,
-      "available": true,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/rawbanana.png"
-    },
-    {
-      "itemCode": "chkdkya250",
-      "brand": "",
-      "item": "fresh lima beans / chikudukaya",
-      "unitWeight": "250 g",
-      "unitPrice": 0,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/chikudukaya.png"
-    },
-    {
-      "itemCode": "chkdkya500",
-      "brand": "",
-      "item": "fresh lima beans / chikudukaya",
-      "unitWeight": "500 g",
-      "unitPrice": 0,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/chikudukaya.png"
-    },
-    {
-      "itemCode": "chkdkya1",
-      "brand": "",
-      "item": "fresh lima beans / chikudukaya",
-      "unitWeight": "1 kg",
-      "unitPrice": 0,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/chikudukaya.png"
     },
     {
       "itemCode": "btlgourd",
@@ -2227,7 +2107,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 7.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2239,35 +2119,35 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.39,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/ivygourd.png"
     },
     {
-      "itemCode": "brinjal250",
+      "itemCode": "jackfruit",
       "brand": "",
-      "item": "fresh small egg plant / small brinjal",
+      "item": "fresh jackfruit",
       "unitWeight": "250 g",
-      "unitPrice": 2.5,
-      "available": false,
+      "unitPrice": 2.19,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/brinjal.png"
+      "imgUrl": "/images/jackfruit.png"
     },
     {
-      "itemCode": "penutwtshell500",
+      "itemCode": "jackfruitseeds",
       "brand": "",
-      "item": "Peanut with shell",
-      "unitWeight": "500 g",
-      "unitPrice": 3.5,
-      "available": false,
+      "item": "jackfruit seeds",
+      "unitWeight": "250 g",
+      "unitPrice": 0,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/peanutwithshell.png"
+      "imgUrl": "/images/ackfruitseeds.png"
     },
     {
       "itemCode": "roohafza",
@@ -2419,7 +2299,7 @@
       "item": " all in one ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
