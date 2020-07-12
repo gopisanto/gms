@@ -2142,12 +2142,12 @@
       "brand": "",
       "item": "jackfruit seeds",
       "unitWeight": "250 g",
-      "unitPrice": 0,
+      "unitPrice": 2,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ackfruitseeds.png"
+      "imgUrl": "/images/jackfruitseeds.png"
     },
     {
       "itemCode": "roohafza",
