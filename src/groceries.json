@@ -2071,7 +2071,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.69,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
