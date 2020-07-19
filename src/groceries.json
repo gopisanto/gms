@@ -2011,7 +2011,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2028,6 +2028,18 @@
         "FR001"
       ],
       "imgUrl": "/images/mint.png"
+    },
+    {
+      "itemCode": "coconut",
+      "brand": "",
+      "item": "coconut with tail",
+      "unitWeight": "1 st.",
+      "unitPrice": 4.99,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/coconut.png"
     },
     {
       "itemCode": "okra250",
@@ -2047,11 +2059,23 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.69,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/karela1.png"
+    },
+    {
+      "itemCode": "arbi250",
+      "brand": "",
+      "item": "Arbi",
+      "unitWeight": "250 g",
+      "unitPrice": 2.49,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/arbi.png"
     },
     {
       "itemCode": "drsticks250",
