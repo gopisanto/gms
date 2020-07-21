@@ -2034,7 +2034,7 @@
       "brand": "",
       "item": "coconut with tail",
       "unitWeight": "1 st.",
-      "unitPrice": 4.99,
+      "unitPrice": 3.99,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2191,7 +2191,7 @@
       "item": "jor garam",
       "unitWeight": "200 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -2443,7 +2443,7 @@
       "item": "ring murukku",
       "unitWeight": "200 g",
       "unitPrice": 2.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
