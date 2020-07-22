@@ -13,18 +13,6 @@
       "imgUrl": "/images/mangopulp.png"
     },
     {
-      "itemCode": "mng2",
-      "brand": "Banaganapalli",
-      "item": "Mangoes",
-      "unitWeight": "1 Kg",
-      "unitPrice": 9,
-      "available": false,
-      "categoryCode": [
-        "MNGOS01"
-      ],
-      "imgUrl": "/images/banginapalli.png"
-    },
-    {
       "itemCode": "hp",
       "brand": "Schani / Annam",
       "item": "haldi power",
@@ -191,6 +179,18 @@
         "R001"
       ],
       "imgUrl": "/images/smr5kg.png"
+    },
+    {
+      "itemCode": "bsmr5",
+      "brand": "banno",
+      "item": "sona masoori rice",
+      "unitWeight": "5 kg",
+      "unitPrice": 9.59,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/bsmr5.png"
     },
     {
       "itemCode": "apbr10",
@@ -388,7 +388,7 @@
       "brand": "trs",
       "item": "mung dal",
       "unitWeight": "500 g",
-      "unitPrice": 1.99,
+      "unitPrice": 1.89,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -532,8 +532,8 @@
       "brand": "trs",
       "item": "chana dal",
       "unitWeight": "2 kg",
-      "unitPrice": 6.2,
-      "available": false,
+      "unitPrice": 6.69,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
@@ -544,7 +544,7 @@
       "brand": "trs",
       "item": "chana dal",
       "unitWeight": "500 g",
-      "unitPrice": 1.69,
+      "unitPrice": 1.59,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -795,7 +795,7 @@
       "brand": "trs",
       "item": "gram flour / besan",
       "unitWeight": "1 kg",
-      "unitPrice": 3.19,
+      "unitPrice": 2.99,
       "available": true,
       "categoryCode": [
         "F001"
@@ -938,12 +938,12 @@
       "brand": "trs",
       "item": "cardomoms",
       "unitWeight": "50 g",
-      "unitPrice": 3.2,
+      "unitPrice": 3.8,
       "available": true,
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/cardmom.png"
+      "imgUrl": "/images/cardamom.png"
     },
     {
       "itemCode": "tps100",
@@ -1141,8 +1141,8 @@
       "brand": "Ashoka",
       "item": "Mango Pickle",
       "unitWeight": "500 g",
-      "unitPrice": 3.2,
-      "available": false,
+      "unitPrice": 2.99,
+      "available": true,
       "categoryCode": [
         "P001"
       ],
@@ -1405,7 +1405,7 @@
       "brand": "trs",
       "item": "vermicelli / semiya (roasted)",
       "unitWeight": "200 g",
-      "unitPrice": 1.5,
+      "unitPrice": 1.69,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -1668,7 +1668,7 @@
       "brand": "vandevi",
       "item": "hing / asafoetida",
       "unitWeight": "100 g",
-      "unitPrice": 2.69,
+      "unitPrice": 2.99,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -2155,7 +2155,7 @@
       "item": "Roohafza",
       "unitWeight": "1 stuck (750 ml)",
       "unitPrice": 2.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -2460,6 +2460,18 @@
         "O001"
       ],
       "imgUrl": "/images/parachuteoil.png"
+    },
+    {
+      "itemCode": "dvghee675",
+      "brand": "dairy valley",
+      "item": "Pure Ayurvedic Ghee (100% natural)",
+      "unitWeight": "750 ml / 675 g",
+      "unitPrice": 10.99,
+      "available": true,
+      "categoryCode": [
+        "O001"
+      ],
+      "imgUrl": "/images/ghee.png"
     },
     {
       "itemCode": "amoil1",
