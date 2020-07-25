@@ -62,5 +62,13 @@
   {
     "code": "FRZ001",
     "label": "Frozen Items"
+  },
+  {
+    "code": "OCA001",
+    "label": "Occasional items"
+  },
+  {
+    "code": "OTH001",
+    "label": "Others"
   }
 ]
