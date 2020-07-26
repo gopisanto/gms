@@ -2095,7 +2095,7 @@
       "item": "coconut with tail",
       "unitWeight": "1 st.",
       "unitPrice": 3.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2119,7 +2119,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.69,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2162,6 +2162,18 @@
       "imgUrl": "/images/drstick.png"
     },
     {
+      "itemCode": "ridgegourd",
+      "brand": "",
+      "item": "fresh ridge gourd / turia",
+      "unitWeight": "500 g",
+      "unitPrice": 3.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/ridgegourd.png"
+    },
+    {
       "itemCode": "btlgourd",
       "brand": "",
       "item": "fresh bottle gourd / louki",
@@ -2178,36 +2190,12 @@
       "brand": "",
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
-      "unitPrice": 2.39,
-      "available": false,
+      "unitPrice": 2.19,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/ivygourd.png"
-    },
-    {
-      "itemCode": "jackfruit",
-      "brand": "",
-      "item": "fresh jackfruit",
-      "unitWeight": "250 g",
-      "unitPrice": 2.59,
-      "available": true,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/jackfruit.png"
-    },
-    {
-      "itemCode": "jackfruitseeds",
-      "brand": "",
-      "item": "jackfruit seeds",
-      "unitWeight": "250 g",
-      "unitPrice": 2,
-      "available": true,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/jackfruitseeds.png"
     },
     {
       "itemCode": "roohafza",
