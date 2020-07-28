@@ -1,6 +1,54 @@
 {
   "groceries": [
     {
+      "itemCode": "kajukatli",
+      "brand": "Dairy Valley",
+      "item": "kaju katli",
+      "unitWeight": "1 st.",
+      "unitPrice": 4.19,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/kajukatli.png"
+    },
+    {
+      "itemCode": "ladoo",
+      "brand": "Dairy Valley",
+      "item": "Motichoor Ladoo",
+      "unitWeight": "1 st.",
+      "unitPrice": 4.19,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/ladoo.png"
+    },
+    {
+      "itemCode": "milkcake",
+      "brand": "Dairy Valley",
+      "item": "Milk Cake / Kalakhand",
+      "unitWeight": "1 st.",
+      "unitPrice": 5.29,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/milkcake.png"
+    },
+    {
+      "itemCode": "rasmalai",
+      "brand": "Dairy Valley",
+      "item": "Rasmalai",
+      "unitWeight": "1 st.",
+      "unitPrice": 4.19,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/rasmalai.png"
+    },
+    {
       "itemCode": "dettol550",
       "brand": "",
       "item": "Dettol Antiseptic Liquid",
@@ -2209,54 +2257,6 @@
         "SN0001"
       ],
       "imgUrl": "/images/roohafza.png"
-    },
-    {
-      "itemCode": "kajukatli",
-      "brand": "Dairy Valley",
-      "item": "kaju katli",
-      "unitWeight": "1 st.",
-      "unitPrice": 4.19,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/kajukatli.png"
-    },
-    {
-      "itemCode": "ladoo",
-      "brand": "Dairy Valley",
-      "item": "Motichoor Ladoo",
-      "unitWeight": "1 st.",
-      "unitPrice": 4.19,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/ladoo.png"
-    },
-    {
-      "itemCode": "milkcake",
-      "brand": "Dairy Valley",
-      "item": "Milk Cake / Kalakhand",
-      "unitWeight": "1 st.",
-      "unitPrice": 5.29,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/milkcake.png"
-    },
-    {
-      "itemCode": "rasmalai",
-      "brand": "Dairy Valley",
-      "item": "Rasmalai",
-      "unitWeight": "1 st.",
-      "unitPrice": 4.19,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/rasmalai.png"
     },
     {
       "itemCode": "hpanipuri",
