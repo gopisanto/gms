@@ -1139,14 +1139,15 @@
     },
     {
       "itemCode": "wbs100",
-      "brand": "wekefield bicarbonate",
-      "item": "soda",
+      "brand": "trs",
+      "item": "bicarbonate soda",
       "unitWeight": "100 g",
-      "unitPrice": 1,
-      "available": false,
+      "unitPrice": 0.99,
+      "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/soda.png"
     },
     {
       "itemCode": "lpmpg200",
@@ -1894,12 +1895,12 @@
       "brand": "trs / heera",
       "item": "pink peanuts",
       "unitWeight": "375 g",
-      "unitPrice": 1.99,
-      "available": false,
+      "unitPrice": 2.69,
+      "available": true,
       "categoryCode": [
         "SS001"
       ],
-      "imgUrl": "/images/pinkpeanuts.png"
+      "imgUrl": "/images/peanuts.png"
     },
     {
       "itemCode": "mmn70",
@@ -2208,6 +2209,54 @@
         "SN0001"
       ],
       "imgUrl": "/images/roohafza.png"
+    },
+    {
+      "itemCode": "kajukatli",
+      "brand": "Dairy Valley",
+      "item": "kaju katli",
+      "unitWeight": "1 st.",
+      "unitPrice": 4.19,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/kajukatli.png"
+    },
+    {
+      "itemCode": "ladoo",
+      "brand": "Dairy Valley",
+      "item": "Motichoor Ladoo",
+      "unitWeight": "1 st.",
+      "unitPrice": 4.19,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/ladoo.png"
+    },
+    {
+      "itemCode": "milkcake",
+      "brand": "Dairy Valley",
+      "item": "Milk Cake / Kalakhand",
+      "unitWeight": "1 st.",
+      "unitPrice": 5.29,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/milkcake.png"
+    },
+    {
+      "itemCode": "rasmalai",
+      "brand": "Dairy Valley",
+      "item": "Rasmalai",
+      "unitWeight": "1 st.",
+      "unitPrice": 4.19,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/rasmalai.png"
     },
     {
       "itemCode": "hpanipuri",
