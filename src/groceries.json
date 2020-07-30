@@ -424,8 +424,8 @@
       "brand": "aashirwaad",
       "item": "multigrain atta export pack",
       "unitWeight": "5 kg",
-      "unitPrice": 11.99,
-      "available": false,
+      "unitPrice": 9.49,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -437,7 +437,7 @@
       "item": "chapathi atta (export pack)",
       "unitWeight": "5 kg",
       "unitPrice": 9.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -1023,7 +1023,7 @@
       "item": "upma rawa",
       "unitWeight": "1 kg",
       "unitPrice": 2.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RW001"
       ],
@@ -1083,7 +1083,7 @@
       "item": "daniya whole / coriander whole",
       "unitWeight": "100 g",
       "unitPrice": 0.9,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -1884,7 +1884,7 @@
       "item": "jaggery goor",
       "unitWeight": "500 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SS001"
       ],
@@ -1896,7 +1896,7 @@
       "item": "jaggery goor",
       "unitWeight": "450 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SS001"
       ],
@@ -2216,7 +2216,7 @@
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
