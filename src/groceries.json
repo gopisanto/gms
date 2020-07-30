@@ -6,7 +6,7 @@
       "item": "kaju katli",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -18,7 +18,7 @@
       "item": "Motichoor Ladoo",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -30,7 +30,7 @@
       "item": "Milk Cake / Kalakhand",
       "unitWeight": "1 st.",
       "unitPrice": 5.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -42,7 +42,7 @@
       "item": "Rasmalai",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
