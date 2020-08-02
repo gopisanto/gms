@@ -1,6 +1,30 @@
 {
   "groceries": [
     {
+      "itemCode": "betelleaves",
+      "brand": "",
+      "item": "Betel Leaves",
+      "unitWeight": "50 g (8 - 10 stuck)",
+      "unitPrice": 1.99,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/betelleaves.png"
+    },
+    {
+      "itemCode": "coconut",
+      "brand": "",
+      "item": "coconut with tail",
+      "unitWeight": "1 st.",
+      "unitPrice": 3.99,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/coconut.png"
+    },
+    {
       "itemCode": "kajukatli",
       "brand": "Dairy Valley",
       "item": "kaju katli",
@@ -2132,23 +2156,35 @@
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/mint.png"
     },
     {
-      "itemCode": "coconut",
+      "itemCode": "longbeans250",
       "brand": "",
-      "item": "coconut with tail",
-      "unitWeight": "1 st.",
-      "unitPrice": 3.99,
-      "available": false,
+      "item": "fresh long beans",
+      "unitWeight": "250 g",
+      "unitPrice": 2.1,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/coconut.png"
+      "imgUrl": "/images/longbeans.png"
+    },
+    {
+      "itemCode": "eggplant250",
+      "brand": "",
+      "item": "fresh egg plant / brinjal",
+      "unitWeight": "250 g",
+      "unitPrice": 2.19,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png"
     },
     {
       "itemCode": "okra250",
