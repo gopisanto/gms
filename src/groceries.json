@@ -30,7 +30,7 @@
       "item": "kaju katli",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -42,7 +42,7 @@
       "item": "Motichoor Ladoo",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -54,7 +54,7 @@
       "item": "Milk Cake / Kalakhand",
       "unitWeight": "1 st.",
       "unitPrice": 5.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -66,7 +66,7 @@
       "item": "Rasmalai",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -887,12 +887,12 @@
       "imgUrl": "/images/rcextra.png"
     },
     {
-      "itemCode": "arf1.5",
-      "brand": "annam",
+      "itemCode": "trf500",
+      "brand": "trs",
       "item": "rice flour",
-      "unitWeight": "1.5 kg",
-      "unitPrice": 2.8,
-      "available": false,
+      "unitWeight": "500 g",
+      "unitPrice": 1.39,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -2647,8 +2647,8 @@
       "brand": "Wagh Bakri",
       "item": "premium leaf tee jar",
       "unitWeight": "495 g",
-      "unitPrice": 5.5,
-      "available": false,
+      "unitPrice": 5.99,
+      "available": true,
       "categoryCode": [
         "T001"
       ],
@@ -2659,7 +2659,7 @@
       "brand": "Wagh Bakri",
       "item": "premium leaf tee jar",
       "unitWeight": "1 kg",
-      "unitPrice": 8.89,
+      "unitPrice": 8.99,
       "available": true,
       "categoryCode": [
         "T001"
@@ -2683,7 +2683,7 @@
       "brand": "dairy valley",
       "item": "Fresh paneer",
       "unitWeight": "appr 230 - 270 g packs",
-      "unitPrice": 2.4,
+      "unitPrice": 2.39,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2755,7 +2755,7 @@
       "brand": "Frozen",
       "item": "Methi Leaves",
       "unitWeight": "1 pack (310 g)",
-      "unitPrice": 2.1,
+      "unitPrice": 2.19,
       "available": true,
       "categoryCode": [
         "FRZ001"
