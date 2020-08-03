@@ -1107,7 +1107,7 @@
       "item": "daniya whole / coriander whole",
       "unitWeight": "100 g",
       "unitPrice": 0.9,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
