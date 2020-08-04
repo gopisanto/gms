@@ -1718,8 +1718,8 @@
       "brand": "mdh",
       "item": "pav bhaji",
       "unitWeight": "100 g",
-      "unitPrice": 1.5,
-      "available": false,
+      "unitPrice": 1.55,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
