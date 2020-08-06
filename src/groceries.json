@@ -42,7 +42,7 @@
       "item": "Motichoor Ladoo",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -83,54 +83,6 @@
         "OTH001"
       ],
       "imgUrl": "/images/dettol.png"
-    },
-    {
-      "itemCode": "mehandi",
-      "brand": "Golecha",
-      "item": "Henna Tubes (Clinically tested)",
-      "unitWeight": "25 g",
-      "unitPrice": 3.0,
-      "available": true,
-      "categoryCode": [
-        "OTH001"
-      ],
-      "imgUrl": "/images/mehandi.png"
-    },
-    {
-      "itemCode": "rakhi2",
-      "brand": "",
-      "item": "Rakhi",
-      "unitWeight": "1 St",
-      "unitPrice": 2.1,
-      "available": true,
-      "categoryCode": [
-        "OCA001"
-      ],
-      "imgUrl": "/images/rakhi2.png"
-    },
-    {
-      "itemCode": "rakhi3",
-      "brand": "",
-      "item": "Rakhi",
-      "unitWeight": "1 St",
-      "unitPrice": 1.6,
-      "available": true,
-      "categoryCode": [
-        "OCA001"
-      ],
-      "imgUrl": "/images/rakhi3.png"
-    },
-    {
-      "itemCode": "rakhi4",
-      "brand": "",
-      "item": "Rakhi",
-      "unitWeight": "1 St",
-      "unitPrice": 2.3,
-      "available": true,
-      "categoryCode": [
-        "OCA001"
-      ],
-      "imgUrl": "/images/rakhi4.png"
     },
     {
       "itemCode": "mngpulp850",
@@ -329,7 +281,7 @@
       "brand": "annam",
       "item": "ponni boiled rice",
       "unitWeight": "10 kg",
-      "unitPrice": 25.99,
+      "unitPrice": 18.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -341,8 +293,8 @@
       "brand": "annam",
       "item": "ponni boiled rice",
       "unitWeight": "5 kg",
-      "unitPrice": 13.5,
-      "available": false,
+      "unitPrice": 9.99,
+      "available": true,
       "categoryCode": [
         "R001"
       ],
@@ -373,6 +325,18 @@
       "imgUrl": "/images/ponnirawrice.png"
     },
     {
+      "itemCode": "amsr1",
+      "brand": "annam",
+      "item": "muttu samba rice",
+      "unitWeight": "1 kg",
+      "unitPrice": 2.49,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/sambarice.png"
+    },
+    {
       "itemCode": "nbbr2",
       "brand": "natco",
       "item": "brown basmathi rice",
@@ -396,11 +360,23 @@
       "imgUrl": "/images/brownrice.png"
     },
     {
+      "itemCode": "air10",
+      "brand": "annam",
+      "item": "idly rice",
+      "unitWeight": "10 kg",
+      "unitPrice": 20.39,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/annamidlyrice10.png"
+    },
+    {
       "itemCode": "air5",
       "brand": "annam",
       "item": "idly rice",
       "unitWeight": "5 kg",
-      "unitPrice": 12.49,
+      "unitPrice": 11.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -461,23 +437,11 @@
       "item": "chapathi atta (export pack)",
       "unitWeight": "5 kg",
       "unitPrice": 9.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
       "imgUrl": "/images/aatta.png"
-    },
-    {
-      "itemCode": "aca5",
-      "brand": "aashirwaad",
-      "item": "chapathi atta",
-      "unitWeight": "5 kg",
-      "unitPrice": 7.5,
-      "available": false,
-      "categoryCode": [
-        "F001"
-      ],
-      "imgUrl": "/images/aashirwadatta.png"
     },
     {
       "itemCode": "amca5",
@@ -598,6 +562,18 @@
         "DL001"
       ],
       "imgUrl": "/images/uridchilka.png"
+    },
+    {
+      "itemCode": "hg500",
+      "brand": "annam",
+      "item": "Horse Gram",
+      "unitWeight": "500 g",
+      "unitPrice": 2.49,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/horsegram.png"
     },
     {
       "itemCode": "ttd2",
@@ -911,16 +887,16 @@
       "imgUrl": "/images/riceflour.png"
     },
     {
-      "itemCode": "wzmhl1",
-      "brand": "",
+      "itemCode": "maida1",
+      "brand": "annam",
       "item": "Maida / Weizenmehl",
       "unitWeight": "1.0 kg",
-      "unitPrice": 0.9,
+      "unitPrice": 2.69,
       "available": true,
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/allpurposeflour.png"
+      "imgUrl": "/images/maidaflour.png"
     },
     {
       "itemCode": "trsgf1",
@@ -1007,15 +983,16 @@
       "imgUrl": "/images/coconutpowder_medium.png"
     },
     {
-      "itemCode": "ahs500",
-      "brand": "shan",
-      "item": "himalayan salt",
-      "unitWeight": "800 g",
-      "unitPrice": 4.4,
-      "available": false,
+      "itemCode": "ahsd500",
+      "brand": "annam",
+      "item": "himalaya salt diamond (crystal)",
+      "unitWeight": "500 g",
+      "unitPrice": 1.39,
+      "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/himalayasalt.png"
     },
     {
       "itemCode": "kingsblckslt200",
@@ -1023,7 +1000,7 @@
       "item": "black salt",
       "unitWeight": "200 g",
       "unitPrice": 0.9,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -1044,14 +1021,26 @@
     {
       "itemCode": "aur1",
       "brand": "annam",
-      "item": "upma rawa",
+      "item": "roasted rawa / sooji / upma rawa",
       "unitWeight": "1 kg",
-      "unitPrice": 2.8,
-      "available": false,
+      "unitPrice": 2.79,
+      "available": true,
       "categoryCode": [
         "RW001"
       ],
-      "imgUrl": "/images/annamupmarava1.png"
+      "imgUrl": "/images/roastedrawa.png"
+    },
+    {
+      "itemCode": "abajrar1",
+      "brand": "annam",
+      "item": "bajra rawa",
+      "unitWeight": "1 kg",
+      "unitPrice": 2.39,
+      "available": true,
+      "categoryCode": [
+        "RW001"
+      ],
+      "imgUrl": "/images/bajra.png"
     },
     {
       "itemCode": "tscr500",
@@ -1287,7 +1276,7 @@
       "item": "Mixed Pickle",
       "unitWeight": "500 g",
       "unitPrice": 3.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "P001"
       ],
@@ -1443,7 +1432,7 @@
       "item": "tapioca (sabudana) medium",
       "unitWeight": "300 g",
       "unitPrice": 2.1,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "PM001"
       ],
@@ -1520,6 +1509,18 @@
         "PM001"
       ],
       "imgUrl": "/images/phoolmakhana.png"
+    },
+    {
+      "itemCode": "avsur500",
+      "brand": "annam",
+      "item": "vermicelli / semiya (unroasted)",
+      "unitWeight": "500 g",
+      "unitPrice": 2.49,
+      "available": true,
+      "categoryCode": [
+        "PM001"
+      ],
+      "imgUrl": "/images/vermicelliunroasted.png"
     },
     {
       "itemCode": "avs500",
@@ -1707,7 +1708,7 @@
       "item": "biryani masala",
       "unitWeight": "100 g",
       "unitPrice": 1.59,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -1872,24 +1873,13 @@
       "itemCode": "mdm200",
       "brand": "mtr",
       "item": "instant dosa mix",
-      "unitWeight": "200 g",
-      "unitPrice": 1.99,
+      "unitWeight": "500 g",
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "RD001"
       ],
-      "imgUrl": "/images/mtrdosamix.png"
-    },
-    {
-      "itemCode": "mum200",
-      "brand": "mtr",
-      "item": "upma mix",
-      "unitWeight": "200 g",
-      "unitPrice": 1.99,
-      "available": false,
-      "categoryCode": [
-        "RD001"
-      ]
+      "imgUrl": "/images/mtrdosa500.png"
     },
     {
       "itemCode": "mrim500",
@@ -1973,6 +1963,30 @@
         "SS001"
       ],
       "imgUrl": "/images/peanuts.png"
+    },
+    {
+      "itemCode": "mmnatta70",
+      "brand": "maggi",
+      "item": "masala noodles atta",
+      "unitWeight": "70 g",
+      "unitPrice": 0.65,
+      "available": true,
+      "categoryCode": [
+        "PM001"
+      ],
+      "imgUrl": "/images/maggiatta.png"
+    },
+    {
+      "itemCode": "mmn420",
+      "brand": "maggi",
+      "item": "masala noodles",
+      "unitWeight": "420 g",
+      "unitPrice": 2.69,
+      "available": true,
+      "categoryCode": [
+        "PM001"
+      ],
+      "imgUrl": "/images/maggi420.png"
     },
     {
       "itemCode": "mmn70",
@@ -2096,7 +2110,7 @@
       "item": "Sweet Potato",
       "unitWeight": "500 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2144,7 +2158,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2276,7 +2290,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2559,6 +2573,18 @@
       "imgUrl": "/images/annampeanutbar.png"
     },
     {
+      "itemCode": "topiacochips200",
+      "brand": "annam",
+      "item": "tapioka chips",
+      "unitWeight": "200 g",
+      "unitPrice": 1.59,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/tapiokachips.png"
+    },
+    {
       "itemCode": "bananachips170",
       "brand": "annam",
       "item": "banana chips",
@@ -2611,8 +2637,8 @@
       "brand": "annam",
       "item": "mustard oil",
       "unitWeight": "1 l",
-      "unitPrice": 6,
-      "available": false,
+      "unitPrice": 6.49,
+      "available": true,
       "categoryCode": [
         "O001"
       ],
