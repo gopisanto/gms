@@ -2109,8 +2109,8 @@
       "brand": "",
       "item": "Sweet Potato",
       "unitWeight": "500 g",
-      "unitPrice": 1.99,
-      "available": false,
+      "unitPrice": 2.2,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2129,11 +2129,23 @@
       "imgUrl": "/images/yam.png"
     },
     {
+      "itemCode": "amla",
+      "brand": "",
+      "item": "Amla",
+      "unitWeight": "250 g",
+      "unitPrice": 2.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/amla.png"
+    },
+    {
       "itemCode": "fgc100",
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "100 g",
-      "unitPrice": 1.19,
+      "unitPrice": 0.8,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2145,7 +2157,7 @@
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "250 g",
-      "unitPrice": 2.49,
+      "unitPrice": 1.4,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2158,7 +2170,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2205,7 +2217,19 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
-      "unitPrice": 2.49,
+      "unitPrice": 1.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/okra.png"
+    },
+    {
+      "itemCode": "okra500",
+      "brand": "",
+      "item": "fresh okra / bhendi",
+      "unitWeight": "500 g",
+      "unitPrice": 2.8,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2217,7 +2241,19 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
-      "unitPrice": 1.69,
+      "unitPrice": 1.5,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/karela1.png"
+    },
+    {
+      "itemCode": "karela500",
+      "brand": "",
+      "item": "fresh karela / bitter gourd",
+      "unitWeight": "500 g",
+      "unitPrice": 2.8,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2273,11 +2309,23 @@
       "imgUrl": "/images/ridgegourd.png"
     },
     {
+      "itemCode": "btlgourd500",
+      "brand": "",
+      "item": "fresh bottle gourd / louki",
+      "unitWeight": "500 g",
+      "unitPrice": 2.8,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/bottle_gourd.png"
+    },
+    {
       "itemCode": "btlgourd",
       "brand": "",
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
-      "unitPrice": 7.5,
+      "unitPrice": 5.5,
       "available": true,
       "categoryCode": [
         "FR001"
