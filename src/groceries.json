@@ -2182,7 +2182,7 @@
       "item": "fresh mint",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2206,7 +2206,7 @@
       "item": "fresh egg plant / brinjal",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
