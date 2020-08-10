@@ -2266,7 +2266,7 @@
       "item": "Arbi",
       "unitWeight": "250 g",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
