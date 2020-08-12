@@ -205,18 +205,6 @@
       "imgUrl": "/images/bannobasmati10.png"
     },
     {
-      "itemCode": "heerbr5",
-      "brand": "heer",
-      "item": "long grain basmathi rice",
-      "unitWeight": "5 kg",
-      "unitPrice": 13.0,
-      "available": true,
-      "categoryCode": [
-        "R001"
-      ],
-      "imgUrl": "/images/heerbasmatirice.png"
-    },
-    {
       "itemCode": "dbr5",
       "brand": "daawat",
       "item": "traditional basmathi rice",
@@ -430,6 +418,18 @@
         "F001"
       ],
       "imgUrl": "/images/aamul.png"
+    },
+    {
+      "itemCode": "aca2",
+      "brand": "aashirwaad",
+      "item": "whole wheat atta",
+      "unitWeight": "2 kg",
+      "unitPrice": 4.1,
+      "available": true,
+      "categoryCode": [
+        "F001"
+      ],
+      "imgUrl": "/images/aashirwaad2.png"
     },
     {
       "itemCode": "acaep5",
@@ -1216,7 +1216,7 @@
       "item": "punjabi masala papadom gross",
       "unitWeight": "200 g",
       "unitPrice": 1.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "P001"
       ],
@@ -1239,7 +1239,7 @@
       "brand": "Ashoka",
       "item": "Sweet Lime Pickle",
       "unitWeight": "500 g",
-      "unitPrice": 3.2,
+      "unitPrice": 2.99,
       "available": true,
       "categoryCode": [
         "P001"
@@ -1251,7 +1251,7 @@
       "brand": "Ashoka",
       "item": " Lime Pickle",
       "unitWeight": "500 g",
-      "unitPrice": 3.2,
+      "unitPrice": 2.99,
       "available": true,
       "categoryCode": [
         "P001"
@@ -1432,7 +1432,7 @@
       "item": "tapioca (sabudana) medium",
       "unitWeight": "300 g",
       "unitPrice": 2.1,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "PM001"
       ],
@@ -1705,14 +1705,14 @@
     {
       "itemCode": "mbm100",
       "brand": "mdh",
-      "item": "biryani masala",
-      "unitWeight": "100 g",
-      "unitPrice": 1.59,
-      "available": false,
+      "item": "hyderabad biryani masala",
+      "unitWeight": "50 g",
+      "unitPrice": 1.55,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/birmasala.png"
+      "imgUrl": "/images/hydbiryanimasala.png"
     },
     {
       "itemCode": "mpb100",
@@ -1815,7 +1815,7 @@
       "item": "dried curry leaves",
       "unitWeight": "20 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -1891,6 +1891,18 @@
       "categoryCode": [
         "RD001"
       ]
+    },
+    {
+      "itemCode": "hjp500",
+      "brand": "heera",
+      "item": "jaggery powder",
+      "unitWeight": "500 g",
+      "unitPrice": 2.99,
+      "available": true,
+      "categoryCode": [
+        "SS001"
+      ],
+      "imgUrl": "/images/jaggerypowder.png"
     },
     {
       "itemCode": "ajg500",
@@ -2357,6 +2369,18 @@
       "imgUrl": "/images/roohafza.png"
     },
     {
+      "itemCode": "hmasmoongdal",
+      "brand": "haldirams",
+      "item": "masala moong dal",
+      "unitWeight": "1 stuck",
+      "unitPrice": 1.59,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/masalamoongdal.png"
+    },
+    {
       "itemCode": "hpanipuri",
       "brand": "haldirams",
       "item": "pani puri",
@@ -2409,8 +2433,8 @@
       "brand": "haldirams",
       "item": "aloo bhujia ",
       "unitWeight": "200 g",
-      "unitPrice": 1.6,
-      "available": false,
+      "unitPrice": 1.59,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -2505,8 +2529,8 @@
       "brand": "haldirams",
       "item": " masala boondi  ",
       "unitWeight": "200 g",
-      "unitPrice": 1.6,
-      "available": false,
+      "unitPrice": 1.59,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],

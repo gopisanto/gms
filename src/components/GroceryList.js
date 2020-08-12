@@ -8,10 +8,12 @@ import './GroceryList.css';
 
 
 const GroceryList = ({ filter, filterByCode }) => {
+  const relevantGroceries = groceries.groceries.filter(grocery => !grocery.hide);
+
   return (
     <Grid container spacing={3}>
       {
-        groceries.groceries.filter(grocery => {
+        relevantGroceries.filter(grocery => {
           const brand = grocery.brand.toLowerCase().trim();
           const item = grocery.item.toLowerCase().trim();
           const term = filter.toLowerCase().trim();
