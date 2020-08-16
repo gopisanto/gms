@@ -214,7 +214,8 @@
       "categoryCode": [
         "R001"
       ],
-      "imgUrl": "/images/daawat.png"
+      "imgUrl": "/images/daawat.png",
+      "hide": true
     },
     {
       "itemCode": "lbr5",
@@ -294,7 +295,7 @@
       "item": "ponni raw rice",
       "unitWeight": "5 kg",
       "unitPrice": 12.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -357,7 +358,8 @@
       "categoryCode": [
         "R001"
       ],
-      "imgUrl": "/images/annamidlyrice10.png"
+      "imgUrl": "/images/annamidlyrice10.png",
+      "hide": true
     },
     {
       "itemCode": "air5",
@@ -441,7 +443,8 @@
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/aatta.png"
+      "imgUrl": "/images/aatta.png",
+      "hide": true
     },
     {
       "itemCode": "amca5",
@@ -669,7 +672,8 @@
       "categoryCode": [
         "DL001"
       ],
-      "imgUrl": "/images/kidney.png"
+      "imgUrl": "/images/kidney.png",
+      "hide": true
     },
     {
       "itemCode": "trkb500",
@@ -920,7 +924,8 @@
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/juwarflour.png"
+      "imgUrl": "/images/juwarflour.png",
+      "hide": true
     },
     {
       "itemCode": "arf1",
@@ -1431,7 +1436,7 @@
       "brand": "trs",
       "item": "tapioca (sabudana) medium",
       "unitWeight": "300 g",
-      "unitPrice": 2.1,
+      "unitPrice": 2.19,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -2138,7 +2143,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/yam.png"
+      "imgUrl": "/images/yam.png",
+      "hide": true
     },
     {
       "itemCode": "amla",
@@ -2150,7 +2156,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/amla.png"
+      "imgUrl": "/images/amla.png",
+      "hide": true
     },
     {
       "itemCode": "fgc100",
@@ -2210,7 +2217,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/longbeans.png"
+      "imgUrl": "/images/longbeans.png",
+      "hide": true
     },
     {
       "itemCode": "eggplant250",
@@ -2218,7 +2226,20 @@
       "item": "fresh egg plant / brinjal",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/brinjal.png",
+      "hide": true
+    },
+    {
+      "itemCode": "eggplant250",
+      "brand": "",
+      "item": "fresh green egg plant / brinjal",
+      "unitWeight": "250 g",
+      "unitPrice": 2.19,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2278,7 +2299,7 @@
       "item": "Arbi",
       "unitWeight": "250 g",
       "unitPrice": 2.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2290,7 +2311,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2302,7 +2323,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2326,11 +2347,12 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/bottle_gourd.png"
+      "imgUrl": "/images/bottle_gourd.png",
+      "hide": true
     },
     {
       "itemCode": "btlgourd",
@@ -2338,7 +2360,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 5.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2350,7 +2372,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2518,7 +2540,7 @@
       "item": " all in one ",
       "unitWeight": "200 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
