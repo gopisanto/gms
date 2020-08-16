@@ -2122,6 +2122,18 @@
       "imgUrl": "/images/smallonion.png"
     },
     {
+      "itemCode": "guava",
+      "brand": "",
+      "item": "Guava",
+      "unitWeight": "1 stuck",
+      "unitPrice": 2.49,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/guava.png"
+    },
+    {
       "itemCode": "swpotato",
       "brand": "",
       "item": "Sweet Potato",
@@ -2243,7 +2255,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/brinjal.png"
+      "imgUrl": "/images/brinjal_green.png"
     },
     {
       "itemCode": "okra250",
