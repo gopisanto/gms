@@ -30,7 +30,7 @@
       "item": "kaju katli",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -66,7 +66,7 @@
       "item": "Rasmalai",
       "unitWeight": "1 st.",
       "unitPrice": 4.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
