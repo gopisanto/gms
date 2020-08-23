@@ -680,7 +680,7 @@
       "brand": "trs",
       "item": "red kidney beans",
       "unitWeight": "500 g",
-      "unitPrice": 2.29,
+      "unitPrice": 2.19,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -1820,7 +1820,7 @@
       "item": "dried curry leaves",
       "unitWeight": "20 g",
       "unitPrice": 1.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
@@ -2359,7 +2359,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2372,7 +2372,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 5.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
