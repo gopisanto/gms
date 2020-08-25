@@ -6,7 +6,7 @@
       "item": "Betel Leaves",
       "unitWeight": "50 g (8 - 10 stuck)",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -18,7 +18,7 @@
       "item": "coconut with tail",
       "unitWeight": "1 st.",
       "unitPrice": 3.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -118,7 +118,8 @@
       "categoryCode": [
         "PJ001"
       ],
-      "imgUrl": "/images/kumkum.png"
+      "imgUrl": "/images/kumkum.png",
+      "hide": true
     },
     {
       "itemCode": "agrbti",
@@ -174,7 +175,7 @@
       "item": "pure Basmati rice",
       "unitWeight": "5 kg",
       "unitPrice": 17.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -923,8 +924,7 @@
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/juwarflour.png",
-      "hide": true
+      "imgUrl": "/images/juwarflour.png"
     },
     {
       "itemCode": "arf1",
@@ -2114,7 +2114,7 @@
       "item": "Small Onion",
       "unitWeight": "250 g",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
