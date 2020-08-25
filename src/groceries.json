@@ -672,8 +672,7 @@
       "categoryCode": [
         "DL001"
       ],
-      "imgUrl": "/images/kidney.png",
-      "hide": true
+      "imgUrl": "/images/kidney.png"
     },
     {
       "itemCode": "trkb500",
