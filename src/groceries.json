@@ -97,16 +97,28 @@
       "imgUrl": "/images/mangopulp.png"
     },
     {
-      "itemCode": "hp",
+      "itemCode": "hp100",
       "brand": "Schani / Annam",
       "item": "haldi power",
       "unitWeight": "100 g",
-      "unitPrice": 1,
+      "unitPrice": 0.95,
       "available": true,
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/haldi.png"
+      "imgUrl": "/images/schanihaldi.png"
+    },
+    {
+      "itemCode": "hp400",
+      "brand": "Schani / Annam",
+      "item": "haldi power",
+      "unitWeight": "400 g",
+      "unitPrice": 2.59,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/schanihaldi.png"
     },
     {
       "itemCode": "rk",
@@ -170,6 +182,18 @@
       "imgUrl": "/images/katpuram.png"
     },
     {
+      "itemCode": "hbr5",
+      "brand": "Heer",
+      "item": "Long grain Basmati rice",
+      "unitWeight": "5 kg",
+      "unitPrice": 12.99,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/heerbasmatirice.png"
+    },
+    {
       "itemCode": "tbr5",
       "brand": "tilda",
       "item": "pure Basmati rice",
@@ -179,7 +203,8 @@
       "categoryCode": [
         "R001"
       ],
-      "imgUrl": "/images/tilda.png"
+      "imgUrl": "/images/tilda.png",
+      "hide": true
     },
     {
       "itemCode": "bbr5",
@@ -396,15 +421,16 @@
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/sonaatta.png"
+      "imgUrl": "/images/sonaatta.png",
+      "hide": true
     },
     {
       "itemCode": "pcfa5",
       "brand": "pilsbury",
       "item": "chakki fresh atta",
       "unitWeight": "5 kg",
-      "unitPrice": 10.20,
-      "available": false,
+      "unitPrice": 7.99,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -413,7 +439,7 @@
     {
       "itemCode": "amaep5",
       "brand": "aashirwaad",
-      "item": "multigrain atta export pack",
+      "item": "multigrain atta",
       "unitWeight": "5 kg",
       "unitPrice": 9.49,
       "available": true,
@@ -437,9 +463,9 @@
     {
       "itemCode": "acaep5",
       "brand": "aashirwaad",
-      "item": "chapathi atta (export pack)",
+      "item": "chapathi atta",
       "unitWeight": "5 kg",
-      "unitPrice": 9.5,
+      "unitPrice": 8.49,
       "available": true,
       "categoryCode": [
         "F001"
@@ -452,8 +478,8 @@
       "brand": "amratsari",
       "item": "chapathi atta",
       "unitWeight": "5 Kg",
-      "unitPrice": 6.5,
-      "available": false,
+      "unitPrice": 6.99,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -469,7 +495,8 @@
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/amratsari.png"
+      "imgUrl": "/images/amratsari.png",
+      "hide": true
     },
     {
       "itemCode": "hmd2",
@@ -518,6 +545,18 @@
         "S0001"
       ],
       "imgUrl": "/images/tamrind.png"
+    },
+    {
+      "itemCode": "tudg1",
+      "brand": "schani",
+      "item": "urid dal gota",
+      "unitWeight": "1 kg",
+      "unitPrice": 2.89,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/schaniuriddalgota.png"
     },
     {
       "itemCode": "tud2",
@@ -613,7 +652,20 @@
       "categoryCode": [
         "DL001"
       ],
-      "imgUrl": "/images/toordal.png"
+      "imgUrl": "/images/toordal.png",
+      "hide": true
+    },
+    {
+      "itemCode": "std1",
+      "brand": "schani",
+      "item": "toor dal",
+      "unitWeight": "1 kg",
+      "unitPrice": 2.49,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/schanitoordal.png"
     },
     {
       "itemCode": "tkalac2",
@@ -626,6 +678,18 @@
         "DL001"
       ],
       "imgUrl": "/images/kalachana.png"
+    },
+    {
+      "itemCode": "tkalac1",
+      "brand": "schani",
+      "item": "kala chana",
+      "unitWeight": "1 kg",
+      "unitPrice": 2.89,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/schanikalachana.png"
     },
     {
       "itemCode": "tkalac500",
@@ -1179,6 +1243,18 @@
       "imgUrl": "/images/kingsstaranis.png"
     },
     {
+      "itemCode": "sfs100",
+      "brand": "schani",
+      "item": "sugar coated fennel seeds",
+      "unitWeight": "100 g",
+      "unitPrice": 0.79,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/schanicolorfennel.png"
+    },
+    {
       "itemCode": "afs50",
       "brand": "annam",
       "item": "fennel seeds",
@@ -1224,7 +1300,7 @@
       "categoryCode": [
         "P001"
       ],
-      "imgUrl": "/images/lijjatmasalapapad.png"
+      "imgUrl": "/images/lijjatmp.png"
     },
     {
       "itemCode": "ljpg200",
@@ -1232,11 +1308,11 @@
       "item": "jeera papadom gross",
       "unitWeight": "200 g",
       "unitPrice": 1.4,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "P001"
       ],
-      "imgUrl": "/images/jeerapapad.png"
+      "imgUrl": "/images/lijjatjp.png"
     },
     {
       "itemCode": "ashslp500",
@@ -1369,6 +1445,30 @@
         "S0001"
       ],
       "imgUrl": "/images/sampow.png"
+    },
+    {
+      "itemCode": "gmeduvada200",
+      "brand": "gits",
+      "item": "Medu vada",
+      "unitWeight": "200 g",
+      "unitPrice": 1.79,
+      "available": true,
+      "categoryCode": [
+        "RD001"
+      ],
+      "imgUrl": "/images/gitsmeduvada.png"
+    },
+    {
+      "itemCode": "gravadosa200",
+      "brand": "gits",
+      "item": "rava dosa",
+      "unitWeight": "200 g",
+      "unitPrice": 1.69,
+      "available": true,
+      "categoryCode": [
+        "RD001"
+      ],
+      "imgUrl": "/images/gitsravadosa.png"
     },
     {
       "itemCode": "gkd200",
@@ -1814,6 +1914,18 @@
       "imgUrl": "/images/hing.png"
     },
     {
+      "itemCode": "vh50",
+      "brand": "vandevi",
+      "item": "hing / asafoetida",
+      "unitWeight": "50 g",
+      "unitPrice": 1.79,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/vandevihing50.png"
+    },
+    {
       "itemCode": "hdcl20",
       "brand": "heera",
       "item": "dried curry leaves",
@@ -1918,19 +2030,20 @@
       "categoryCode": [
         "SS001"
       ],
-      "imgUrl": "/images/jaggery.png"
+      "imgUrl": "/images/jaggery.png",
+      "hide": true
     },
     {
-      "itemCode": "hjg500",
-      "brand": "heera",
+      "itemCode": "tjg500",
+      "brand": "trs",
       "item": "jaggery goor",
-      "unitWeight": "450 g",
+      "unitWeight": "500 g",
       "unitPrice": 1.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SS001"
       ],
-      "imgUrl": "/images/jaggery.png"
+      "imgUrl": "/images/trsjaggerygoor.png"
     },
     {
       "itemCode": "kbg500",

@@ -18,8 +18,9 @@ const GroceryList = ({ filter, filterByCode }) => {
           const item = grocery.item.toLowerCase().trim();
           const term = filter.toLowerCase().trim();
           const code = grocery.categoryCode;
+          const available = grocery.available;
 
-          return (brand.indexOf(term) !== -1 || item.indexOf(term) !== -1) && ((filterByCode && code.includes(filterByCode)) || !filterByCode);
+          return (brand.indexOf(term) !== -1 || item.indexOf(term) !== -1) && ((filterByCode && code.includes(filterByCode)) || !filterByCode) && ((!filterByCode && available) || filterByCode);
         }).map(item => {
           return (
             <React.Fragment key={`${item.itemCode}`}>
