@@ -167,7 +167,8 @@
       "categoryCode": [
         "PJ001"
       ],
-      "imgUrl": "/images/cottonwicks.png"
+      "imgUrl": "/images/cottonwicks.png",
+      "hide": true
     },
     {
       "itemCode": "kkatpuram105",
@@ -470,8 +471,7 @@
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/aatta.png",
-      "hide": true
+      "imgUrl": "/images/aatta.png"
     },
     {
       "itemCode": "amca5",
@@ -1084,7 +1084,8 @@
       "categoryCode": [
         "RW001"
       ],
-      "imgUrl": "/images/annamidlyrava1.png"
+      "imgUrl": "/images/annamidlyrava1.png",
+      "hide": true
     },
     {
       "itemCode": "aur1",
@@ -1096,7 +1097,8 @@
       "categoryCode": [
         "RW001"
       ],
-      "imgUrl": "/images/roastedrawa.png"
+      "imgUrl": "/images/roastedrawa.png",
+      "hide": true
     },
     {
       "itemCode": "abajrar1",
@@ -1540,7 +1542,7 @@
       "categoryCode": [
         "PM001"
       ],
-      "imgUrl": "/images/tapmed.png"
+      "imgUrl": "/images/sabudanamed.png"
     },
     {
       "itemCode": "asc250",
@@ -1636,7 +1638,8 @@
       "categoryCode": [
         "PM001"
       ],
-      "imgUrl": "/images/vermicellirost.png"
+      "imgUrl": "/images/vermicellirost.png",
+      "hide": true
     },
     {
       "itemCode": "avs200",
@@ -2234,12 +2237,24 @@
       "imgUrl": "/images/smallonion.png"
     },
     {
+      "itemCode": "sapodila",
+      "brand": "",
+      "item": "Sapodila",
+      "unitWeight": "250 g",
+      "unitPrice": 2.3,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/sapodila.png"
+    },
+    {
       "itemCode": "guava",
       "brand": "",
       "item": "Guava",
       "unitWeight": "1 stuck",
       "unitPrice": 2.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2267,8 +2282,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/yam.png",
-      "hide": true
+      "imgUrl": "/images/yam.png"
     },
     {
       "itemCode": "amla",
@@ -2280,8 +2294,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/amla.png",
-      "hide": true
+      "imgUrl": "/images/amla.png"
     },
     {
       "itemCode": "fgc100",
@@ -2375,7 +2388,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 1.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2387,19 +2400,31 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
       "imgUrl": "/images/okra.png"
     },
     {
+      "itemCode": "banana",
+      "brand": "",
+      "item": "green banana",
+      "unitWeight": "250 g",
+      "unitPrice": 2.3,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/greenbanana.png"
+    },
+    {
       "itemCode": "karela250",
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
-      "unitPrice": 1.5,
-      "available": false,
+      "unitPrice": 1.7,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2410,8 +2435,8 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
-      "unitPrice": 2.8,
-      "available": false,
+      "unitPrice": 3.1,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2435,7 +2460,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2447,7 +2472,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2458,8 +2483,8 @@
       "brand": "",
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
-      "unitPrice": 3.5,
-      "available": false,
+      "unitPrice": 3.8,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2471,7 +2496,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2484,7 +2509,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 5.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2496,7 +2521,7 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
