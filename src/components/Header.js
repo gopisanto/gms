@@ -5,8 +5,10 @@ import styles from './Header.style';
 
 const Header = ({ classes }) => {
   return (
-    <div className={classes.header}>
-      <h1 className={classes.headerTitle}>Indian Groceries</h1>
+    <div className={classes.headerContainer}>
+      <div className={classes.header}>
+        <h1 className={classes.headerTitle}>Indian Groceries</h1>
+      </div>
     </div>
   );
 };
