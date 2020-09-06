@@ -18,7 +18,7 @@
       "item": "coconut with tail",
       "unitWeight": "1 st.",
       "unitPrice": 3.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -459,7 +459,8 @@
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/aashirwaad2.png"
+      "imgUrl": "/images/aashirwaad2.png",
+      "hide": true
     },
     {
       "itemCode": "acaep5",
@@ -1118,11 +1119,12 @@
       "item": "semolina coarse rawa",
       "unitWeight": "500 g",
       "unitPrice": 1.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RW001"
       ],
-      "imgUrl": "/images/semolina.png"
+      "imgUrl": "/images/semolina.png",
+      "hide": true
     },
     {
       "itemCode": "tc50",
@@ -1382,11 +1384,12 @@
       "item": "dhaniya powder",
       "unitWeight": "400 g",
       "unitPrice": 1.95,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/dpowder.png"
+      "imgUrl": "/images/dpowder.png",
+      "hide": true
     },
     {
       "itemCode": "ajp400",
@@ -1970,11 +1973,12 @@
       "item": "upma mix",
       "unitWeight": "175 g",
       "unitPrice": 2.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RD001"
       ],
-      "imgUrl": "/images/priyaupmamix.png"
+      "imgUrl": "/images/priyaupmamix.png",
+      "hide": true
     },
     {
       "itemCode": "mscp200",
@@ -2114,11 +2118,12 @@
       "item": "masala noodles",
       "unitWeight": "420 g",
       "unitPrice": 2.69,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "PM001"
       ],
-      "imgUrl": "/images/maggi420.png"
+      "imgUrl": "/images/maggi420.png",
+      "hide": true
     },
     {
       "itemCode": "mmn70",
@@ -2142,7 +2147,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ginger.png"
+      "imgUrl": "/images/ginger.png",
+      "hide": true
     },
     {
       "itemCode": "fgr250",
@@ -2266,11 +2272,12 @@
       "item": "Sweet Potato",
       "unitWeight": "500 g",
       "unitPrice": 2.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/sweetpotato.png"
+      "imgUrl": "/images/sweetpotato.png",
+      "hide": true
     },
     {
       "itemCode": "suran",
@@ -2290,11 +2297,12 @@
       "item": "Amla",
       "unitWeight": "250 g",
       "unitPrice": 2.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/amla.png"
+      "imgUrl": "/images/amla.png",
+      "hide": true
     },
     {
       "itemCode": "fgc100",
@@ -2313,7 +2321,7 @@
       "brand": "",
       "item": "fresh green chilli",
       "unitWeight": "250 g",
-      "unitPrice": 1.4,
+      "unitPrice": 1.69,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2345,17 +2353,16 @@
       "imgUrl": "/images/mint.png"
     },
     {
-      "itemCode": "longbeans250",
+      "itemCode": "gawar",
       "brand": "",
-      "item": "fresh long beans",
+      "item": "fresh gawar",
       "unitWeight": "250 g",
-      "unitPrice": 2.1,
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/longbeans.png",
-      "hide": true
+      "imgUrl": "/images/gawar.png"
     },
     {
       "itemCode": "eggplant250",
@@ -2363,7 +2370,7 @@
       "item": "fresh egg plant / brinjal",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2376,11 +2383,12 @@
       "item": "fresh green egg plant / brinjal",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/brinjal_green.png"
+      "imgUrl": "/images/brinjal_green.png",
+      "hide": true
     },
     {
       "itemCode": "okra250",
@@ -2412,11 +2420,12 @@
       "item": "green banana",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/greenbanana.png"
+      "imgUrl": "/images/greenbanana.png",
+      "hide": true
     },
     {
       "itemCode": "karela250",
@@ -2428,7 +2437,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/karela1.png"
+      "imgUrl": "/images/karela1.png",
+      "hide": true
     },
     {
       "itemCode": "karela500",
@@ -2440,7 +2450,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/karela1.png"
+      "imgUrl": "/images/karela1.png",
+      "hide": true
     },
     {
       "itemCode": "arbi250",
@@ -2452,7 +2463,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/arbi.png"
+      "imgUrl": "/images/arbi.png",
+      "hide": true
     },
     {
       "itemCode": "drsticks250",
@@ -2464,7 +2476,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/drstick.png"
+      "imgUrl": "/images/drstick.png",
+      "hide": true
     },
     {
       "itemCode": "drsticks500",
@@ -2476,7 +2489,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/drstick.png"
+      "imgUrl": "/images/drstick.png",
+      "hide": true
     },
     {
       "itemCode": "ridgegourd",
@@ -2484,11 +2498,12 @@
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ridgegourd.png"
+      "imgUrl": "/images/ridgegourd.png",
+      "hide": true
     },
     {
       "itemCode": "btlgourd500",
@@ -2496,7 +2511,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2509,7 +2524,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 5.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2521,11 +2536,12 @@
       "item": "fresh ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ivygourd.png"
+      "imgUrl": "/images/ivygourd.png",
+      "hide": true
     },
     {
       "itemCode": "roohafza",
@@ -2705,7 +2721,8 @@
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/hboondimasala.png"
+      "imgUrl": "/images/hboondimasala.png",
+      "hide": true
     },
     {
       "itemCode": "hls200",
@@ -2717,7 +2734,8 @@
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/hlongsev.png"
+      "imgUrl": "/images/hlongsev.png",
+      "hide": true
     },
     {
       "itemCode": "hs200",
@@ -3025,11 +3043,12 @@
       "item": "Methi Leaves",
       "unitWeight": "1 pack (310 g)",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FRZ001"
       ],
-      "imgUrl": "/images/methi_leaves.png"
+      "imgUrl": "/images/methi_leaves.png",
+      "hide": true
     }
   ]
 }

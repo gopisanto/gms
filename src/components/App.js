@@ -39,8 +39,6 @@ function App({ classes: { app, filterMenu, groceries } }) {
   
   return (
     <div className={app}>
-      <marquee className="marquee">Stay home, Stay safe! We do free delivery of Groceries at your door step! Simply whats app your order to +49 15143571582.</marquee>
-      <marquee className="marquee">We can provide Betel Leaves (paan patta), Mango Leaves, Coconut with tail. Let us know 1 week before to get them in fresh condition by sending whatsapp message to +49 15143571582.</marquee>
       <Header />
       <AppBar value={filter} onChange={onFilterChange} menuClickHandler={onMenuClick} onCartClick={onCartClick} />
       <div>
