@@ -2248,7 +2248,7 @@
       "item": "Sapodila",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2260,7 +2260,7 @@
       "item": "Guava",
       "unitWeight": "1 stuck",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2396,7 +2396,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 1.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2408,7 +2408,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2433,7 +2433,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2446,7 +2446,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
       "unitPrice": 3.1,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2459,7 +2459,7 @@
       "item": "Arbi",
       "unitWeight": "250 g",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2511,7 +2511,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2524,7 +2524,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 5.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
