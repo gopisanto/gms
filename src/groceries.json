@@ -29,8 +29,8 @@
       "brand": "Dairy Valley",
       "item": "kaju katli",
       "unitWeight": "1 st.",
-      "unitPrice": 4.19,
-      "available": false,
+      "unitPrice": 4.45,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -41,8 +41,8 @@
       "brand": "Dairy Valley",
       "item": "Motichoor Ladoo",
       "unitWeight": "1 st.",
-      "unitPrice": 4.19,
-      "available": false,
+      "unitPrice": 4.45,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -1085,8 +1085,7 @@
       "categoryCode": [
         "RW001"
       ],
-      "imgUrl": "/images/annamidlyrava1.png",
-      "hide": true
+      "imgUrl": "/images/annamidlyrava1.png"
     },
     {
       "itemCode": "aur1",
@@ -1118,13 +1117,12 @@
       "brand": "trs",
       "item": "semolina coarse rawa",
       "unitWeight": "500 g",
-      "unitPrice": 1.6,
-      "available": false,
+      "unitPrice": 1.39,
+      "available": true,
       "categoryCode": [
         "RW001"
       ],
-      "imgUrl": "/images/semolina.png",
-      "hide": true
+      "imgUrl": "/images/semolina.png"
     },
     {
       "itemCode": "tc50",
@@ -1383,13 +1381,12 @@
       "brand": "trs",
       "item": "dhaniya powder",
       "unitWeight": "400 g",
-      "unitPrice": 1.95,
-      "available": false,
+      "unitPrice": 2.1,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/dpowder.png",
-      "hide": true
+      "imgUrl": "/images/dpowder.png"
     },
     {
       "itemCode": "ajp400",
@@ -1409,18 +1406,6 @@
       "item": "shahi kala jeera",
       "unitWeight": "50 g",
       "unitPrice": 1.49,
-      "available": true,
-      "categoryCode": [
-        "S0001"
-      ],
-      "imgUrl": "/images/kalajeera.png"
-    },
-    {
-      "itemCode": "twj1",
-      "brand": "trs",
-      "item": "whole jeera / cumin seeds",
-      "unitWeight": "1 Kg",
-      "unitPrice": 8.99,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1681,6 +1666,18 @@
       "imgUrl": "/images/mustardseeds.png"
     },
     {
+      "itemCode": "ams400",
+      "brand": "trs",
+      "item": "mustard seeds",
+      "unitWeight": "400 g",
+      "unitPrice": 1.99,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/mustardseeds.png"
+    },
+    {
       "itemCode": "acs100",
       "brand": "annam / schani",
       "item": "cumin seeds / jeera whole",
@@ -1691,6 +1688,30 @@
         "S0001"
       ],
       "imgUrl": "/images/cumin.png"
+    },
+    {
+      "itemCode": "twj400",
+      "brand": "trs",
+      "item": "whole jeera / cumin seeds",
+      "unitWeight": "400 g",
+      "unitPrice": 3.59,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/kalajeera.png"
+    },
+    {
+      "itemCode": "twj1",
+      "brand": "trs",
+      "item": "whole jeera / cumin seeds",
+      "unitWeight": "1 Kg",
+      "unitPrice": 8.79,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/kalajeera.png"
     },
     {
       "itemCode": "tms100",
@@ -2082,6 +2103,18 @@
       "item": "chilli powder extra hot",
       "unitWeight": "100 g",
       "unitPrice": 0.99,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/chillipow.png"
+    },
+    {
+      "itemCode": "tcpeh400",
+      "brand": "trs",
+      "item": "chilli powder extra hot",
+      "unitWeight": "400 g",
+      "unitPrice": 2.79,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -2970,7 +3003,7 @@
       "brand": "dairy valley",
       "item": "Fresh paneer",
       "unitWeight": "appr 230 - 270 g packs",
-      "unitPrice": 2.39,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -3043,12 +3076,11 @@
       "item": "Methi Leaves",
       "unitWeight": "1 pack (310 g)",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FRZ001"
       ],
-      "imgUrl": "/images/methi_leaves.png",
-      "hide": true
+      "imgUrl": "/images/methi_leaves.png"
     }
   ]
 }
