@@ -22,7 +22,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/coconut.png"
+      "imgUrl": "/images/coconut.png",
+      "hide": true
     },
     {
       "itemCode": "kajukatli",
@@ -443,7 +444,7 @@
       "item": "multigrain atta",
       "unitWeight": "5 kg",
       "unitPrice": 9.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -2175,20 +2176,19 @@
       "brand": "",
       "item": "fresh ginger",
       "unitWeight": "250 g",
-      "unitPrice": 1.89,
+      "unitPrice": 0.99,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ginger.png",
-      "hide": true
+      "imgUrl": "/images/ginger.png"
     },
     {
       "itemCode": "fgr250",
       "brand": "",
       "item": "fresh garlic",
       "unitWeight": "500 g",
-      "unitPrice": 3.49,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2281,7 +2281,7 @@
       "item": "Sapodila",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2293,7 +2293,7 @@
       "item": "Guava",
       "unitWeight": "1 stuck",
       "unitPrice": 2.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2395,7 +2395,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/gawar.png"
+      "imgUrl": "/images/gawar.png",
+      "hide": true
     },
     {
       "itemCode": "eggplant250",
@@ -2429,7 +2430,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 1.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2441,7 +2442,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2491,13 +2492,24 @@
       "brand": "",
       "item": "Arbi",
       "unitWeight": "250 g",
-      "unitPrice": 2.49,
-      "available": false,
+      "unitPrice": 2.29,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/arbi.png",
-      "hide": true
+      "imgUrl": "/images/arbi.png"
+    },
+    {
+      "itemCode": "snakegourd500",
+      "brand": "",
+      "item": "fresh indian snake gourd",
+      "unitWeight": "500 g",
+      "unitPrice": 4.1,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/snakeguard.png"
     },
     {
       "itemCode": "drsticks250",
@@ -2505,12 +2517,11 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/drstick.png",
-      "hide": true
+      "imgUrl": "/images/drstick.png"
     },
     {
       "itemCode": "drsticks500",
@@ -2518,12 +2529,11 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/drstick.png",
-      "hide": true
+      "imgUrl": "/images/drstick.png"
     },
     {
       "itemCode": "ridgegourd",
@@ -2544,7 +2554,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2556,8 +2566,8 @@
       "brand": "",
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
-      "unitPrice": 5.5,
-      "available": false,
+      "unitPrice": 5.89,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2566,15 +2576,14 @@
     {
       "itemCode": "ivygourd250",
       "brand": "",
-      "item": "fresh ivy gourd / Tindly",
+      "item": "fresh indian ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ivygourd.png",
-      "hide": true
+      "imgUrl": "/images/ivygourd.png"
     },
     {
       "itemCode": "roohafza",
@@ -2828,7 +2837,8 @@
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/gooddaycashew.png"
+      "imgUrl": "/images/gooddaycashew.png",
+      "hide": true
     },
     {
       "itemCode": "lcpv300",
@@ -2852,7 +2862,8 @@
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/annamsesameballs.png"
+      "imgUrl": "/images/annamsesameballs.png",
+      "hide": true
     },
     {
       "itemCode": "apeanutbar100",
@@ -2864,7 +2875,8 @@
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/annampeanutbar.png"
+      "imgUrl": "/images/annampeanutbar.png",
+      "hide": true
     },
     {
       "itemCode": "topiacochips200",
@@ -3044,7 +3056,8 @@
       "categoryCode": [
         "FRZ001"
       ],
-      "imgUrl": "/images/garlic_naan.png"
+      "imgUrl": "/images/garlic_naan.png",
+      "hide": true
     },
     {
       "itemCode": "parmxdvgtbl",
