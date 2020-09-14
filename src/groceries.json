@@ -597,12 +597,12 @@
       "imgUrl": "/images/uridblack.png"
     },
     {
-      "itemCode": "suc500",
-      "brand": "schani",
+      "itemCode": "trs500",
+      "brand": "trs",
       "item": "urid chilka",
       "unitWeight": "500 g",
       "unitPrice": 1.9,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
