@@ -590,7 +590,7 @@
       "item": "urid whole black",
       "unitWeight": "500 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
@@ -602,7 +602,7 @@
       "item": "urid chilka",
       "unitWeight": "500 g",
       "unitPrice": 1.9,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
@@ -2430,7 +2430,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 1.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2442,7 +2442,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2517,7 +2517,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2529,7 +2529,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2615,7 +2615,7 @@
       "item": "pani puri",
       "unitWeight": "30 stuck",
       "unitPrice": 4.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -2968,7 +2968,7 @@
       "item": "tea powder",
       "unitWeight": "450 g",
       "unitPrice": 5.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "T001"
       ],
