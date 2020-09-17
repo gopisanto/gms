@@ -274,8 +274,8 @@
       "brand": "annam",
       "item": "sona masoori rice",
       "unitWeight": "5 kg",
-      "unitPrice": 11.5,
-      "available": false,
+      "unitPrice": 9.99,
+      "available": true,
       "categoryCode": [
         "R001"
       ],
@@ -298,7 +298,7 @@
       "brand": "annam",
       "item": "ponni boiled rice",
       "unitWeight": "10 kg",
-      "unitPrice": 18.99,
+      "unitPrice": 19.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -386,8 +386,7 @@
       "categoryCode": [
         "R001"
       ],
-      "imgUrl": "/images/annamidlyrice10.png",
-      "hide": true
+      "imgUrl": "/images/annamidlyrice10.png"
     },
     {
       "itemCode": "air5",
@@ -453,20 +452,20 @@
     {
       "itemCode": "aca2",
       "brand": "aashirwaad",
-      "item": "whole wheat atta",
+      "item": "multigrain atta (ITC Brand)",
       "unitWeight": "2 kg",
       "unitPrice": 4.1,
       "available": true,
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/aashirwaad2.png",
+      "imgUrl": "/images/aamul.png",
       "hide": true
     },
     {
       "itemCode": "acaep5",
       "brand": "aashirwaad",
-      "item": "chapathi atta",
+      "item": "chapathi atta (ITC Brand)",
       "unitWeight": "5 kg",
       "unitPrice": 8.49,
       "available": true,
@@ -1038,14 +1037,15 @@
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/cocopowder.png"
+      "imgUrl": "/images/cocopowder.png",
+      "hide": true
     },
     {
-      "itemCode": "tmcp300",
-      "brand": "trs",
+      "itemCode": "amcp300",
+      "brand": "Annam",
       "item": "medium desiccated coconut powder",
-      "unitWeight": "300 g",
-      "unitPrice": 2.25,
+      "unitWeight": "250 g",
+      "unitPrice": 1.59,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1087,6 +1087,17 @@
         "RW001"
       ],
       "imgUrl": "/images/annamidlyrava1.png"
+    },
+    {
+      "itemCode": "awr1",
+      "brand": "priya",
+      "item": "wheat rawa",
+      "unitWeight": "1 kg",
+      "unitPrice": 2.89,
+      "available": true,
+      "categoryCode": [
+        "RW001"
+      ]
     },
     {
       "itemCode": "aur1",
@@ -1167,6 +1178,18 @@
       "item": "daniya whole / coriander whole",
       "unitWeight": "100 g",
       "unitPrice": 0.9,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/wholedhaniya.png"
+    },
+    {
+      "itemCode": "adw250",
+      "brand": "annam",
+      "item": "daniya whole / coriander whole",
+      "unitWeight": "250 g",
+      "unitPrice": 1.79,
       "available": true,
       "categoryCode": [
         "S0001"
@@ -1342,6 +1365,17 @@
       "imgUrl": "/images/ashokalimemild.png"
     },
     {
+      "itemCode": "pmp500",
+      "brand": "Priya",
+      "item": "Mango Avakkai Pickle (without garlic)",
+      "unitWeight": "300 g",
+      "unitPrice": 1.99,
+      "available": true,
+      "categoryCode": [
+        "P001"
+      ]
+    },
+    {
       "itemCode": "ashmp500",
       "brand": "Ashoka",
       "item": "Mango Pickle",
@@ -1426,6 +1460,17 @@
       "imgUrl": "/images/jpowder.png"
     },
     {
+      "itemCode": "mbb300",
+      "brand": "mtr",
+      "item": "bisibele bhath",
+      "unitWeight": "300 g",
+      "unitPrice": 2.29,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ]
+    },
+    {
       "itemCode": "msp200",
       "brand": "mtr",
       "item": "sambar powder",
@@ -1478,7 +1523,7 @@
       "brand": "MTR",
       "item": "gulab jamun mix",
       "unitWeight": "500 g",
-      "unitPrice": 5.29,
+      "unitPrice": 4.49,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -1490,7 +1535,7 @@
       "brand": "MTR",
       "item": "gulab jamun mix",
       "unitWeight": "200 g",
-      "unitPrice": 2.99,
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -1502,7 +1547,7 @@
       "brand": "mtr",
       "item": "puliyogare powder",
       "unitWeight": "200 g",
-      "unitPrice": 2.6,
+      "unitPrice": 2.29,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -2150,14 +2195,13 @@
       "itemCode": "mmn420",
       "brand": "maggi",
       "item": "masala noodles",
-      "unitWeight": "420 g",
+      "unitWeight": "420 g (6 pack)",
       "unitPrice": 2.69,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "PM001"
       ],
-      "imgUrl": "/images/maggi420.png",
-      "hide": true
+      "imgUrl": "/images/maggi420.png"
     },
     {
       "itemCode": "mmn70",
@@ -2857,26 +2901,24 @@
       "brand": "annam",
       "item": "sesame balls",
       "unitWeight": "200 g",
-      "unitPrice": 2.5,
+      "unitPrice": 1.69,
       "available": true,
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/annamsesameballs.png",
-      "hide": true
+      "imgUrl": "/images/annamsesameballs.png"
     },
     {
       "itemCode": "apeanutbar100",
       "brand": "annam",
       "item": "peanut bar",
       "unitWeight": "100 g",
-      "unitPrice": 1.3,
+      "unitPrice": 1.39,
       "available": true,
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/annampeanutbar.png",
-      "hide": true
+      "imgUrl": "/images/annampeanutbar.png"
     },
     {
       "itemCode": "topiacochips200",
@@ -2908,7 +2950,7 @@
       "item": "ring murukku",
       "unitWeight": "200 g",
       "unitPrice": 2.2,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
