@@ -1041,7 +1041,7 @@
       "hide": true
     },
     {
-      "itemCode": "amcp300",
+      "itemCode": "amcp250",
       "brand": "Annam",
       "item": "medium desiccated coconut powder",
       "unitWeight": "250 g",
@@ -1050,7 +1050,7 @@
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/coconutpowder_medium.png"
+      "imgUrl": "/images/desicated_coconut.png"
     },
     {
       "itemCode": "ahsd500",
@@ -1082,7 +1082,7 @@
       "item": "idly rawa",
       "unitWeight": "1 kg",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RW001"
       ],
@@ -1097,7 +1097,8 @@
       "available": true,
       "categoryCode": [
         "RW001"
-      ]
+      ],
+      "imgUrl": "/images/wheat_rawa.png"
     },
     {
       "itemCode": "aur1",
@@ -1105,7 +1106,7 @@
       "item": "roasted rawa / sooji / upma rawa",
       "unitWeight": "1 kg",
       "unitPrice": 2.79,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RW001"
       ],
@@ -1373,7 +1374,8 @@
       "available": true,
       "categoryCode": [
         "P001"
-      ]
+      ],
+      "imgUrl": "/images/priya_mango_pickle.png"
     },
     {
       "itemCode": "ashmp500",
@@ -1468,7 +1470,8 @@
       "available": true,
       "categoryCode": [
         "S0001"
-      ]
+      ],
+      "imgUrl": "/images/bisibeli_bhath.png"
     },
     {
       "itemCode": "msp200",
@@ -2335,9 +2338,9 @@
       "itemCode": "guava",
       "brand": "",
       "item": "Guava",
-      "unitWeight": "1 stuck",
-      "unitPrice": 2.49,
-      "available": false,
+      "unitWeight": "500 g",
+      "unitPrice": 4.19,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2411,7 +2414,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2439,8 +2442,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/gawar.png",
-      "hide": true
+      "imgUrl": "/images/gawar.png"
     },
     {
       "itemCode": "eggplant250",
@@ -2474,7 +2476,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 1.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2486,7 +2488,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2498,7 +2500,7 @@
       "item": "green banana",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2549,7 +2551,7 @@
       "item": "fresh indian snake gourd",
       "unitWeight": "500 g",
       "unitPrice": 4.1,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2561,7 +2563,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2573,7 +2575,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2597,13 +2599,12 @@
       "brand": "",
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
-      "unitPrice": 2.8,
-      "available": false,
+      "unitPrice": 2.99,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/bottle_gourd.png",
-      "hide": true
+      "imgUrl": "/images/bottle_gourd.png"
     },
     {
       "itemCode": "btlgourd",
@@ -2611,7 +2612,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 5.89,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
