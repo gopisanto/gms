@@ -2414,7 +2414,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2476,7 +2476,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
       "unitPrice": 1.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2488,7 +2488,7 @@
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
       "unitPrice": 2.8,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2551,7 +2551,7 @@
       "item": "fresh indian snake gourd",
       "unitWeight": "500 g",
       "unitPrice": 4.1,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2600,7 +2600,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2612,7 +2612,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "1 kg",
       "unitPrice": 5.89,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
