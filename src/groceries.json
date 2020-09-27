@@ -235,15 +235,14 @@
     {
       "itemCode": "dbr5",
       "brand": "daawat",
-      "item": "traditional basmathi rice",
+      "item": "original basmathi rice",
       "unitWeight": "5 kg",
-      "unitPrice": 15.0,
-      "available": false,
+      "unitPrice": 13.49,
+      "available": true,
       "categoryCode": [
         "R001"
       ],
-      "imgUrl": "/images/daawat.png",
-      "hide": true
+      "imgUrl": "/images/daawat.png"
     },
     {
       "itemCode": "lbr5",
@@ -256,6 +255,18 @@
         "R001"
       ],
       "imgUrl": "/images/lailabasmati5.png"
+    },
+    {
+      "itemCode": "hosmr10",
+      "brand": "hasina",
+      "item": "bio sona masoori rice",
+      "unitWeight": "5 kg",
+      "unitPrice": 8.39,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/hasinarice.png"
     },
     {
       "itemCode": "asmr10",
@@ -413,6 +424,17 @@
       "imgUrl": "/images/redrice.png"
     },
     {
+      "itemCode": "heerca1",
+      "brand": "heer",
+      "item": "chapathi atta",
+      "unitWeight": "5 kg",
+      "unitPrice": 6.29,
+      "available": true,
+      "categoryCode": [
+        "F001"
+      ]
+    },
+    {
       "itemCode": "sonaca1",
       "brand": "sona",
       "item": "chapathi atta",
@@ -536,8 +558,8 @@
       "imgUrl": "/images/mung_chilka.png"
     },
     {
-      "itemCode": "tt454",
-      "brand": "",
+      "itemCode": "schani",
+      "brand": "schani",
       "item": "tamarind",
       "unitWeight": "400 g",
       "unitPrice": 2.5,
@@ -589,7 +611,7 @@
       "item": "urid whole black",
       "unitWeight": "500 g",
       "unitPrice": 1.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
@@ -997,7 +1019,7 @@
       "item": "ragi flour",
       "unitWeight": "1 kg",
       "unitPrice": 2.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -1479,11 +1501,23 @@
       "item": "sambar powder",
       "unitWeight": "200 g",
       "unitPrice": 2.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
       "imgUrl": "/images/sampow.png"
+    },
+    {
+      "itemCode": "gupmamix200",
+      "brand": "gits",
+      "item": "upma mix",
+      "unitWeight": "200 g",
+      "unitPrice": 1.89,
+      "available": true,
+      "categoryCode": [
+        "RD001"
+      ],
+      "imgUrl": "/images/upma_mix.png"
     },
     {
       "itemCode": "gmeduvada200",
@@ -1575,7 +1609,7 @@
       "item": "tapioca (sabudana) medium",
       "unitWeight": "300 g",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "PM001"
       ],
@@ -1900,7 +1934,7 @@
       "item": "pav bhaji",
       "unitWeight": "100 g",
       "unitPrice": 1.55,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -2328,7 +2362,7 @@
       "item": "Sapodila",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2365,7 +2399,7 @@
       "item": "Elephant foot yam / Suran",
       "unitWeight": "250 g",
       "unitPrice": 2.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2414,7 +2448,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2438,7 +2472,7 @@
       "item": "fresh gawar",
       "unitWeight": "250 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2475,8 +2509,8 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
-      "unitPrice": 1.5,
-      "available": false,
+      "unitPrice": 1.59,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2487,8 +2521,8 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
-      "unitPrice": 2.8,
-      "available": false,
+      "unitPrice": 2.89,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2500,7 +2534,7 @@
       "item": "green banana",
       "unitWeight": "250 g",
       "unitPrice": 2.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2533,6 +2567,30 @@
       "hide": true
     },
     {
+      "itemCode": "tinda250",
+      "brand": "",
+      "item": "tinda",
+      "unitWeight": "250 g",
+      "unitPrice": 1.89,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/tinda.png"
+    },
+    {
+      "itemCode": "tinda500",
+      "brand": "",
+      "item": "tinda",
+      "unitWeight": "500 g",
+      "unitPrice": 3.7,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/tinda.png"
+    },
+    {
       "itemCode": "arbi250",
       "brand": "",
       "item": "Arbi",
@@ -2562,7 +2620,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2574,7 +2632,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2585,13 +2643,12 @@
       "brand": "",
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
-      "unitPrice": 3.8,
-      "available": false,
+      "unitPrice": 2.89,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ridgegourd.png",
-      "hide": true
+      "imgUrl": "/images/ridgegourd.png"
     },
     {
       "itemCode": "btlgourd500",
@@ -2623,7 +2680,7 @@
       "item": "fresh indian ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2631,10 +2688,10 @@
     },
     {
       "itemCode": "roohafza",
-      "brand": "",
+      "brand": "hamdard",
       "item": "Roohafza",
-      "unitWeight": "1 stuck (750 ml)",
-      "unitPrice": 2.99,
+      "unitWeight": "1 stuck (800 ml)",
+      "unitPrice": 2.79,
       "available": true,
       "categoryCode": [
         "SN0001"
@@ -2646,7 +2703,7 @@
       "brand": "haldirams",
       "item": "masala moong dal",
       "unitWeight": "1 stuck",
-      "unitPrice": 1.59,
+      "unitPrice": 1.49,
       "available": true,
       "categoryCode": [
         "SN0001"
@@ -2706,8 +2763,8 @@
       "brand": "haldirams",
       "item": "aloo bhujia ",
       "unitWeight": "200 g",
-      "unitPrice": 1.59,
-      "available": false,
+      "unitPrice": 1.49,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -2736,6 +2793,18 @@
         "SN0001"
       ],
       "imgUrl": "/images/cashew.png"
+    },
+    {
+      "itemCode": "talbukara200",
+      "brand": "trs",
+      "item": "alubukhara",
+      "unitWeight": "200 g",
+      "unitPrice": 3.99,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/alubukhara.png"
     },
     {
       "itemCode": "hdrydates250",
@@ -2774,12 +2843,12 @@
       "imgUrl": "/images/raisins.png"
     },
     {
-      "itemCode": "hpb200",
+      "itemCode": "hpb400",
       "brand": "haldirams",
       "item": "plain bhujia ",
-      "unitWeight": "200 g",
-      "unitPrice": 1.59,
-      "available": false,
+      "unitWeight": "400 g",
+      "unitPrice": 2.59,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -2802,34 +2871,32 @@
       "brand": "haldirams",
       "item": " masala boondi  ",
       "unitWeight": "200 g",
-      "unitPrice": 1.59,
+      "unitPrice": 1.49,
       "available": true,
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/hboondimasala.png",
-      "hide": true
+      "imgUrl": "/images/hboondimasala.png"
     },
     {
       "itemCode": "hls200",
       "brand": "haldirams",
       "item": " long sev",
       "unitWeight": "200 g",
-      "unitPrice": 1.6,
-      "available": false,
+      "unitPrice": 1.49,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
-      "imgUrl": "/images/hlongsev.png",
-      "hide": true
+      "imgUrl": "/images/hlongsev.png"
     },
     {
       "itemCode": "hs200",
       "brand": "haldirams",
       "item": "samosa",
       "unitWeight": "200 g",
-      "unitPrice": 1.6,
-      "available": false,
+      "unitPrice": 1.49,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -3046,7 +3113,7 @@
       "item": "tea powder",
       "unitWeight": "450 g",
       "unitPrice": 7.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "T001"
       ],
@@ -3098,8 +3165,7 @@
       "categoryCode": [
         "FRZ001"
       ],
-      "imgUrl": "/images/garlic_naan.png",
-      "hide": true
+      "imgUrl": "/images/garlic_naan.png"
     },
     {
       "itemCode": "parmxdvgtbl",
