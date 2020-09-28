@@ -1934,7 +1934,7 @@
       "item": "pav bhaji",
       "unitWeight": "100 g",
       "unitPrice": 1.55,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
@@ -2417,6 +2417,18 @@
       ],
       "imgUrl": "/images/amla.png",
       "hide": true
+    },
+    {
+      "itemCode": "onion",
+      "brand": "",
+      "item": "Onion",
+      "unitWeight": "500 g",
+      "unitPrice": 0.30,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/onion.png"
     },
     {
       "itemCode": "fgc100",
