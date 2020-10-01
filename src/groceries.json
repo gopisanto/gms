@@ -432,7 +432,8 @@
       "available": true,
       "categoryCode": [
         "F001"
-      ]
+      ],
+      "imgUrl": "/images/heeratta.png"
     },
     {
       "itemCode": "sonaca1",
