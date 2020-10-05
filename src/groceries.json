@@ -2355,7 +2355,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/smallonion.png"
+      "imgUrl": "/images/smallonion.png",
+      "hide": true
     },
     {
       "itemCode": "sapodila",
@@ -2367,7 +2368,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/sapodila.png"
+      "imgUrl": "/images/sapodila.png",
+      "hide": true
     },
     {
       "itemCode": "guava",
@@ -2379,7 +2381,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/guava.png"
+      "imgUrl": "/images/guava.png",
+      "hide": true
     },
     {
       "itemCode": "swpotato",
@@ -2404,7 +2407,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/yam.png"
+      "imgUrl": "/images/yam.png",
+      "hide": true
     },
     {
       "itemCode": "amla",
@@ -2489,7 +2493,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/gawar.png"
+      "imgUrl": "/images/gawar.png",
+      "hide": true
     },
     {
       "itemCode": "eggplant250",
@@ -2551,7 +2556,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/greenbanana.png"
+      "imgUrl": "/images/greenbanana.png",
+      "hide": true
     },
     {
       "itemCode": "karela250",
@@ -2589,7 +2595,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/tinda.png"
+      "imgUrl": "/images/tinda.png",
+      "hide": true
     },
     {
       "itemCode": "tinda500",
@@ -2601,7 +2608,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/tinda.png"
+      "imgUrl": "/images/tinda.png",
+      "hide": true
     },
     {
       "itemCode": "arbi250",
@@ -2625,7 +2633,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/snakeguard.png"
+      "imgUrl": "/images/snakeguard.png",
+      "hide": true
     },
     {
       "itemCode": "drsticks250",
@@ -2633,7 +2642,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2645,7 +2654,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2661,7 +2670,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ridgegourd.png"
+      "imgUrl": "/images/ridgegourd.png",
+      "hide": true
     },
     {
       "itemCode": "btlgourd500",
@@ -2669,19 +2679,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.99,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/bottle_gourd.png"
-    },
-    {
-      "itemCode": "btlgourd",
-      "brand": "",
-      "item": "fresh bottle gourd / louki",
-      "unitWeight": "1 kg",
-      "unitPrice": 5.89,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
