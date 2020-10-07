@@ -1020,7 +1020,7 @@
       "item": "ragi flour",
       "unitWeight": "1 kg",
       "unitPrice": 2.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -2679,7 +2679,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2866,12 +2866,23 @@
       "imgUrl": "/images/haldiramplainbhujia.png"
     },
     {
+      "itemCode": "hbp200",
+      "brand": "haldirams",
+      "item": "bhel puri",
+      "unitWeight": "200 g",
+      "unitPrice": 1.59,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ]
+    },
+    {
       "itemCode": "haio200",
       "brand": "haldirams",
-      "item": " all in one ",
+      "item": "all in one",
       "unitWeight": "200 g",
-      "unitPrice": 1.6,
-      "available": false,
+      "unitPrice": 1.59,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
