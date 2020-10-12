@@ -22,8 +22,31 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/coconut.png",
-      "hide": true
+      "imgUrl": "/images/coconut.png"
+    },
+    {
+      "itemCode": "mangoleaves",
+      "brand": "",
+      "item": "Mango Leaves",
+      "unitWeight": "1 st.",
+      "unitPrice": 3.99,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/mango_leaves.png"
+    },
+    {
+      "itemCode": "paan",
+      "brand": "",
+      "item": "betel leaves / paan",
+      "unitWeight": "1 st.",
+      "unitPrice": 3.99,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/betelleaves.png"
     },
     {
       "itemCode": "kajukatli",
@@ -477,13 +500,12 @@
       "brand": "aashirwaad",
       "item": "multigrain atta (ITC Brand)",
       "unitWeight": "2 kg",
-      "unitPrice": 4.1,
+      "unitPrice": 4.79,
       "available": true,
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/aamul.png",
-      "hide": true
+      "imgUrl": "/images/aamul.png"
     },
     {
       "itemCode": "acaep5",
@@ -2489,12 +2511,11 @@
       "item": "fresh gawar",
       "unitWeight": "250 g",
       "unitPrice": 1.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/gawar.png",
-      "hide": true
+      "imgUrl": "/images/gawar.png"
     },
     {
       "itemCode": "eggplant250",
@@ -2595,8 +2616,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/tinda.png",
-      "hide": true
+      "imgUrl": "/images/tinda.png"
     },
     {
       "itemCode": "tinda500",
@@ -2608,8 +2628,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/tinda.png",
-      "hide": true
+      "imgUrl": "/images/tinda.png"
     },
     {
       "itemCode": "arbi250",
@@ -2679,7 +2698,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
