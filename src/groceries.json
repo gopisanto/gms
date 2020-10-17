@@ -1,6 +1,18 @@
 {
   "groceries": [
     {
+      "itemCode": "diyas",
+      "brand": "",
+      "item": "Diwali clays / diyas",
+      "unitWeight": "2 st.",
+      "unitPrice": 2.59,
+      "available": true,
+      "categoryCode": [
+        "OTH001"
+      ],
+      "imgUrl": "/images/diyas.png"
+    },
+    {
       "itemCode": "betelleaves",
       "brand": "",
       "item": "Betel Leaves",
@@ -28,8 +40,8 @@
       "itemCode": "mangoleaves",
       "brand": "",
       "item": "Mango Leaves",
-      "unitWeight": "1 st.",
-      "unitPrice": 3.99,
+      "unitWeight": "10 st.",
+      "unitPrice": 2.49,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -40,8 +52,8 @@
       "itemCode": "paan",
       "brand": "",
       "item": "betel leaves / paan",
-      "unitWeight": "1 st.",
-      "unitPrice": 3.99,
+      "unitWeight": "50 g (8-10 st.)",
+      "unitPrice": 1.99,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -356,8 +368,8 @@
       "brand": "annam",
       "item": "ponni raw rice",
       "unitWeight": "5 kg",
-      "unitPrice": 12.8,
-      "available": false,
+      "unitPrice": 12.69,
+      "available": true,
       "categoryCode": [
         "R001"
       ],
@@ -444,7 +456,8 @@
       "categoryCode": [
         "R001"
       ],
-      "imgUrl": "/images/redrice.png"
+      "imgUrl": "/images/redrice.png",
+      "hide": true
     },
     {
       "itemCode": "heerca1",
@@ -486,14 +499,14 @@
     {
       "itemCode": "amaep5",
       "brand": "aashirwaad",
-      "item": "multigrain atta",
+      "item": "multigrain atta (Export pack)",
       "unitWeight": "5 kg",
       "unitPrice": 9.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
-      "imgUrl": "/images/aamul.png"
+      "imgUrl": "/images/aashirwaadmgatta5.png"
     },
     {
       "itemCode": "aca2",
@@ -509,8 +522,8 @@
     },
     {
       "itemCode": "acaep5",
-      "brand": "aashirwaad",
-      "item": "chapathi atta (ITC Brand)",
+      "brand": "aashirwaad ITC",
+      "item": "chapathi atta (Export pack)",
       "unitWeight": "5 kg",
       "unitPrice": 8.49,
       "available": true,
@@ -670,7 +683,7 @@
       "item": "toor dal",
       "unitWeight": "2 kg",
       "unitPrice": 6.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
@@ -1122,6 +1135,18 @@
       "imgUrl": "/images/kingsblacksalt.png"
     },
     {
+      "itemCode": "pir1",
+      "brand": "priya",
+      "item": "idly rawa",
+      "unitWeight": "1 kg",
+      "unitPrice": 2.69,
+      "available": true,
+      "categoryCode": [
+        "RW001"
+      ],
+      "imgUrl": "/images/priyaidlyrawa.png"
+    },
+    {
       "itemCode": "air1",
       "brand": "annam",
       "item": "idly rawa",
@@ -1148,15 +1173,14 @@
     {
       "itemCode": "aur1",
       "brand": "annam",
-      "item": "roasted rawa / sooji / upma rawa",
+      "item": "rawa / sooji / upma rawa",
       "unitWeight": "1 kg",
-      "unitPrice": 2.79,
-      "available": false,
+      "unitPrice": 2.49,
+      "available": true,
       "categoryCode": [
         "RW001"
       ],
-      "imgUrl": "/images/roastedrawa.png",
-      "hide": true
+      "imgUrl": "/images/roastedrawa.png"
     },
     {
       "itemCode": "abajrar1",
@@ -1363,6 +1387,18 @@
       "imgUrl": "/images/soda.png"
     },
     {
+      "itemCode": "afarfar250",
+      "brand": "Annam",
+      "item": "farfar / color vadam",
+      "unitWeight": "250 g",
+      "unitPrice": 1.19,
+      "available": true,
+      "categoryCode": [
+        "P001"
+      ],
+      "imgUrl": "/images/farfar.png"
+    },
+    {
       "itemCode": "lpmpg200",
       "brand": "lijjat",
       "item": "punjabi masala papadom gross",
@@ -1396,7 +1432,8 @@
       "categoryCode": [
         "P001"
       ],
-      "imgUrl": "/images/ashokasweetlime.png"
+      "imgUrl": "/images/ashokasweetlime.png",
+      "hide": true
     },
     {
       "itemCode": "ashlp500",
@@ -1480,7 +1517,8 @@
       "categoryCode": [
         "S0001"
       ],
-      "imgUrl": "/images/annamcuminpowder400.png"
+      "imgUrl": "/images/annamcuminpowder400.png",
+      "hide": true
     },
     {
       "itemCode": "tkj50",
@@ -1727,7 +1765,7 @@
       "brand": "annam",
       "item": "vermicelli / semiya (roasted)",
       "unitWeight": "500 g",
-      "unitPrice": 2.79,
+      "unitPrice": 2.69,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -1748,12 +1786,12 @@
       "imgUrl": "/images/trs_vermicelli.png"
     },
     {
-      "itemCode": "kgppp200",
-      "brand": "kings",
+      "itemCode": "agppp200",
+      "brand": "annam",
       "item": "golkappa / pani puri papad",
       "unitWeight": "200 g",
-      "unitPrice": 2,
-      "available": false,
+      "unitPrice": 1.99,
+      "available": true,
       "categoryCode": [
         "PM001"
       ],
@@ -2300,16 +2338,16 @@
       "imgUrl": "/images/garlic.png"
     },
     {
-      "itemCode": "hmggp500",
-      "brand": "home made",
+      "itemCode": "pggp300",
+      "brand": "priya",
       "item": "ginger / garlic paste",
-      "unitWeight": "500 g",
-      "unitPrice": 5.49,
+      "unitWeight": "300 g",
+      "unitPrice": 2.19,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/gingergarlicpaste.png"
+      "imgUrl": "/images/priyaggpaste.png"
     },
     {
       "itemCode": "hmpb500",
@@ -2320,7 +2358,8 @@
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "hide": true
     },
     {
       "itemCode": "hmdb500",
@@ -2331,7 +2370,8 @@
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "hide": true
     },
     {
       "itemCode": "hmib500",
@@ -2342,7 +2382,8 @@
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "hide": true
     },
     {
       "itemCode": "hmvb500",
@@ -2353,7 +2394,8 @@
       "available": true,
       "categoryCode": [
         "FR001"
-      ]
+      ],
+      "hide": true
     },
     {
       "itemCode": "hmpp500",
@@ -2365,7 +2407,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/hm_puliogarepaste.png"
+      "imgUrl": "/images/hm_puliogarepaste.png",
+      "hide": true
     },
     {
       "itemCode": "smonion",
@@ -2944,12 +2987,12 @@
       "imgUrl": "/images/haldiramsamosa.png"
     },
     {
-      "itemCode": "pgb80",
+      "itemCode": "pgb88",
       "brand": "parle g",
-      "item": "biscuits",
-      "unitWeight": "79.9 g",
-      "unitPrice": 0.55,
-      "available": false,
+      "item": "gluco biscuits",
+      "unitWeight": "88 g",
+      "unitPrice": 0.49,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -2958,10 +3001,10 @@
     {
       "itemCode": "pgb799",
       "brand": "parle g",
-      "item": "biscuits",
+      "item": "gluco biscuits",
       "unitWeight": "799 g",
       "unitPrice": 3.6,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -3101,6 +3144,18 @@
       "imgUrl": "/images/mustardoil.png"
     },
     {
+      "itemCode": "castor250",
+      "brand": "ktc",
+      "item": "castor oil",
+      "unitWeight": "250 ml",
+      "unitPrice": 3.39,
+      "available": true,
+      "categoryCode": [
+        "O001"
+      ],
+      "imgUrl": "/images/castoroil.png"
+    },
+    {
       "itemCode": "sesameoil250",
       "brand": "ktc",
       "item": "sesame oil",
@@ -3117,8 +3172,8 @@
       "brand": "Red Label",
       "item": "tea powder",
       "unitWeight": "450 g",
-      "unitPrice": 5.99,
-      "available": false,
+      "unitPrice": 6.19,
+      "available": true,
       "categoryCode": [
         "T001"
       ],
