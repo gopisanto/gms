@@ -2320,7 +2320,7 @@
       "item": "fresh ginger",
       "unitWeight": "250 g",
       "unitPrice": 0.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2555,7 +2555,7 @@
       "item": "fresh gawar",
       "unitWeight": "250 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
