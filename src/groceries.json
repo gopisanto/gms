@@ -30,7 +30,7 @@
       "item": "coconut with tail",
       "unitWeight": "1 st.",
       "unitPrice": 3.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -58,7 +58,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/betelleaves.png"
+      "imgUrl": "/images/betelleaves.png",
+      "hide": true
     },
     {
       "itemCode": "kajukatli",
@@ -2628,13 +2629,12 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
-      "unitPrice": 1.7,
-      "available": false,
+      "unitPrice": 1.69,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/karela1.png",
-      "hide": true
+      "imgUrl": "/images/karela1.png"
     },
     {
       "itemCode": "karela500",
@@ -2642,12 +2642,11 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
       "unitPrice": 3.1,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/karela1.png",
-      "hide": true
+      "imgUrl": "/images/karela1.png"
     },
     {
       "itemCode": "tinda250",
@@ -2679,7 +2678,7 @@
       "item": "Arbi",
       "unitWeight": "250 g",
       "unitPrice": 2.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2727,13 +2726,12 @@
       "brand": "",
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
-      "unitPrice": 2.89,
+      "unitPrice": 3.19,
       "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/ridgegourd.png",
-      "hide": true
+      "imgUrl": "/images/ridgegourd.png"
     },
     {
       "itemCode": "btlgourd500",
