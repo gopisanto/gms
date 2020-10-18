@@ -2654,7 +2654,7 @@
       "item": "tinda",
       "unitWeight": "250 g",
       "unitPrice": 1.89,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2666,7 +2666,7 @@
       "item": "tinda",
       "unitWeight": "500 g",
       "unitPrice": 3.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
