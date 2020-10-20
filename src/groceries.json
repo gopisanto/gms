@@ -683,8 +683,8 @@
       "brand": "trs / heera",
       "item": "toor dal",
       "unitWeight": "2 kg",
-      "unitPrice": 6.5,
-      "available": false,
+      "unitPrice": 5.49,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
@@ -1187,7 +1187,7 @@
       "itemCode": "abajrar1",
       "brand": "annam",
       "item": "bajra rawa",
-      "unitWeight": "1 kg",
+      "unitWeight": "500 g",
       "unitPrice": 2.39,
       "available": true,
       "categoryCode": [
@@ -1477,8 +1477,8 @@
       "brand": "Ashoka",
       "item": "Mixed Pickle",
       "unitWeight": "500 g",
-      "unitPrice": 3.2,
-      "available": false,
+      "unitPrice": 2.99,
+      "available": true,
       "categoryCode": [
         "P001"
       ],
@@ -2531,7 +2531,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2703,7 +2703,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2715,7 +2715,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2727,7 +2727,7 @@
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2739,7 +2739,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2751,7 +2751,7 @@
       "item": "fresh indian ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2914,11 +2914,11 @@
       "imgUrl": "/images/raisins.png"
     },
     {
-      "itemCode": "hpb400",
+      "itemCode": "hpb200",
       "brand": "haldirams",
       "item": "plain bhujia ",
-      "unitWeight": "400 g",
-      "unitPrice": 2.59,
+      "unitWeight": "200 g",
+      "unitPrice": 1.49,
       "available": true,
       "categoryCode": [
         "SN0001"
@@ -3123,7 +3123,7 @@
       "item": "Pure Ayurvedic Ghee (100% natural)",
       "unitWeight": "750 ml / 675 g",
       "unitPrice": 10.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "O001"
       ],
@@ -3291,7 +3291,7 @@
       "item": "Methi Leaves",
       "unitWeight": "1 pack (310 g)",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FRZ001"
       ],
