@@ -2531,7 +2531,7 @@
       "item": "fresh coriander",
       "unitWeight": "1 Stuck",
       "unitPrice": 1.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2588,6 +2588,18 @@
       "hide": true
     },
     {
+      "itemCode": "mspinat",
+      "brand": "",
+      "item": "fresh malabar spinach",
+      "unitWeight": "250g",
+      "unitPrice": 2.49,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/mspinach.png"
+    },
+    {
       "itemCode": "okra250",
       "brand": "",
       "item": "fresh okra / bhendi",
@@ -2630,7 +2642,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.69,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2642,7 +2654,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
       "unitPrice": 3.1,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2703,7 +2715,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2715,7 +2727,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2727,7 +2739,7 @@
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2739,7 +2751,7 @@
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
       "unitPrice": 2.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2751,7 +2763,7 @@
       "item": "fresh indian ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
