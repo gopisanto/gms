@@ -3,7 +3,7 @@
     {
       "itemCode": "diyas",
       "brand": "",
-      "item": "Diwali clays / diyas",
+      "item": "Diwali clays / diyas (8 cm)",
       "unitWeight": "2 st.",
       "unitPrice": 2.59,
       "available": true,
@@ -42,7 +42,7 @@
       "item": "Mango Leaves",
       "unitWeight": "10 st.",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -67,7 +67,7 @@
       "item": "kaju katli",
       "unitWeight": "1 st.",
       "unitPrice": 4.45,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -695,7 +695,7 @@
       "brand": "trs",
       "item": "toor dal",
       "unitWeight": "500 g",
-      "unitPrice": 1.8,
+      "unitPrice": 1.7,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -948,7 +948,7 @@
       "item": "red chilli with stem",
       "unitWeight": "100 g",
       "unitPrice": 1.69,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -1771,8 +1771,7 @@
       "categoryCode": [
         "PM001"
       ],
-      "imgUrl": "/images/vermicellirost.png",
-      "hide": true
+      "imgUrl": "/images/vermicellirost.png"
     },
     {
       "itemCode": "avs200",
@@ -2793,6 +2792,7 @@
       ],
       "imgUrl": "/images/masalamoongdal.png"
     },
+
     {
       "itemCode": "hpanipuri",
       "brand": "haldirams",
@@ -2853,6 +2853,28 @@
       ],
       "imgUrl": "/images/haloobhujia.png"
     },
+    {
+      "itemCode": "hab200",
+      "brand": "haldirams",
+      "item": "bombay mix ",
+      "unitWeight": "200 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ]
+    },
+    {
+      "itemCode": "hab200",
+      "brand": "haldirams",
+      "item": " bhujia masala",
+      "unitWeight": "200 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ]
+          },
     {
       "itemCode": "dabur250",
       "brand": "dabur",
@@ -3135,7 +3157,7 @@
       "item": "Pure Ayurvedic Ghee (100% natural)",
       "unitWeight": "750 ml / 675 g",
       "unitPrice": 10.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "O001"
       ],
@@ -3181,7 +3203,7 @@
       "itemCode": "rltp450",
       "brand": "Red Label",
       "item": "tea powder",
-      "unitWeight": "450 g",
+      "unitWeight": "500 g",
       "unitPrice": 6.19,
       "available": true,
       "categoryCode": [
