@@ -62,11 +62,23 @@
       "hide": true
     },
     {
+      "itemCode": "khoya",
+      "brand": "Dairy Valley",
+      "item": "Khoya Barfi",
+      "unitWeight": "1 st. (300 g)",
+      "unitPrice": 4.59,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/khoya.png"
+    },
+    {
       "itemCode": "kajukatli",
       "brand": "Dairy Valley",
       "item": "kaju katli",
       "unitWeight": "1 st.",
-      "unitPrice": 4.45,
+      "unitPrice": 4.49,
       "available": true,
       "categoryCode": [
         "SN0001"
@@ -78,7 +90,7 @@
       "brand": "Dairy Valley",
       "item": "Motichoor Ladoo",
       "unitWeight": "1 st.",
-      "unitPrice": 4.45,
+      "unitPrice": 4.49,
       "available": true,
       "categoryCode": [
         "SN0001"
