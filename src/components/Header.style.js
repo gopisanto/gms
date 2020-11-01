@@ -3,7 +3,7 @@ import Logo from '../logo.png';
 export default (theme) => ({
   headerContainer: {
     display: 'flex',
-    justifyContent: 'center'
+    justifyContent: 'center',
   },
   header: {
     backgroundImage: `url(${Logo})`,

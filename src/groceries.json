@@ -305,6 +305,42 @@
       "imgUrl": "/images/hasinarice.png"
     },
     {
+      "itemCode": "dcsmr10",
+      "brand": "deccan",
+      "item": "crystal sona masoori rice",
+      "unitWeight": "10 kg",
+      "unitPrice": 17.99,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/dcsmr.png"
+    },
+    {
+      "itemCode": "dsmr10",
+      "brand": "deccan",
+      "item": "sona masoori rice",
+      "unitWeight": "10 kg",
+      "unitPrice": 17.49,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/dsmr.png"
+    },
+    {
+      "itemCode": "dsmrlgi10",
+      "brand": "deccan",
+      "item": "sona masoori rice (Low GI)",
+      "unitWeight": "10 kg",
+      "unitPrice": 17.49,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/dsmrlgi.png"
+    },
+    {
       "itemCode": "asmr10",
       "brand": "annam",
       "item": "sona masoori rice",
@@ -389,6 +425,18 @@
       "imgUrl": "/images/ponnirawrice.png"
     },
     {
+      "itemCode": "djsr5",
+      "brand": "deccan",
+      "item": "jeera samba rice (Ghee Rice)",
+      "unitWeight": "5 kg",
+      "unitPrice": 12.49,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/djsr.png"
+    },
+    {
       "itemCode": "amsr1",
       "brand": "annam",
       "item": "muttu samba rice",
@@ -412,6 +460,18 @@
       ]
     },
     {
+      "itemCode": "dbsmr9",
+      "brand": "deccan",
+      "item": "brown sona masoori rice",
+      "unitWeight": "9.08 kg",
+      "unitPrice": 19.49,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/dbsmr.png"
+    },
+    {
       "itemCode": "asmbr5",
       "brand": "annam",
       "item": "sona masuri brown rice",
@@ -422,6 +482,18 @@
         "R001"
       ],
       "imgUrl": "/images/brownrice.png"
+    },
+    {
+      "itemCode": "dir10",
+      "brand": "deccan",
+      "item": "idly rice",
+      "unitWeight": "10 kg",
+      "unitPrice": 18.79,
+      "available": true,
+      "categoryCode": [
+        "R001"
+      ],
+      "imgUrl": "/images/didlyrice.png"
     },
     {
       "itemCode": "air10",
@@ -1947,7 +2019,7 @@
       "item": "roasted chana",
       "unitWeight": "250 g",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
@@ -2854,18 +2926,19 @@
       "imgUrl": "/images/haloobhujia.png"
     },
     {
-      "itemCode": "hab200",
+      "itemCode": "hbmbm200",
       "brand": "haldirams",
-      "item": "bombay mix ",
+      "item": "bombay mixture",
       "unitWeight": "200 g",
       "unitPrice": 1.49,
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/bmbmixture.png"
     },
     {
-      "itemCode": "hab200",
+      "itemCode": "hbm200",
       "brand": "haldirams",
       "item": " bhujia masala",
       "unitWeight": "200 g",
@@ -2873,8 +2946,9 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
-          },
+      ],
+      "imgUrl": "/images/bhujia.png"
+    },
     {
       "itemCode": "dabur250",
       "brand": "dabur",
@@ -2968,7 +3042,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/bhelpuri.png"
     },
     {
       "itemCode": "haio200",
