@@ -517,7 +517,8 @@
       "categoryCode": [
         "R001"
       ],
-      "imgUrl": "/images/annamidlyrice10.png"
+      "imgUrl": "/images/annamidlyrice10.png",
+      "hide": true
     },
     {
       "itemCode": "air5",
@@ -587,7 +588,7 @@
       "item": "multigrain atta (Export pack)",
       "unitWeight": "5 kg",
       "unitPrice": 9.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -2564,13 +2565,12 @@
       "brand": "",
       "item": "Amla",
       "unitWeight": "250 g",
-      "unitPrice": 2.5,
-      "available": false,
+      "unitPrice": 2.49,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/amla.png",
-      "hide": true
+      "imgUrl": "/images/amla.png"
     },
     {
       "itemCode": "onion",
@@ -2607,6 +2607,18 @@
         "FR001"
       ],
       "imgUrl": "/images/gchilli.png"
+    },
+    {
+      "itemCode": "curryleaves",
+      "brand": "",
+      "item": "fresh curry leaves",
+      "unitWeight": "1 Stuck (30 g approximately)",
+      "unitPrice": 2.99,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/curryleaves.png"
     },
     {
       "itemCode": "coriander1",
@@ -2676,7 +2688,7 @@
       "item": "fresh malabar spinach",
       "unitWeight": "250g",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2748,8 +2760,8 @@
       "brand": "",
       "item": "tinda",
       "unitWeight": "250 g",
-      "unitPrice": 1.89,
-      "available": false,
+      "unitPrice": 1.99,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2798,7 +2810,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2822,7 +2834,7 @@
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
