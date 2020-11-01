@@ -2772,8 +2772,8 @@
       "brand": "",
       "item": "tinda",
       "unitWeight": "500 g",
-      "unitPrice": 3.7,
-      "available": false,
+      "unitPrice": 3.79,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2822,7 +2822,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
