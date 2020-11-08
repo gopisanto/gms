@@ -10,19 +10,8 @@
       "categoryCode": [
         "OTH001"
       ],
-      "imgUrl": "/images/diyas.png"
-    },
-    {
-      "itemCode": "betelleaves",
-      "brand": "",
-      "item": "Betel Leaves",
-      "unitWeight": "50 g (8 - 10 stuck)",
-      "unitPrice": 1.99,
-      "available": false,
-      "categoryCode": [
-        "FR001"
-      ],
-      "imgUrl": "/images/betelleaves.png"
+      "imgUrl": "/images/diyas.png",
+      "hide": true
     },
     {
       "itemCode": "coconut",
@@ -30,7 +19,7 @@
       "item": "coconut with tail",
       "unitWeight": "1 st.",
       "unitPrice": 3.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -42,7 +31,7 @@
       "item": "Mango Leaves",
       "unitWeight": "10 st.",
       "unitPrice": 2.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -58,8 +47,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/betelleaves.png",
-      "hide": true
+      "imgUrl": "/images/betelleaves.png"
     },
     {
       "itemCode": "khoya",
@@ -612,7 +600,7 @@
       "item": "chapathi atta (Export pack)",
       "unitWeight": "5 kg",
       "unitPrice": 8.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -1555,7 +1543,8 @@
       "categoryCode": [
         "P001"
       ],
-      "imgUrl": "/images/ashokamangomild.png"
+      "imgUrl": "/images/ashokamangomild.png",
+      "hide": true
     },
     {
       "itemCode": "ashmxdp500",
@@ -1748,7 +1737,8 @@
       "categoryCode": [
         "PM001"
       ],
-      "imgUrl": "/images/tapsmall.png"
+      "imgUrl": "/images/tapsmall.png",
+      "hide": true
     },
     {
       "itemCode": "ttm300",
@@ -2570,7 +2560,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/amla.png"
+      "imgUrl": "/images/amla.png",
+      "hide": true
     },
     {
       "itemCode": "onion",
@@ -2737,7 +2728,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
       "unitPrice": 1.69,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2749,7 +2740,7 @@
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
       "unitPrice": 3.2,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2761,7 +2752,7 @@
       "item": "tinda",
       "unitWeight": "250 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2773,7 +2764,7 @@
       "item": "tinda",
       "unitWeight": "500 g",
       "unitPrice": 3.79,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2810,7 +2801,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2822,7 +2813,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
