@@ -35,7 +35,8 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/mango_leaves.png"
+      "imgUrl": "/images/mango_leaves.png",
+      "hide": true
     },
     {
       "itemCode": "paan",
@@ -136,7 +137,7 @@
     {
       "itemCode": "hp100",
       "brand": "Schani / Annam",
-      "item": "haldi power",
+      "item": "haldi powder",
       "unitWeight": "100 g",
       "unitPrice": 0.95,
       "available": true,
@@ -148,7 +149,7 @@
     {
       "itemCode": "hp400",
       "brand": "Schani / Annam",
-      "item": "haldi power",
+      "item": "haldi powder",
       "unitWeight": "400 g",
       "unitPrice": 2.59,
       "available": true,
@@ -193,6 +194,18 @@
         "PJ001"
       ],
       "imgUrl": "/images/cottonwicks.png"
+    },
+    {
+      "itemCode": "acw",
+      "brand": "Annam",
+      "item": "Annam tree cotton wicks for pooja",
+      "unitWeight": "100 pc",
+      "unitPrice": 1.59,
+      "available": true,
+      "categoryCode": [
+        "PJ001"
+      ],
+      "imgUrl": "/images/awicks.png"
     },
     {
       "itemCode": "hkpcw",
@@ -262,7 +275,7 @@
       "item": "Basmati rice",
       "unitWeight": "10 kg",
       "unitPrice": 24.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "R001"
       ],
@@ -381,7 +394,7 @@
       "brand": "annam",
       "item": "ponni boiled rice",
       "unitWeight": "10 kg",
-      "unitPrice": 19.99,
+      "unitPrice": 20.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -393,7 +406,7 @@
       "brand": "annam",
       "item": "ponni boiled rice",
       "unitWeight": "5 kg",
-      "unitPrice": 9.99,
+      "unitPrice": 10.99,
       "available": true,
       "categoryCode": [
         "R001"
@@ -505,8 +518,7 @@
       "categoryCode": [
         "R001"
       ],
-      "imgUrl": "/images/annamidlyrice10.png",
-      "hide": true
+      "imgUrl": "/images/annamidlyrice10.png"
     },
     {
       "itemCode": "air5",
@@ -539,7 +551,7 @@
       "item": "chapathi atta",
       "unitWeight": "5 kg",
       "unitPrice": 6.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -600,7 +612,7 @@
       "item": "chapathi atta (Export pack)",
       "unitWeight": "5 kg",
       "unitPrice": 8.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -757,6 +769,18 @@
       "item": "toor dal",
       "unitWeight": "2 kg",
       "unitPrice": 5.49,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/toordal.png"
+    },
+    {
+      "itemCode": "btd2",
+      "brand": "banno",
+      "item": "toor dal",
+      "unitWeight": "2 kg",
+      "unitPrice": 4.75,
       "available": true,
       "categoryCode": [
         "DL001"
@@ -1021,7 +1045,19 @@
       "item": "red chilli with stem",
       "unitWeight": "100 g",
       "unitPrice": 1.69,
-      "available": false,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/redchilli.png"
+    },
+    {
+      "itemCode": "annamredchilli250",
+      "brand": "Annam",
+      "item": "red chilli with stem",
+      "unitWeight": "250 g",
+      "unitPrice": 3.29,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
@@ -1136,18 +1172,6 @@
       "imgUrl": "/images/ragiflour.png"
     },
     {
-      "itemCode": "tcmc1.5",
-      "brand": "trs",
-      "item": "corn meal coarse",
-      "unitWeight": "1.5 kg",
-      "unitPrice": 3.2,
-      "available": true,
-      "categoryCode": [
-        "F001"
-      ],
-      "imgUrl": "/images/cornmeal.png"
-    },
-    {
       "itemCode": "tcornflour500",
       "brand": "trs",
       "item": "corn flour",
@@ -1238,7 +1262,7 @@
       "item": "wheat rawa",
       "unitWeight": "1 kg",
       "unitPrice": 2.89,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RW001"
       ],
@@ -1461,11 +1485,35 @@
       "imgUrl": "/images/soda.png"
     },
     {
+      "itemCode": "eno150",
+      "brand": "ENO",
+      "item": "fruit salt",
+      "unitWeight": "150 g",
+      "unitPrice": 4.1,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ],
+      "imgUrl": "/images/eno.png"
+    },
+    {
       "itemCode": "afarfar250",
       "brand": "Annam",
       "item": "farfar / color vadam",
       "unitWeight": "250 g",
       "unitPrice": 1.19,
+      "available": true,
+      "categoryCode": [
+        "P001"
+      ],
+      "imgUrl": "/images/farfar.png"
+    },
+    {
+      "itemCode": "afarfar500",
+      "brand": "Annam",
+      "item": "farfar / color vadam",
+      "unitWeight": "500 g",
+      "unitPrice": 1.79,
       "available": true,
       "categoryCode": [
         "P001"
@@ -1685,7 +1733,7 @@
       "item": "khatta dhokla mix",
       "unitWeight": "200 g",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "RD001"
       ],
@@ -1757,7 +1805,7 @@
       "brand": "annam",
       "item": "soya chunks/ meal maker (medium)",
       "unitWeight": "250 g",
-      "unitPrice": 1.5,
+      "unitPrice": 1.49,
       "available": true,
       "categoryCode": [
         "PM001"
@@ -1769,8 +1817,8 @@
       "brand": "annam",
       "item": "powa thick / rice flakes",
       "unitWeight": "1 kg",
-      "unitPrice": 3.4,
-      "available": false,
+      "unitPrice": 3.49,
+      "available": true,
       "categoryCode": [
         "PM001"
       ],
@@ -2021,8 +2069,20 @@
       "brand": "annam",
       "item": "roasted chana",
       "unitWeight": "250 g",
-      "unitPrice": 2.49,
-      "available": false,
+      "unitPrice": 2.39,
+      "available": true,
+      "categoryCode": [
+        "DL001"
+      ],
+      "imgUrl": "/images/rostcha.png"
+    },
+    {
+      "itemCode": "arc500",
+      "brand": "annam",
+      "item": "roasted chana",
+      "unitWeight": "500 g",
+      "unitPrice": 3.89,
+      "available": true,
       "categoryCode": [
         "DL001"
       ],
@@ -2034,7 +2094,7 @@
       "item": "fried onion",
       "unitWeight": "400 g",
       "unitPrice": 2.69,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -2106,7 +2166,7 @@
       "item": "chunky chat masala",
       "unitWeight": "100 g",
       "unitPrice": 1.55,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -2236,8 +2296,8 @@
       "itemCode": "mdm200",
       "brand": "mtr",
       "item": "instant dosa mix",
-      "unitWeight": "500 g",
-      "unitPrice": 2.49,
+      "unitWeight": "200 g",
+      "unitPrice": 1.29,
       "available": true,
       "categoryCode": [
         "RD001"
@@ -2346,6 +2406,18 @@
       "item": "pink peanuts",
       "unitWeight": "375 g",
       "unitPrice": 2.69,
+      "available": true,
+      "categoryCode": [
+        "SS001"
+      ],
+      "imgUrl": "/images/peanuts.png"
+    },
+    {
+      "itemCode": "tpp1",
+      "brand": "trs / heera",
+      "item": "pink peanuts",
+      "unitWeight": "1 kg",
+      "unitPrice": 6.89,
       "available": true,
       "categoryCode": [
         "SS001"
@@ -3066,7 +3138,7 @@
       "item": "all in one",
       "unitWeight": "200 g",
       "unitPrice": 1.59,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -3210,8 +3282,8 @@
       "brand": "annam",
       "item": "banana chips",
       "unitWeight": "170 g",
-      "unitPrice": 1.8,
-      "available": false,
+      "unitPrice": 1.79,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -3355,7 +3427,7 @@
       "item": "Fresh paneer",
       "unitWeight": "1 kg",
       "unitPrice": 8.5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
