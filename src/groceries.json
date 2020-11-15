@@ -2615,12 +2615,11 @@
       "item": "Elephant foot yam / Suran",
       "unitWeight": "250 g",
       "unitPrice": 2.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/yam.png",
-      "hide": true
+      "imgUrl": "/images/yam.png"
     },
     {
       "itemCode": "amla",
@@ -2799,8 +2798,8 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "250 g",
-      "unitPrice": 1.69,
-      "available": false,
+      "unitPrice": 1.89,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2811,8 +2810,8 @@
       "brand": "",
       "item": "fresh karela / bitter gourd",
       "unitWeight": "500 g",
-      "unitPrice": 3.2,
-      "available": false,
+      "unitPrice": 3.39,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2848,7 +2847,7 @@
       "item": "Arbi",
       "unitWeight": "250 g",
       "unitPrice": 2.29,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2873,7 +2872,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2885,7 +2884,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
