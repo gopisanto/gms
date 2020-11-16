@@ -68,7 +68,7 @@
       "item": "kaju katli",
       "unitWeight": "1 st.",
       "unitPrice": 4.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -80,7 +80,7 @@
       "item": "Motichoor Ladoo",
       "unitWeight": "1 st.",
       "unitPrice": 4.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -2920,7 +2920,7 @@
       "item": "fresh indian ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -3041,7 +3041,7 @@
       "item": "chyawanprash special",
       "unitWeight": "250 g",
       "unitPrice": 4.3,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
