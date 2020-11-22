@@ -2394,7 +2394,7 @@
       "item": "chilli powder extra hot",
       "unitWeight": "400 g",
       "unitPrice": 2.79,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "S0001"
       ],
@@ -2587,8 +2587,8 @@
       "itemCode": "guava",
       "brand": "",
       "item": "Guava",
-      "unitWeight": "500 g",
-      "unitPrice": 4.19,
+      "unitWeight": "250 g",
+      "unitPrice": 2.39,
       "available": true,
       "categoryCode": [
         "FR001"
