@@ -3148,7 +3148,7 @@
       "item": "all in one",
       "unitWeight": "200 g",
       "unitPrice": 1.59,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
