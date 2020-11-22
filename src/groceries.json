@@ -697,7 +697,7 @@
       "item": "urid dal gota",
       "unitWeight": "1 kg",
       "unitPrice": 2.89,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
