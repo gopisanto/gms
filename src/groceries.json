@@ -44,7 +44,7 @@
       "item": "betel leaves / paan",
       "unitWeight": "50 g (8-10 st.)",
       "unitPrice": 1.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -56,7 +56,7 @@
       "item": "Khoya Barfi",
       "unitWeight": "1 st. (300 g)",
       "unitPrice": 4.59,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -576,7 +576,7 @@
       "item": "chakki fresh atta",
       "unitWeight": "5 kg",
       "unitPrice": 7.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "F001"
       ],
@@ -769,7 +769,7 @@
       "item": "toor dal",
       "unitWeight": "2 kg",
       "unitPrice": 5.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "DL001"
       ],
@@ -785,7 +785,7 @@
       "categoryCode": [
         "DL001"
       ],
-      "imgUrl": "/images/toordal.png"
+      "imgUrl": "/images/btoordal.png"
     },
     {
       "itemCode": "ttd500",
@@ -2593,8 +2593,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/guava.png",
-      "hide": true
+      "imgUrl": "/images/guava.png"
     },
     {
       "itemCode": "swpotato",
@@ -2615,7 +2614,7 @@
       "item": "Elephant foot yam / Suran",
       "unitWeight": "250 g",
       "unitPrice": 2.29,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2761,7 +2760,7 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "250 g",
-      "unitPrice": 1.59,
+      "unitPrice": 1.79,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2773,7 +2772,7 @@
       "brand": "",
       "item": "fresh okra / bhendi",
       "unitWeight": "500 g",
-      "unitPrice": 2.89,
+      "unitPrice": 2.99,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2872,7 +2871,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2884,7 +2883,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2903,11 +2902,23 @@
       "imgUrl": "/images/ridgegourd.png"
     },
     {
+      "itemCode": "icucumber250",
+      "brand": "",
+      "item": "fresh indian cucumber",
+      "unitWeight": "250 g",
+      "unitPrice": 2.1,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/icucumber.png"
+    },
+    {
       "itemCode": "btlgourd500",
       "brand": "",
       "item": "fresh bottle gourd / louki",
       "unitWeight": "500 g",
-      "unitPrice": 2.99,
+      "unitPrice": 3.1,
       "available": true,
       "categoryCode": [
         "FR001"
@@ -2920,7 +2931,7 @@
       "item": "fresh indian ivy gourd / Tindly",
       "unitWeight": "250 g",
       "unitPrice": 2.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -3450,7 +3461,7 @@
       "item": "Tandoori Garlic Naan",
       "unitWeight": "1 pack",
       "unitPrice": 2.6,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FRZ001"
       ],
