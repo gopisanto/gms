@@ -8,6 +8,14 @@
     "bellName": ""
   },
   {
+    "name": "Valli berlin",
+    "mobile": "+49 17656835322",
+    "whatsapp": "+49 17656835322",
+    "address": "Wiesenstraße 46, 13357 Berlin",
+    "floor": "",
+    "bellName": "Rajkumar Subbiah"
+  },
+  {
     "name": "Josy+U2",
     "mobile": "",
     "whatsapp": "+919789015414",
@@ -75,9 +83,9 @@
     "name": "Ayesha",
     "mobile": "+4917656565630",
     "whatsapp": "+4917656565630",
-    "address": "Mittelstrasse 22 , 13055, Berlin",
-    "floor": "",
-    "bellName": ""
+    "address": "Rosenthaler Weg 22, 13127 Berlin",
+    "floor": "2nd floor",
+    "bellName": "Masthan sharif"
   },
   {
     "name": "Rajeswari",
