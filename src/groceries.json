@@ -19,7 +19,7 @@
       "item": "coconut with tail",
       "unitWeight": "1 st.",
       "unitPrice": 3.99,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2464,9 +2464,9 @@
       "itemCode": "fg250",
       "brand": "",
       "item": "fresh ginger",
-      "unitWeight": "250 g",
-      "unitPrice": 0.99,
-      "available": false,
+      "unitWeight": "100 g",
+      "unitPrice": 0.69,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -2630,8 +2630,7 @@
       "categoryCode": [
         "FR001"
       ],
-      "imgUrl": "/images/amla.png",
-      "hide": true
+      "imgUrl": "/images/amla.png"
     },
     {
       "itemCode": "onion",
@@ -2871,7 +2870,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "250 g",
       "unitPrice": 2.7,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2883,7 +2882,7 @@
       "item": "fresh drumsticks",
       "unitWeight": "500 g",
       "unitPrice": 5,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2895,7 +2894,7 @@
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FR001"
       ],
@@ -3040,7 +3039,7 @@
       "item": " bhujia masala",
       "unitWeight": "200 g",
       "unitPrice": 1.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -3124,7 +3123,7 @@
       "item": "plain bhujia ",
       "unitWeight": "200 g",
       "unitPrice": 1.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "SN0001"
       ],
@@ -3413,7 +3412,7 @@
       "item": "tea powder",
       "unitWeight": "450 g",
       "unitPrice": 7.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "T001"
       ],
@@ -3461,7 +3460,7 @@
       "item": "Tandoori Garlic Naan",
       "unitWeight": "1 pack",
       "unitPrice": 2.6,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "FRZ001"
       ],
