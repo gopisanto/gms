@@ -551,7 +551,7 @@
       "item": "chapathi atta",
       "unitWeight": "5 kg",
       "unitPrice": 6.19,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "F001"
       ],
@@ -575,8 +575,8 @@
       "brand": "pilsbury",
       "item": "chakki fresh atta",
       "unitWeight": "5 kg",
-      "unitPrice": 7.99,
-      "available": false,
+      "unitPrice": 7.49,
+      "available": true,
       "categoryCode": [
         "F001"
       ],

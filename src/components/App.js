@@ -40,6 +40,7 @@ function App({ classes: { app, filterMenu, groceries } }) {
   return (
     <div className={app}>
       <Header />
+      <h3>Important:- We will consider orders placed till 10th December 2020, since we will close and resume our services again from March 1st, 2021. Since we are going to India.</h3>
       <AppBar value={filter} onChange={onFilterChange} menuClickHandler={onMenuClick} onCartClick={onCartClick} />
       <div>
         <Switch>
