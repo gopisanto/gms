@@ -1607,6 +1607,17 @@
       "imgUrl": "/images/ashokamangomild.png"
     },
     {
+      "itemCode": "sgingerpowder100",
+      "brand": "schani",
+      "item": "ginger powder",
+      "unitWeight": "100 g",
+      "unitPrice": 1.1,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ]
+    },
+    {
       "itemCode": "tdp100",
       "brand": "trs",
       "item": "dhaniya powder",
@@ -1733,7 +1744,7 @@
       "item": "khatta dhokla mix",
       "unitWeight": "200 g",
       "unitPrice": 1.99,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "RD001"
       ],
@@ -1911,7 +1922,7 @@
     {
       "itemCode": "agppp200",
       "brand": "annam",
-      "item": "golkappa / pani puri papad",
+      "item": "gol gappa / pani puri papad",
       "unitWeight": "200 g",
       "unitPrice": 1.99,
       "available": true,
@@ -2161,12 +2172,23 @@
       "imgUrl": "/images/mdhamchur.png"
     },
     {
+      "itemCode": "mpanipurim100",
+      "brand": "mdh",
+      "item": "pani puri masala",
+      "unitWeight": "100 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "S0001"
+      ]
+    },
+    {
       "itemCode": "mcm100",
       "brand": "mdh",
       "item": "chunky chat masala",
       "unitWeight": "100 g",
       "unitPrice": 1.55,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "S0001"
       ],
@@ -2949,6 +2971,28 @@
       "imgUrl": "/images/roohafza.png"
     },
     {
+      "itemCode": "hkhattameeta",
+      "brand": "haldirams",
+      "item": "Khatta meetha mix",
+      "unitWeight": "1 stuck",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ]
+    },
+    {
+      "itemCode": "hkhajumixture",
+      "brand": "haldirams",
+      "item": "kaju mixture",
+      "unitWeight": "1 stuck",
+      "unitPrice": 1.89,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ]
+    },
+    {
       "itemCode": "hmasmoongdal",
       "brand": "haldirams",
       "item": "masala moong dal",
@@ -2960,14 +3004,13 @@
       ],
       "imgUrl": "/images/masalamoongdal.png"
     },
-
     {
       "itemCode": "hpanipuri",
       "brand": "haldirams",
       "item": "pani puri",
       "unitWeight": "30 stuck",
       "unitPrice": 4.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -2979,7 +3022,7 @@
       "item": "soan papdi(veg. ghee)",
       "unitWeight": "250 g",
       "unitPrice": 3.5,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
@@ -3039,11 +3082,105 @@
       "item": " bhujia masala",
       "unitWeight": "200 g",
       "unitPrice": 1.49,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
       "imgUrl": "/images/bhujia.png"
+    },
+    {
+      "itemCode": "hpb200",
+      "brand": "haldirams",
+      "item": "plain bhujia ",
+      "unitWeight": "200 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/haldiramplainbhujia.png"
+    },
+    {
+      "itemCode": "hbp200",
+      "brand": "haldirams",
+      "item": "bhel puri",
+      "unitWeight": "200 g",
+      "unitPrice": 1.59,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/bhelpuri.png"
+    },
+    {
+      "itemCode": "haio200",
+      "brand": "haldirams",
+      "item": "all in one",
+      "unitWeight": "200 g",
+      "unitPrice": 1.59,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/allinone.png"
+    },
+    {
+      "itemCode": "hmb200",
+      "brand": "haldirams",
+      "item": " masala boondi  ",
+      "unitWeight": "200 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/hboondimasala.png"
+    },
+    {
+      "itemCode": "hmuruku200",
+      "brand": "haldirams",
+      "item": "muruku",
+      "unitWeight": "200 g",
+      "unitPrice": 1.69,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ]
+    },
+    {
+      "itemCode": "hnavrattan200",
+      "brand": "haldirams",
+      "item": "navrattan mix",
+      "unitWeight": "200 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ]
+    },
+    {
+      "itemCode": "hls200",
+      "brand": "haldirams",
+      "item": " long sev",
+      "unitWeight": "200 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/hlongsev.png"
+    },
+    {
+      "itemCode": "hs200",
+      "brand": "haldirams",
+      "item": "samosa",
+      "unitWeight": "200 g",
+      "unitPrice": 1.49,
+      "available": true,
+      "categoryCode": [
+        "SN0001"
+      ],
+      "imgUrl": "/images/haldiramsamosa.png"
     },
     {
       "itemCode": "dabur250",
@@ -3118,78 +3255,6 @@
       "imgUrl": "/images/raisins.png"
     },
     {
-      "itemCode": "hpb200",
-      "brand": "haldirams",
-      "item": "plain bhujia ",
-      "unitWeight": "200 g",
-      "unitPrice": 1.49,
-      "available": false,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/haldiramplainbhujia.png"
-    },
-    {
-      "itemCode": "hbp200",
-      "brand": "haldirams",
-      "item": "bhel puri",
-      "unitWeight": "200 g",
-      "unitPrice": 1.59,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/bhelpuri.png"
-    },
-    {
-      "itemCode": "haio200",
-      "brand": "haldirams",
-      "item": "all in one",
-      "unitWeight": "200 g",
-      "unitPrice": 1.59,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/allinone.png"
-    },
-    {
-      "itemCode": "hmb200",
-      "brand": "haldirams",
-      "item": " masala boondi  ",
-      "unitWeight": "200 g",
-      "unitPrice": 1.49,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/hboondimasala.png"
-    },
-    {
-      "itemCode": "hls200",
-      "brand": "haldirams",
-      "item": " long sev",
-      "unitWeight": "200 g",
-      "unitPrice": 1.49,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/hlongsev.png"
-    },
-    {
-      "itemCode": "hs200",
-      "brand": "haldirams",
-      "item": "samosa",
-      "unitWeight": "200 g",
-      "unitPrice": 1.49,
-      "available": true,
-      "categoryCode": [
-        "SN0001"
-      ],
-      "imgUrl": "/images/haldiramsamosa.png"
-    },
-    {
       "itemCode": "pgb88",
       "brand": "parle g",
       "item": "gluco biscuits",
@@ -3219,7 +3284,7 @@
       "item": "hide&seek bourbon",
       "unitWeight": "150 g",
       "unitPrice": 1.1,
-      "available": false,
+      "available": true,
       "categoryCode": [
         "SN0001"
       ],
