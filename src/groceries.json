@@ -2979,7 +2979,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/hkhattameetha.png"
     },
     {
       "itemCode": "hkhajumixture",
@@ -2990,7 +2991,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/hkajumix.png"
     },
     {
       "itemCode": "hmasmoongdal",
@@ -3145,7 +3147,8 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/hmuruku.png"
     },
     {
       "itemCode": "hnavrattan200",
@@ -3156,12 +3159,13 @@
       "available": true,
       "categoryCode": [
         "SN0001"
-      ]
+      ],
+      "imgUrl": "/images/hnavrattan.png"
     },
     {
       "itemCode": "hls200",
       "brand": "haldirams",
-      "item": " long sev",
+      "item": "long sev",
       "unitWeight": "200 g",
       "unitPrice": 1.49,
       "available": true,
