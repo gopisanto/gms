@@ -8,6 +8,54 @@
     "bellName": ""
   },
   {
+    "name": "Tati",
+    "mobile": "+49 17671067836",
+    "whatsapp": "+49 17671067836",
+    "address": "Theodor-Fontane-Allee 26, 12529, Berlin",
+    "floor": "",
+    "bellName": "Tati"
+  },
+  {
+    "name": "Jagan haselhorst",
+    "mobile": "+4915252594816",
+    "whatsapp": "+4915252594816",
+    "address": "David-Francke-Str. 11, 13587, Berlin",
+    "floor": "",
+    "bellName": "Jagankumar Kothandan"
+  },
+  {
+    "name": "Sojjwal Landsbergerallee",
+    "mobile": "",
+    "whatsapp": "+91 9823476919",
+    "address": "Neustrelitzer str 13, 13055, Berlin",
+    "floor": "",
+    "bellName": "Sojjwal Kelkar"
+  },
+  {
+    "name": "Sirisha heerstrasse",
+    "mobile": "+49 17645725080",
+    "whatsapp": "+49 17645725080",
+    "address": "Heerstraße 394, 13593, Berlin",
+    "floor": "3rd floor",
+    "bellName": "pachigulla/Nalam"
+  },
+  {
+    "name": "saranya stresow",
+    "mobile": "+49 15215621178",
+    "whatsapp": "+49 15215621178",
+    "address": "Plantage 8, 13597, Berlin",
+    "floor": "3rd floor",
+    "bellName": ""
+  },
+  {
+    "name": "Jagriti 110",
+    "mobile": "+49 15226049443",
+    "whatsapp": "+49 15226049443",
+    "address": "Drosselweg 4, 14195, Berlin",
+    "floor": "ground",
+    "bellName": ""
+  },
+  {
     "name": "Raju Eluvaka",
     "mobile": "",
     "whatsapp": "+91 9550966090",
