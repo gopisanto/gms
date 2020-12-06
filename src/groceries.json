@@ -2606,6 +2606,17 @@
       "hide": true
     },
     {
+      "itemCode": "capple",
+      "brand": "",
+      "item": "custard apple",
+      "unitWeight": "1 st",
+      "unitPrice": 6.89,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ]
+    },
+    {
       "itemCode": "guava",
       "brand": "",
       "item": "Guava",
@@ -2648,7 +2659,7 @@
       "item": "Amla",
       "unitWeight": "250 g",
       "unitPrice": 2.49,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2916,7 +2927,7 @@
       "item": "fresh ridge gourd / turia",
       "unitWeight": "500 g",
       "unitPrice": 3.19,
-      "available": true,
+      "available": false,
       "categoryCode": [
         "FR001"
       ],
@@ -2945,6 +2956,30 @@
         "FR001"
       ],
       "imgUrl": "/images/bottle_gourd.png"
+    },
+    {
+      "itemCode": "broadbeans",
+      "brand": "",
+      "item": "fresh Broad beans / papdi",
+      "unitWeight": "250 g",
+      "unitPrice": 2.39,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/broadbeans.png"
+    },
+    {
+      "itemCode": "broadbeans500",
+      "brand": "",
+      "item": "fresh Broad beans / papdi",
+      "unitWeight": "500 g",
+      "unitPrice": 3.99,
+      "available": true,
+      "categoryCode": [
+        "FR001"
+      ],
+      "imgUrl": "/images/broadbeans.png"
     },
     {
       "itemCode": "ivygourd250",
