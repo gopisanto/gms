@@ -16,7 +16,7 @@ import Col from './Col';
 import "./App.css";
 import styles from './App.style';
 
-const holiday = true;
+const holiday = false;
 
 const Holiday = () => <div style={{fontSize: '22px', fontWeight: 'bold', display: 'flex', height: '100vh', overflow: 'auto', textAlign: 'center', alignItems: 'center'}}>
   We are not processing anymore orders for now, sorry for the inconvenience. We will inform you again once we start taking orders. Thank you and Be safe.
@@ -32,7 +32,7 @@ function App({ classes: { app, filterMenu, groceries } }) {
     setFilter(value);
   }
   const onItemClick = code => {
-    history.push('/');
+    history.push('/_temp');
     setFilter('');
     setFilterByCode(code);
   }
@@ -49,16 +49,15 @@ function App({ classes: { app, filterMenu, groceries } }) {
         &&
         <React.Fragment>
           <Header />
-          <h3>Important:- We will consider orders placed till 10th December 2020, since we will close and resume our services again from March 1st, 2021. Since we are going to India.</h3>
           <AppBar value={filter} onChange={onFilterChange} menuClickHandler={onMenuClick} onCartClick={onCartClick} />
         </React.Fragment>
       }
       <div>
         <Switch>
           <Route path='/' exact>
-            <Holiday />
+            { holiday && <Holiday /> }
           </Route>
-          <Route path="/abcdhfjhsjgfhgsfhjgshfbbewhiryhyweirhjbhfghjghjfgjhsdfgjgsdbcnbsdjfghjsdfgjsdfg" exact>
+          <Route path="/_temp" exact>
             <div className="groceryContent">
               <Col className={filterMenu}>
                 <FilterMenu itemClickHandler={onItemClick} />
